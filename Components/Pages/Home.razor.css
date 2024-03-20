@@ -1,31 +1,30 @@
 .bg-nav {
-    background: #27272a89;
+    background: transparent;
     backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
-    
 }
-.search {
-    max-width: 500px;
-    min-width: 300px;
+.border-search {
+    border-radius: 10px !important;
 }
-.bg-red {
-    background: rgb(231, 139, 143);
+.bg-blue {
     background: radial-gradient(
             circle,
-            rgb(235, 105, 112) 30%,
-            rgb(245, 40, 40) 100%
+            #0e81fa 30%,
+            #005ebe 100%
     );
 }
+.text-blue {
+    color: #092338;
+}
+
 .content {
-    padding-top: 75px;
+    margin-top: 75px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     gap: 10px;
     justify-content: center;
-    width: 100vw;
-    height: 100vh;
     overflow-y: auto;
+    padding-bottom: 20px;
 }
 .chemical_element {
     padding: 5px;
@@ -39,6 +38,11 @@
     font-family: roboto;
     font-size: 20px;
     border-radius: 10px;
+    border:transparent;
+}
+
+.photo {
+    width: 100vw;
 }
 h1 {
     font-size: 83px;

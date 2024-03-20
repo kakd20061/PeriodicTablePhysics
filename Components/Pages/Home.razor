@@ -8,11 +8,12 @@
 
 
 
-<nav class="navbar bg-nav position-fixed top-0 start-0 vw-100 text-center">
-    <div class="form-floating mx-auto">
-      <input type="text" class="form-control search" @oninput="valueChanged" value="@value" id="floatingInput" placeholder="chemicalElement">
+<nav class="navbar smooth-border bg-nav position-fixed top-0 start-0 w-100 text-center px-3 flex flex-row flex-nowrap">
+    <div class="form-floating w-100">
+      <input type="text" class="form-control border-search" @oninput="valueChanged" value="@value" id="floatingInput" placeholder="chemicalElement">
       <label for="floatingInput">Szukaj pierwiastka...</label>
     </div>
+    <button class="bg-transparent border-0 p-0 m-0" data-bs-toggle="modal" data-bs-target="#infoModal"><i class="fa-solid fa-circle-info text-blue fs-3 ms-3"></i></button>
 </nav>
 
 <div class="content">
@@ -20,20 +21,65 @@
     {
         @foreach (var element in chemicalElements)
         {
-            <div class="bg-red chemical_element">
-                <div>@element.number</div>
+            <button class="bg-blue chemical_element" @onclick="()=>selectElement(element)" data-bs-toggle="modal" data-bs-target="#elementModal">
+                <div>@element.atomicNumber</div>
                 <h1>@element.symbol</h1>
                 <div>@element.name</div>
-                <div>@element.atomic_mass</div>
-            </div>
+                <div>@element.atomicWeight</div>
+            </button>
         }
     }
 </div>
-
+<div class="modal fade" id="infoModal" tabindex="-1" aria-labelledby="infoModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-fullscreen modal-dialog-scrollable">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5" id="infoModalLabel">Informacje</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <p>
+            Aplikacja przedstawia informacje o pierwiastkach chemicznych. 
+            Wyszukaj interesujący Cię pierwiastek, a następnie kliknij w niego, aby zobaczyć jego zastosowania.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Modal -->
+<div class="modal fade" id="elementModal" tabindex="-1" aria-labelledby="elementModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-fullscreen modal-dialog-scrollable">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5" id="elementModalLabel">@(selectedElement != null?selectedElement.name+$" ({selectedElement.symbol})" :"Element name")</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+          <ul class="p-0">
+              @if (selectedElement != null)
+              {
+                  @foreach (var usage in selectedElement.usage)
+                  {
+                      <li>
+                          @usage.name - @usage.description
+                            <img src="@usage.photo" class="photo" alt="@usage.name"/>
+                      </li>
+                  }
+              }
+          </ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Zamknij</button>
+      </div>
+    </div>
+  </div>
+</div>
 @code{
     private List<Element> chemicalElements;
     private List<Element> basicElements;
     private string value;
+    private Element selectedElement;
+    
     protected override async Task OnInitializedAsync()
     {
         var result = await _service.GetChemicalElements();
@@ -47,4 +93,10 @@
         chemicalElements = basicElements;
         chemicalElements = chemicalElements.Where(x => x.name.ToLower().Contains(value.ToLower())).ToList();
     }
+
+    private void selectElement(Element element)
+    {
+        selectedElement = element;
+    }
+
 }
