@@ -1,0 +1,50 @@
+﻿@page "/"
+@inject IChemicalElementService _service;
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+
+
+
+<nav class="navbar bg-nav position-fixed top-0 start-0 vw-100 text-center">
+    <div class="form-floating mx-auto">
+      <input type="text" class="form-control search" @oninput="valueChanged" value="@value" id="floatingInput" placeholder="chemicalElement">
+      <label for="floatingInput">Szukaj pierwiastka...</label>
+    </div>
+</nav>
+
+<div class="content">
+    @if (chemicalElements != null)
+    {
+        @foreach (var element in chemicalElements)
+        {
+            <div class="bg-red chemical_element">
+                <div>@element.number</div>
+                <h1>@element.symbol</h1>
+                <div>@element.name</div>
+                <div>@element.atomic_mass</div>
+            </div>
+        }
+    }
+</div>
+
+@code{
+    private List<Element> chemicalElements;
+    private List<Element> basicElements;
+    private string value;
+    protected override async Task OnInitializedAsync()
+    {
+        var result = await _service.GetChemicalElements();
+        chemicalElements = result.elements.ToList();
+        basicElements = result.elements.ToList();
+    }
+    
+    private void valueChanged(ChangeEventArgs e)
+    {
+        value = e.Value.ToString();
+        chemicalElements = basicElements;
+        chemicalElements = chemicalElements.Where(x => x.name.ToLower().Contains(value.ToLower())).ToList();
+    }
+}
