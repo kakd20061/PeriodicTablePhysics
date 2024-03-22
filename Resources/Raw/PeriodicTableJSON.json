@@ -4,7 +4,7 @@
       "name": "Wodór",
       "symbol": "H",
       "atomicNumber": 1,
-      "atomicWeight": 1.00784,
+      "atomicWeight": 1.0079,
       "group": 1,
       "period": 1,
       "usage": [
@@ -845,12 +845,12 @@
       "usage": [
         {
           "name": "Diagnostyka medyczna",
-          "description": "Technet jest używany w medycynie nuklearnej jako izotop promieniotwórczy do diagnostyki, w badaniach obrazowych i w badaniach funkcjonalnych narządów.",
+          "description": "Wykorzystuje się go między innymi do diagnozowania zmian nowotworowych, badania organów wewnętrznych, struktury kości czy przepływu krwi.",
           "photo": "PHOTO_LINK"
         },
         {
           "name": "Przemysł nuklearny",
-          "description": "Technet jest stosowany w przemyśle nuklearnym do produkcji paliw jądrowych i w procesach przemysłowych wymagających źródła promieniowania.",
+          "description": "Technet jest stosowany jako podstawowy wskaźnik wykorzystywanym w medycynie nuklearnej do celów diagnostycznych",
           "photo": "PHOTO_LINK"
         }
       ]
@@ -1161,12 +1161,12 @@
         {
           "name": "Przemysł magnetyczny",
           "description": "Praseodym jest używany w produkcji magnesów trwałych, które są stosowane w silnikach elektrycznych, generacji energii i innych urządzeniach elektrycznych.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Silniki_by_Zureks.jpg/1200px-Silniki_by_Zureks.jpg"
         },
         {
           "name": "Katalizatory samochodowe",
           "description": "Związki praseodymu wchodzą w skład katalizatoró samochodowych",
-          "photo": "PHOTO_LINK"
+          "photo": "https://automator.pl/blog/wp-content/uploads/2019/07/katalizator.jpg"
         }
       ]
     },
@@ -1179,14 +1179,14 @@
       "period": 6,
       "usage": [
         {
-          "name": "Przemysł elektroniczny",
-          "description": "Neodym jest stosowany w produkcji magnesów neodymowo-żelazoborowego (NdFeB), które są używane w silnikach elektrycznych, głośnikach, dyskach twardych i innych urządzeniach elektronicznych.",
-          "photo": "PHOTO_LINK"
+          "name": "Przemysł magnetyczny",
+          "description": "Neodym jest stosowany w produkcji magnesów neodymowo-żelazoborowego (NdFeB).",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Nd-magnet.jpg/220px-Nd-magnet.jpg"
         },
         {
           "name": "Przemysł oświetleniowy",
           "description": "Neodym jest stosowany w produkcji diod elektroluminescencyjnych (LED) do produkcji światła czerwonego i niebieskiego w wyświetlaczach LED i oświetleniu LED.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://abc-rc.pl/data/include/cms/Blog/2023-10-09/led_arowka.jpg"
         }
       ]
     },
@@ -1197,21 +1197,10 @@
       "atomicWeight": 145,
       "group": 3,
       "period": 6,
-      "usage": [
-        {
-          "name": "Przemysł magnetyczny",
-          "description": "Promet jest używany w produkcji magnesów trwałych i magnetyków, które znajdują zastosowanie w silnikach elektrycznych, generacji energii i urządzeniach elektronicznych.",
-          "photo": "PHOTO_LINK"
-        },
-        {
-          "name": "Nauka",
-          "description": "Promet jest stosowany jako źródło promieniowania w badaniach naukowych, takich jak spektroskopia i badania struktury krystalicznej.",
-          "photo": "PHOTO_LINK"
-        }
-      ]
+      "usage": []
     },
     {
-      "name": "Samaryt",
+      "name": "Samar",
       "symbol": "Sm",
       "atomicNumber": 62,
       "atomicWeight": 150.36,
@@ -1220,8 +1209,8 @@
       "usage": [
         {
           "name": "Przemysł magnetyczny",
-          "description": "Samaryt jest stosowany w produkcji magnesów trwałych i magnetyków o wysokiej wytrzymałości na temperaturę, które są używane w silnikach samochodowych, głośnikach i silnikach lotniczych.",
-          "photo": "PHOTO_LINK"
+          "description": "Tlenek Samaru jest stosowany w produkcji szkła i ceramiki.",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2023_Ceramika_boles%C5%82awiecka_%283%29.jpg/240px-2023_Ceramika_boles%C5%82awiecka_%283%29.jpg"
         }
       ]
     },
@@ -1236,12 +1225,7 @@
         {
           "name": "Przemysł oświetleniowy",
           "description": "Europ jest stosowany w produkcji diod elektroluminescencyjnych (LED) do produkcji światła czerwonego i niebieskiego w wyświetlaczach LED i oświetleniu LED.",
-          "photo": "PHOTO_LINK"
-        },
-        {
-          "name": "Przemysł jądrowy",
-          "description": "Europ jest stosowany jako absorbent neutronów w kontrolowanych reaktorach jądrowych i jako źródło promieniowania w badaniach naukowych.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/RBG-LED.jpg/640px-RBG-LED.jpg"
         }
       ]
     },
@@ -1255,13 +1239,13 @@
       "usage": [
         {
           "name": "Przemysł magnetyczny",
-          "description": "Gadolin jest stosowany w produkcji magnesów trwałych, które znajdują zastosowanie w silnikach elektrycznych, głośnikach, dyskach twardych i innych urządzeniach elektronicznych.",
-          "photo": "PHOTO_LINK"
+          "description": "Gadolin jest wykorzystywany do tworzenia stopów magnetokalorycznych, które stosuje się w procesie rozmagnesowania adiabatycznego do uzyskiwania niskich temperatur.",
+          "photo": "https://www.walmag.pl/media/1egpurhf/dsc_0738.jpg"
         },
         {
           "name": "Terapia przeciwnowotworowa",
           "description": "Gadolin jest używany jako środek kontrastowy w badaniach obrazowych, takich jak rezonans magnetyczny (MR), oraz w terapii przeciwnowotworowej w formie radioizotopów gadolinu.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Varian4T.jpg/300px-Varian4T.jpg"
         }
       ]
     },
@@ -1276,12 +1260,12 @@
         {
           "name": "Przemysł magnetyczny",
           "description": "Terb jest stosowany w produkcji magnesów trwałych, które znajdują zastosowanie w silnikach elektrycznych, głośnikach, dyskach twardych i innych urządzeniach elektronicznych.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/8/81/Hard_disk_WD_400.jpg"
         },
         {
           "name": "Przemysł oświetleniowy",
-          "description": "Terb jest stosowany w produkcji lamp fluorescencyjnych, które znajdują zastosowanie w oświetleniu biurowym, przemysłowym i domowym.",
-          "photo": "PHOTO_LINK"
+          "description": "Terb jest stosowany w produkcji lamp fluorescencyjnych, rtęciowych.",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Energiesparlampe_01_retouched.jpg/640px-Energiesparlampe_01_retouched.jpg"
         }
       ]
     },
@@ -1296,12 +1280,12 @@
         {
           "name": "Przemysł metalurgiczny",
           "description": "Głównym zastosowaniem dysprozu są stopy do produkcji laserów, detektorów oraz magnesów na bazie neodymu.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ceramic_magnets.jpg/220px-Ceramic_magnets.jpg"
         },
         {
           "name": "Produkcja lamp",
           "description": "Jodek dysprozu jest stosowany w lampach halogenowych.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Halogen_lamp_macro_02.jpg/220px-Halogen_lamp_macro_02.jpg"
         }
       ]
     },
@@ -1316,12 +1300,7 @@
         {
           "name": "Przemysł magnetyczny",
           "description": "Holm jest stosowany w produkcji magnesów trwałych, które znajdują zastosowanie w silnikach elektrycznych, głośnikach, dyskach twardych i innych urządzeniach elektronicznych.",
-          "photo": "PHOTO_LINK"
-        },
-        {
-          "name": "Nauka",
-          "description": "Holm jest używany w badaniach naukowych do produkcji źródeł promieniowania gamma, sond neutronowych i detektorów promieniowania.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/2/21/2016_Kolumna_g%C5%82o%C5%9Bnikowa_Altus_110.jpg"
         }
       ]
     },
@@ -1335,13 +1314,8 @@
       "usage": [
         {
           "name": "Przemysł optyczny",
-          "description": "Erb jest używany w produkcji laserów stałotelnikowych, które znajdują zastosowanie w telekomunikacji, medycynie, przemyśle obronnym i naukach ścisłych.",
-          "photo": "PHOTO_LINK"
-        },
-        {
-          "name": "Przemysł optyczny",
-          "description": "Erb jako domieszkę w szkle optycznym, co umożliwia tworzenie światłowodów optycznych wykorzystywanych w telekomunikacji",
-          "photo": "PHOTO_LINK"
+          "description": "Erb jest używany w technice laserowej, swiatłowodowej  i energetyce jądrowej.",
+          "photo": "https://optomer.pl/wp-content/uploads/2020/03/swiatlowod1.png"
         }
       ]
     },
@@ -1355,13 +1329,8 @@
       "usage": [
         {
           "name": "Przemysł optyczny",
-          "description": "Tul jest używany w produkcji laserów optycznych, które znajdują zastosowanie w telekomunikacji, medycynie, naukach ścisłych i przemyśle obronnym.",
-          "photo": "PHOTO_LINK"
-        },
-        {
-          "name": "Nauka",
-          "description": "Tul jest stosowany w badaniach naukowych do produkcji źródeł promieniowania gamma, sond neutronowych i detektorów promieniowania.",
-          "photo": "PHOTO_LINK"
+          "description": "Tul jest używany w produkcji szkieł optycznych, elementów półprzewodnikowych, fotoogniw.",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/BiconvexLens.jpg/254px-BiconvexLens.jpg"
         }
       ]
     },
@@ -1376,12 +1345,12 @@
         {
           "name": "Przemysł optyczny",
           "description": "Iterb jest używany w produkcji laserów optycznych, które znajdują zastosowanie w telekomunikacji, medycynie, naukach ścisłych i przemyśle obronnym.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://7cad390533514c32acc8-75d23ce06fcfaf780446d85d50c33f7b.ssl.cf6.rackcdn.com/sc/1697005730-normal-strings-of-lasers.png"
         }
       ]
     },
     {
-      "name": "Lute",
+      "name": "Lutet",
       "symbol": "Lu",
       "atomicNumber": 71,
       "atomicWeight": 174.97,
@@ -1389,9 +1358,9 @@
       "period": 6,
       "usage": [
         {
-          "name": "Przemysł optyczny",
-          "description": "Lute jest używany w produkcji laserów optycznych, które znajdują zastosowanie w telekomunikacji, medycynie, naukach ścisłych i przemyśle obronnym.",
-          "photo": "PHOTO_LINK"
+          "name": "Medycyna",
+          "description": "Izotop lutetu jest stosowany w połączeniu z analogami somatostatyny do leczenia nowotworów pochodzenia neuroendokrynnego",
+          "photo": "https://zwrotnik.b-cdn.net/wp-content/uploads/2020/04/nowotwory-neuroendokrynne.jpg"
         }
       ]
     },
@@ -1404,14 +1373,14 @@
       "period": 6,
       "usage": [
         {
-          "name": "Przemysł lotniczy",
-          "description": "Hafn jest używany w produkcji stopów tytanu, które znajdują zastosowanie w przemyśle lotniczym, kosmicznym i obronnym do budowy kadłubów samolotów, rakiet i pojazdów kosmicznych.",
-          "photo": "PHOTO_LINK"
+          "name": "Przemysł elektroniczny",
+          "description": "Hafn jest wykorzystywany w procesorach komputerowych o dużej wydajności.",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Suoritin_Intel_Pentium_100MHz.jpg"
         },
         {
           "name": "Przemysł chemiczny",
-          "description": "Związki hafnu są stosowane jako katalizatory w przemyśle chemicznym do produkcji tworzyw sztucznych, farb, pigmentów i innych związków organicznych.",
-          "photo": "PHOTO_LINK"
+          "description": "Węglik hafnu (HfC) ma bardzo wysoką temperaturę topnienia, co sprzyja w używaniu go w metalurgi i technologii wysokich temperatur.",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Hafnium_bits.jpg/1200px-Hafnium_bits.jpg"
         }
       ]
     },
@@ -1424,14 +1393,14 @@
       "period": 6,
       "usage": [
         {
-          "name": "Przemysł elektroniczny",
-          "description": "Tantal jest stosowany w produkcji kondensatorów tantalowych, które znajdują zastosowanie w elektronice, telekomunikacji, medycynie i przemyśle obronnym.",
-          "photo": "PHOTO_LINK"
+          "name": "Przemysł jubilerski",
+          "description": "Tantal jest stosowany do wyboru biżuterii oraz wyrobów zegarmistrzowskich.",
+          "photo": "https://ch24.pl/wp-content/uploads/2009/06/hubhist1.jpg"
         },
         {
-          "name": "Przemysł lotniczy",
-          "description": "Tantal jest używany do produkcji stopów o wysokiej temperaturze, które są stosowane w przemyśle lotniczym do budowy silników odrzutowych, turbin gazowych i części samolotów.",
-          "photo": "PHOTO_LINK"
+          "name": "Przemysł chemiczny",
+          "description": "Tantal ze względu na odporność na działanie większości kwasów i zasad. Wykorzystywany jest do produkcji aparatury chemicznej, znajduje też zastosowanie w sprzęcie zbrojeniowym i kosmicznym.",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Tantal_REMOV.jpg/800px-Tantal_REMOV.jpg"
         }
       ]
     },
@@ -1445,13 +1414,13 @@
       "usage": [
         {
           "name": "Przemysł lotniczy",
-          "description": "Wolfram jest używany w produkcji stopów wolframu, które są stosowane w przemyśle lotniczym, kosmicznym i obronnym do budowy części samolotów, rakiet i pojazdów kosmicznych.",
-          "photo": "PHOTO_LINK"
+          "description": "Wolfram jest używany w produkcji węgliku wolframu, który służy do produkcji niezwykle wytrzymałych maszyn i narzędzi. Jest stosowany w przemyśle lotniczym, kosmicznym i obronnym do budowy części samolotów, rakiet i pojazdów kosmicznych.",
+          "photo": "https://polskiprzemysl.com.pl/wp-content/uploads/SpaceX-Falcon-9.jpg"
         },
         {
           "name": "Przemysł metalurgiczny",
           "description": "Wolfram jest stosowany do produkcji narzędzi skrawających, elektrod spawalniczych i innych narzędzi metalurgicznych ze względu na swoją wysoką twardość i temperaturę topnienia.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://i0.wp.com/wolften.pl/wp-content/uploads/2020/11/branza_metalurgiczna_1120_1.jpg?resize=389%2C389&ssl=1"
         }
       ]
     },
@@ -1465,13 +1434,8 @@
       "usage": [
         {
           "name": "Przemysł lotniczy",
-          "description": "Ren jest stosowany w produkcji stopów używanych w silnikach odrzutowych, turbinach gazowych i elementach konstrukcyjnych samolotów.",
-          "photo": "PHOTO_LINK"
-        },
-        {
-          "name": "Przemysł chemiczny",
-          "description": "Ren jest używany jako katalizator w przemyśle chemicznym, szczególnie do produkcji kwasu siarkowego.",
-          "photo": "PHOTO_LINK"
+          "description": "Ren jest używany jako dodatek do superstopów stosowanych przy produkcji komponentów wymagających odporności na wysokie temperatury m.in. w silnikach odrzutowych, turbinach gazowych i elementach konstrukcyjnych samolotów.",
+          "photo": "https://i.iplsc.com/silnik-odrzutowy-5-faktow-na-jego-temat/000HHBLO7P0VD7Y9-C122-F4.jpg"
         }
       ]
     },
@@ -1484,9 +1448,9 @@
       "period": 6,
       "usage": [
         {
-          "name": "Przemysł chemiczny",
-          "description": "Osm jest stosowany w przemyśle chemicznym do produkcji katalizatorów, barwników, leków i środków konserwujących.",
-          "photo": "PHOTO_LINK"
+          "name": "Przemysł",
+          "description": "Osm jest stosowany w wytwarzaniu bardzo twardych stopów, które są stosowane np. w końcówkach stalówek, igiełach gramofonowych i stykach elektrycznych.",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/5/5d/CEE_7-7.jpg"
         }
       ]
     },
@@ -1501,12 +1465,12 @@
         {
           "name": "Przemysł jubilerski",
           "description": "Iryd jest stosowany w jubilerstwie do produkcji biżuterii, głównie w formie stopów ze złotem, platyną i palladem.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://mennica-rosenberg.pl/wp-content/uploads/2021/08/kolczyki-z-irydu.jpg"
         },
         {
           "name": "Przemysł lotniczy",
           "description": "Iryd jest używany w przemyśle lotniczym do produkcji stopów o wysokiej temperaturze stosowanych w turbinach gazowych i komponentach silników odrzutowych.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gasturbine_Montage01.jpg/1200px-Gasturbine_Montage01.jpg"
         }
       ]
     },
@@ -1521,12 +1485,12 @@
         {
           "name": "Przemysł chemiczny",
           "description": "Platyna jest używana jako katalizator w procesach chemicznych, w tym w produkcji kwasu siarkowego, amoniaku i benzenu.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://www.filtry-dpf-fap.pl/files/artykuly-2024/8Z9A4907.jpg"
         },
         {
           "name": "Przemysł elektroniczny",
-          "description": "Platyna jest stosowana w produkcji elektrod do baterii, sondy tlenowe i inne komponenty elektroniczne.",
-          "photo": "PHOTO_LINK"
+          "description": "Platyna jest stosowana w produkcji elektrod, osłon kabli i inne komponenty elektroniczne.",
+          "photo": "https://ascoin.pl/data/include/img/news/1661866397.jpg"
         }
       ]
     },
@@ -1541,12 +1505,12 @@
         {
           "name": "Jubilerstwo",
           "description": "Złoto jest używane do produkcji biżuterii i przedmiotów ozdobnych ze względu na swoją trwałość, piękny wygląd i wartość jakość inwestycyjna.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/6/65/Signet_ring_Louvre_MAN87432.jpg"
         },
         {
           "name": "Przemysł elektroniczny",
           "description": "Złoto jest stosowane w przemyśle elektronicznym do produkcji kontaktów elektrycznych, przewodów, układów drukowanych i innych komponentów.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://www.datocms-assets.com/23036/1597836781-typy-i-rodzaje-kabli-i-przewodow.jpg"
         }
       ]
     },
@@ -1559,14 +1523,14 @@
       "period": 6,
       "usage": [
         {
-          "name": "Przemysł chemiczny",
-          "description": "Rtęć jest używana w przemyśle chemicznym do produkcji różnych związków chemicznych, takich jak chloroetan, chloroform i azotan rtęci(II).",
-          "photo": "PHOTO_LINK"
+          "name": "Przemysł dentystyczny",
+          "description": "Plomby amalgamatowe są wytwarzane ze stopu metali oraz rtęci.",
+          "photo": "https://lh3.googleusercontent.com/proxy/TJVBrTp7kOhLR9EZ55lahXS5z6K1zORB-5s1ALgE_mnEmRNZRoHXVCZ8Td6bObnlPDKA1TcYhK1P37kqJo2WdvpdURCK37X7pJCtnE1oasw"
         },
         {
           "name": "Przemysł elektryczny",
-          "description": "Rtęć jest stosowana w produkcji wyłączników i przekaźników elektrycznych oraz w lampach rtęciowych do oświetlenia ulicznego i przemysłowego.",
-          "photo": "PHOTO_LINK"
+          "description": "Rtęć jest stosowana w produkcji baterii, pomp próżniowych, termometrów oraz w lampach rtęciowych do oświetlenia ulicznego i przemysłowego.",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Three_CR123_and_AA.JPG"
         }
       ]
     },
@@ -1579,14 +1543,14 @@
       "period": 6,
       "usage": [
         {
-          "name": "Przemysł elektroniczny",
-          "description": "Tal jest stosowany w produkcji detektorów podczerwieni, fotokomórek i układów półprzewodnikowych.",
-          "photo": "PHOTO_LINK"
+          "name": "Przemysł Szkieł",
+          "description": "Tal jest stosowany w produkcji szkieł optycznych.",
+          "photo": "https://pl.ikstechnology.com/Content/upload/2019256234/201909291532086646296.jpg"
         },
         {
-          "name": "Przemysł chemiczny",
-          "description": "Tal jest używany w produkcji związków chemicznych, takich jak taliany, związki organotlanych i tlenki, które znajdują zastosowanie w przemyśle farmaceutycznym i chemicznym.",
-          "photo": "PHOTO_LINK"
+          "name": "Przemysł Elektryczny",
+          "description": "Tal jest używany w produkcji półprzewodników, fotoogniw.",
+          "photo": "https://www.ekoradcy.pl/_userfiles/blog/fotowoltaika-na-dachu_1.jpg"
         }
       ]
     },
@@ -1601,12 +1565,12 @@
         {
           "name": "Przemysł metalurgiczny",
           "description": "Ołów jest używany w przemyśle metalurgicznym do produkcji stopów, takich jak ołów-cyna, ołów-antymon i ołów-kadm.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://www.cyntos.pl/wp-content/uploads/2017/11/sto3-800x800.jpg"
         },
         {
           "name": "Przemysł chemiczny",
           "description": "Ołów jest stosowany w produkcji akumulatorów samochodowych, farb, lakierów, ceramiki i ołówków.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://images.ctfassets.net/cnu0m8re1exe/1L0fbZPG4t6PFUZ4o9nvhb/88bd6d4d0b2127aa583cfcb1011284b0/shutterstock_1113179420.jpg"
         }
       ]
     },
@@ -1621,12 +1585,12 @@
         {
           "name": "Przemysł farmaceutyczny",
           "description": "Bizmut jest stosowany w medycynie w niektórych lekach przeciwbólowych, przeciwgorączkowych i przeczyszczających.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://www.wtamu.edu/~cbaird/sq/images/img_2211.jpg"
         },
         {
           "name": "Przemysł chemiczny",
           "description": "Bizmut jest używany w produkcji niektórych związków chemicznych, takich jak nitrat bizmutu i bizmut subgallate, które znajdują zastosowanie w przemyśle farmaceutycznym i kosmetycznym.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/d/df/Dusi%C4%8Dnan_bismutit%C3%BD.JPG"
         }
       ]
     },
@@ -1641,7 +1605,7 @@
         {
           "name": "Przemysł elektrotechniczny",
           "description": "Polon jest używany jako źródło energii w urządzeniach wykorzystujących zjawisko termoelektryczne, takich jak termopary.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://cdn11.bigcommerce.com/s-y8i55/images/stencil/1280x1280/products/259/1311/DM6801-HT-2-1__07643.1658052997.jpg?c=2"
         }
       ]
     },
@@ -1656,7 +1620,7 @@
         {
           "name": "Medycyna",
           "description": "Astat może być stosowany jako potencjalny lek do terapii radiacyjnej w leczeniu niektórych rodzajów nowotworów.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://www.suhitas.com/images/abt_img.jpg"
         }
       ]
     },
@@ -1671,12 +1635,12 @@
         {
           "name": "Badania naukowe",
           "description": "Radon jest stosowany w badaniach naukowych w eksperymentach z fizyką jądrową, fizyką cząstek i chemią.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://www.physics.com.sg/images/atomic-vs-nuclear-physics-what-is-the-key-difference.jpg"
         },
         {
           "name": "Ochrona przed promieniowaniem",
           "description": "Radon jest monitorowany jako gaz radioaktywny w budynkach w celu zapobiegania ekspozycji na promieniowanie jonizujące.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://d12oja0ew7x0i8.cloudfront.net/images/Article_Images/ImageForArticle_21715_16536564547954175.jpg"
         }
       ]
     },
@@ -1687,9 +1651,7 @@
       "atomicWeight": 223,
       "group": 1,
       "period": 7,
-      "usage": [
-        null
-      ]
+      "usage": []
     },
     {
       "name": "Rad",
@@ -1702,12 +1664,12 @@
         {
           "name": "Medycyna",
           "description": "Rad jest stosowany w medycynie do niszczenia komórek nowotworowych",
-          "photo": "PHOTO_LINK"
+          "photo": "https://www.snexplores.org/wp-content/uploads/2020/04/1030_LEM_ultrasound_v_cancer-1028x579.png"
         },
         {
           "name": "Przemysł drukarski i fotograficzny",
           "description": "Rad jest wykorzystywany w technice drukarskiej i fotografii do usuwania ładunków elektrostatycznych.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://www.lubcon.com/wp-content/uploads/2017/06/printing-lubricants_700_385_70-1-wpcf_893x450.jpg"
         }
       ]
     },
@@ -1718,9 +1680,7 @@
       "atomicWeight": 227,
       "group": 3,
       "period": 7,
-      "usage": [
-        null
-      ]
+      "usage": []
     },
     {
       "name": "Tor",
@@ -1733,7 +1693,7 @@
         {
           "name": "Przemysł metalurgiczny",
           "description": "Tor jest ważnym dodatkiem stopowym, zwiększającym wysokotemperaturową wytrzymałość metali",
-          "photo": "PHOTO_LINK"
+          "photo": "https://geografia24.pl/wp-content/uploads/2021/01/Przemys%C5%82-metalurgiczny.jpg"
         }
       ]
     },
@@ -1748,7 +1708,7 @@
         {
           "name": "Produkcja Scyntylatorów",
           "description": "Protaktyn jest stosowany do produkcji scyntylatorów do wykrywania promieniowania rentgenowskiego.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://www.moravek.com/wp-content/uploads/2022/10/fPa6RqL8PL2MMgdPIj2JMfdJCKsx4ojh1666291261.jpg"
         }
       ]
     },
@@ -1763,12 +1723,12 @@
         {
           "name": "Przemysł jądrowy",
           "description": "Uran jest głównym składnikiem paliwa w reaktorach jądrowych i jest używany do produkcji energii elektrycznej oraz materiałów promieniotwórczych do celów medycznych i przemysłowych.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kernkraftwerk_Grafenrheinfeld_-_2013.jpg/1200px-Kernkraftwerk_Grafenrheinfeld_-_2013.jpg"
         },
         {
           "name": "Przemysł zbrojeniowy",
           "description": "Uran jest wykorzystywany do produkcji broni jądrowej i w przemyśle zbrojeniowym do produkcji materiałów o wysokiej gęstości.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://ocdn.eu/pulscms-transforms/1/nGJktkpTURBXy80OTE1ODhiOTAzYzgxNGViMDViOGYzODMzZjI2YjBiMS5qcGeSlQMAzJnNEyDNCsKTBc0EsM0Cow"
         }
       ]
     },
@@ -1783,7 +1743,7 @@
         {
           "name": "Przemysł jądrowy",
           "description": "Neptun może być wykorzystywany jako materiał paliwowy w reaktorach jądrowych oraz do produkcji plutonu",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/2/24/2011-05-10_18-57-46_Switzerland_-_Wil_crop.jpg"
         }
       ]
     },
@@ -1798,7 +1758,7 @@
         {
           "name": "Przemysł jądrowy",
           "description": "Pluton jest używany jako źródło energii w radioizotopowych generatorach termoelektrycznych i w radioizotopowych urządzeniach grzewczych (RUG).",
-          "photo": "PHOTO_LINK"
+          "photo": "https://ocdn.eu/images/pulscms/YmQ7MDA_/df911c60-3d70-4a8a-bf6d-c5fb67aa2afc.jpeg"
         }
       ]
     },
@@ -1813,7 +1773,7 @@
         {
           "name": "Zastosowanie w technologii",
           "description": "Emituje wysokoenergetyczne promieniowanie alfa, przez co używany jest do precyzyjnych przyrządów mierniczych oraz czujników dymu.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Smoke_detector.JPG"
         }
       ]
     },
@@ -1828,7 +1788,7 @@
         {
           "name": "Wykorzystanie w technologii",
           "description": "Kiur używany jest między innymi jako źródło energii dla świecących boi morskich, automatycznych stacji meteorologicznych, a także do ogrzewania skafandrów nurków i kosmonautów.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/4/45/_Island_2017.jpg"
         }
       ]
     },
@@ -1839,9 +1799,7 @@
       "atomicWeight": 247,
       "group": 3,
       "period": 7,
-      "usage": [
-        null
-      ]
+      "usage": []
     },
     {
       "name": "Kaliforn",
@@ -1854,12 +1812,12 @@
         {
           "name": "Brachyterapia neutronowa",
           "description": "Kaliforn Jest silnym emiterem neutronów i wykorzystywany w terapii przeciwnowotworowej",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Radiation_therapy.jpg/280px-Radiation_therapy.jpg"
         },
         {
           "name": "Emisja neutronów",
           "description": "Kaliforn jest jednym z najbardziej efektywnych emiterów neutronów ze wszystkich pierwiastków. Jego izotopy emitują duże ilości neutronów w wyniku rozpadu promieniotwórczego.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://bcdn.products.pcc.eu/wp-content/uploads/2023/01/FOT-1-rozpad-promien.jpg"
         }
       ]
     },
@@ -1870,9 +1828,7 @@
       "atomicWeight": 252,
       "group": 3,
       "period": 7,
-      "usage": [
-        null
-      ]
+      "usage": []
     },
     {
       "name": "Ferm",
@@ -1881,9 +1837,7 @@
       "atomicWeight": 257,
       "group": 3,
       "period": 7,
-      "usage": [
-        null
-      ]
+      "usage": []
     },
     {
       "name": "Mendelew",
@@ -1892,9 +1846,7 @@
       "atomicWeight": 258,
       "group": 3,
       "period": 7,
-      "usage": [
-        null
-      ]
+      "usage": []
     },
     {
       "name": "Nobel",
@@ -1903,9 +1855,7 @@
       "atomicWeight": 259,
       "group": 3,
       "period": 7,
-      "usage": [
-        null
-      ]
+      "usage": []
     },
     {
       "name": "Lorenc",
@@ -1914,9 +1864,7 @@
       "atomicWeight": 266,
       "group": 3,
       "period": 7,
-      "usage": [
-        null
-      ]
+      "usage": []
     },
     {
       "name": "Rutherford",
@@ -1925,9 +1873,7 @@
       "atomicWeight": 267,
       "group": 4,
       "period": 7,
-      "usage": [
-        null
-      ]
+      "usage": []
     },
     {
       "name": "Dubn",
@@ -1936,9 +1882,7 @@
       "atomicWeight": 268,
       "group": 5,
       "period": 7,
-      "usage": [
-        null
-      ]
+      "usage": []
     },
     {
       "name": "Seaborg",
@@ -1947,9 +1891,7 @@
       "atomicWeight": 269,
       "group": 6,
       "period": 7,
-      "usage": [
-        null
-      ]
+      "usage": []
     },
     {
       "name": "Bohr",
@@ -1958,9 +1900,7 @@
       "atomicWeight": 270,
       "group": 7,
       "period": 7,
-      "usage": [
-        null
-      ]
+      "usage": []
     },
     {
       "name": "Has",
@@ -1969,9 +1909,7 @@
       "atomicWeight": 277,
       "group": 8,
       "period": 7,
-      "usage": [
-        null
-      ]
+      "usage": []
     },
     {
       "name": "Meitner",
@@ -1980,9 +1918,7 @@
       "atomicWeight": 278,
       "group": 9,
       "period": 7,
-      "usage": [
-        null
-      ]
+      "usage": []
     },
     {
       "name": "Darmsztadt ",
@@ -1991,9 +1927,7 @@
       "atomicWeight": 281,
       "group": 10,
       "period": 7,
-      "usage": [
-        null
-      ]
+      "usage": []
     },
     {
       "name": "Roentgen",
@@ -2002,9 +1936,7 @@
       "atomicWeight": 282,
       "group": 11,
       "period": 7,
-      "usage": [
-        null
-      ]
+      "usage": []
     },
     {
       "name": "Kopernik",
@@ -2013,9 +1945,7 @@
       "atomicWeight": 285,
       "group": 12,
       "period": 7,
-      "usage": [
-        null
-      ]
+      "usage": []
     },
     {
       "name": "Nihon",
@@ -2024,9 +1954,7 @@
       "atomicWeight": 286,
       "group": 13,
       "period": 7,
-      "usage": [
-        null
-      ]
+      "usage": []
     },
     {
       "name": "Flerow",
@@ -2035,9 +1963,7 @@
       "atomicWeight": 289,
       "group": 14,
       "period": 7,
-      "usage": [
-        null
-      ]
+      "usage": []
     },
     {
       "name": "Moskow",
@@ -2046,9 +1972,7 @@
       "atomicWeight": 289,
       "group": 15,
       "period": 7,
-      "usage": [
-        null
-      ]
+      "usage": []
     },
     {
       "name": "Liwermor",
@@ -2057,9 +1981,7 @@
       "atomicWeight": 293,
       "group": 16,
       "period": 7,
-      "usage": [
-        null
-      ]
+      "usage": []
     },
     {
       "name": "Tenes",
@@ -2068,9 +1990,7 @@
       "atomicWeight": 294,
       "group": 17,
       "period": 7,
-      "usage": [
-        null
-      ]
+      "usage": []
     },
     {
       "name": "Oganesson",
@@ -2079,9 +1999,7 @@
       "atomicWeight": 294,
       "group": 18,
       "period": 7,
-      "usage": [
-        null
-      ]
+      "usage": []
     }
   ]
 }
