@@ -1,4 +1,7 @@
 ﻿@page "/"
+@using QRCoder
+@using System.Drawing
+@using ImageFormat = System.Drawing.Imaging.ImageFormat
 @inject IChemicalElementService _service;
 
 
@@ -28,6 +31,11 @@
                 <div>@element.atomicWeight</div>
             </button>
         }
+        
+        if (chemicalElements.Count == 0)
+        {
+            <p class="text-center text-secondary">Brak wyników</p>
+        }
     }
 </div>
 <div class="modal fade" id="infoModal" tabindex="-1" aria-labelledby="infoModalLabel" aria-hidden="true">
@@ -42,9 +50,29 @@
               Aplikacja przedstawia informacje o pierwiastkach chemicznych. 
               Wyszukaj interesujący Cię pierwiastek, a następnie kliknij w niego, aby zobaczyć jego zastosowania.
           </p>
-          <div class="d-flex justify-content-center w-100">
-            <img class="img-fluid photo-legend" src="legend.png" alt="Legenda">
+          <hr/>
+          <div class="w-100">
+              <h3 class="mb-4 fw-bold border-primary title">Legenda</h3>
           </div>
+          <div class="d-flex justify-content-center w-100">
+            <img class="img-fluid photo-legend mt-3" src="legend.png" alt="Legenda">
+          </div>
+          <hr/>
+          <div class="w-100">
+              <h3 class="mb-4 fw-bold border-primary title">Kod QR</h3>
+          </div>
+          <div class="d-flex justify-content-center w-100">
+            <img class="img-fluid photo-legend mt-3" src="@QRByte" alt="kod QR">
+          </div>
+          <hr/>
+          <div class="w-100">
+              <h3 class="mb-4 fw-bold border-primary title">Autorzy</h3>
+          </div>
+          <ul class="w-100">
+              <li><a href="https://github.com/MstrJ">Jakub Kruliczak</a></li>
+              <li><a href="https://github.com/kakd20061">Kajetan Dąbrowski</a></li>
+          </ul>
+          <hr/>
       </div>
     </div>
   </div>
@@ -70,11 +98,11 @@
                         {
                             <li class="list-unstyled w-100">
                                 <div class="d-flex justify-content-around w-100">
-                                    <h3 class="mb-4 fw-bold border-primary title">@usage.name</h3>
+                                    <h3 class="mb-4 fw-bold border-primary title upper">@usage.name</h3>
                                 </div>
                                 <div class="d-flex flex-row justify-content-around align-items-center w-100 content-flex-wrap">
                                     <img src="@usage.photo" class="img-fluid img-thumbnail photo m-3 mt-0" alt="@usage.name"/>
-                                    <p class="flex-grow-1 text-wrap p-3 content-text-center fs-4">@usage.description</p>
+                                    <p class="flex-grow-1 text-wrap p-3 content-text-center fs-4 firstletter">@usage.description</p>
                                 </div>
                                 <hr/>
                             </li>
@@ -115,12 +143,29 @@
     private List<Element> basicElements;
     private string value;
     private Element selectedElement;
+    public string QRCodeText { get; set; }
+    public string QRByte = "";
     
     protected override async Task OnInitializedAsync()
     {
         var result = await _service.GetChemicalElements();
         chemicalElements = result.elements.ToList();
         basicElements = result.elements.ToList();
+        QRCodeText = "https://drive.google.com/file/d/1k0FTV3Zyc-iT-JfduL6q7afXT28CZqnf/view?usp=sharing";
+        GenerateQRCode();
+    }
+    
+    private void GenerateQRCode()
+    {
+        if (!string.IsNullOrEmpty(QRCodeText))
+        {
+            QRCodeGenerator qrCodeGenerate = new();
+            QRCodeData qrCodeData = qrCodeGenerate.CreateQrCode(QRCodeText, QRCodeGenerator.ECCLevel.Q);
+            PngByteQRCode qrCode = new(qrCodeData);
+            byte[] qrBitMap = qrCode.GetGraphic(20);
+            string base64 = Convert.ToBase64String(qrBitMap);
+            QRByte = string.Format("data:image/png;base64,{0}", base64);
+        }
     }
     
     private void valueChanged(ChangeEventArgs e)

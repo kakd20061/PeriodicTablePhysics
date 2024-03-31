@@ -10,13 +10,13 @@
       "usage": [
         {
           "name": "Paliwo rakietowe",
-          "description": "Wodór jest używany jako paliwo rakietowe, ponieważ jest bardzo lekki i ma wysoką zawartość energii.",
-          "photo": "PHOTO_LINK"
+          "description": "Wodór jest używany jako paliwo rakietowe, poniewacż jest bardzo lekki i ma wysoką zawartość energii.",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Space_Shuttle_Columbia_launching.jpg/640px-Space_Shuttle_Columbia_launching.jpg"
         },
         {
           "name": "Woda",
           "description": "Woda jest związkiem chemicznym, który składa się z dwóch atomów wodoru i jednego atomu tlenu. Woda jest niezbędna do życia na Ziemi.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://oxyshop.pl/wp-content/uploads/2022/01/czym-jest-woda-osmotyczna.png"
         }
       ]
     },
@@ -31,12 +31,12 @@
         {
           "name": "Napełnianie balonów",
           "description": "Hel jest używany do napełniania balonów, ponieważ jest lżejszy od powietrza i nie jest palny.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/InflatableBalloons.jpg/1200px-InflatableBalloons.jpg"
         },
         {
           "name": "Produkcja mieszanek oddechowych dla zawodowych nurków",
           "description": "Hel jest używany jako jeden ze składników mieszanek oddechowych dla zawodowych nurków",
-          "photo": "PHOTO_LINK"
+          "photo": "https://www.nautica.poznan.pl/wp-content/uploads/2016/10/12-e1483565319905.jpg"
         }
       ]
     },
@@ -51,12 +51,12 @@
         {
           "name": "Baterie",
           "description": "Lit jest używany w bateriach, ponieważ jest bardzo lekki i ma wysoką zawartość energii.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Battery_lithium_CR-V3.JPG"
         },
         {
           "name": "Leki psychotropowe",
           "description": "Lit jest używany w lekach psychiatrycznych do leczenia zaburzeń nastroju, takich jak depresja i mania.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Tablets_pills_medicine_medical_waste.jpg/1200px-Tablets_pills_medicine_medical_waste.jpg"
         }
       ]
     },
@@ -69,14 +69,14 @@
       "period": 2,
       "usage": [
         {
-          "name": "Stal",
-          "description": "Beryl jest używany do produkcji stali i innych stopów metali.",
-          "photo": "PHOTO_LINK"
+          "name": "Produkcja lamp",
+          "description": "Niska liczba atomowa beryla sprawia, że słabo pochłania promieniowanie rentgenowskie, dlatego dobrze sprawuje się w okienkach do lamp rentgenowskich, mikroskopach i detektorach promieniowania X.",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Microscope_Zeiss_1879.jpg/220px-Microscope_Zeiss_1879.jpg"
         },
         {
           "name": "Lustra",
-          "description": "Beryl jest używany do produkcji luster, ponieważ jest bardzo twardy i odporny na korozję.",
-          "photo": "PHOTO_LINK"
+          "description": "Beryl ze względu na swoją wytrzymałość jest używany w produkcji komponentów obronnych, takich jak okna kuloodporne czy osłony optyczne",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bulletproof_glass_window_after_a_burglary_attempt.jpg/640px-Bulletproof_glass_window_after_a_burglary_attempt.jpg"
         }
       ]
     },
@@ -90,13 +90,13 @@
       "usage": [
         {
           "name": "Szkło",
-          "description": "Bor jest używany do produkcji szkła, ponieważ nadaje mu odporność na ciepło i zarysowania.",
-          "photo": "PHOTO_LINK"
+          "description": "Bor jest używany do produkcji szkła borokrzemowego, ponieważ nadaje mu odporność na ciepło i zarysowania. ",
+          "photo": "https://www.continentaltrade.com.pl/img/gallery_photo/412/szklo-techiczne-12_original.jpg?v=1637242039"
         },
         {
           "name": "Leki",
           "description": "Bor jest używany w niektórych lekach, takich jak krople do oczu i krople do nosa.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://ocdn.eu/pulscms-transforms/1/Tauk9kqTURBXy9kODVkZmQzZjdkODA4ZTFkZGM4ZTkyYjE3MmVmOTUwOC5qcGVnkpUDABXNA-jNAjOTBc0EsM0Chd4AAaEwAQ"
         }
       ]
     },
@@ -111,12 +111,12 @@
         {
           "name": "Paliwo",
           "description": "Węgiel jest szeroko wykorzystywany jako paliwo w produkcji energii elektrycznej i cieplnej.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://huzar.eu/wp-content/uploads/2022/04/nie-to-paliwo-1.jpg"
         },
         {
           "name": "Materiały konstrukcyjne",
-          "description": "Węgiel jest stosowany do produkcji materiałów konstrukcyjnych, takich jak stal.",
-          "photo": "PHOTO_LINK"
+          "description": "Węgiel jest niezbędnym składnikiem stali. Stal jest jednym z najważniejszych materiałów konstrukcyjnych używanych w przemyśle budowlanym, motoryzacyjnym, lotniczym i wielu innych dziedzinach.",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Allegheny_Ludlum_steel_furnace.jpg"
         }
       ]
     },
@@ -131,12 +131,12 @@
         {
           "name": "Nawozy",
           "description": "Azot jest podstawowym składnikiem nawozów, które są niezbędne do uprawy roślin.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://rolmarket.pl/data/include/img/news/1647586080.jpg"
         },
         {
           "name": "Płyny chłodzące",
           "description": "Azot jest używany jako płyn chłodzący w niektórych procesach przemysłowych, takich jak chłodzenie żywności.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://i.wpimg.pl/4032x3024/m.autokult.pl/20191211-170358-64a6a5ef853e613b.jpg"
         }
       ]
     },
@@ -151,12 +151,12 @@
         {
           "name": "Oddychanie",
           "description": "Tlen jest niezbędny dla życia na Ziemi i jest używany przez organizmy do oddychania.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Bubble_Blowing_15.jpg"
         },
         {
           "name": "Produkcja stali",
           "description": "Tlen jest używany do produkcji stali, a także do innych procesów metalurgicznych.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://polskiprzemysl.com.pl/wp-content/uploads/produkcja-stali-1.jpg"
         }
       ]
     },
@@ -171,12 +171,12 @@
         {
           "name": "Higiena jamy ustnej",
           "description": "Fluor jest dodawany do past do zębów i płynów do płukania ust, aby zapobiegać próchnicy.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Toothpaste.jpg/640px-Toothpaste.jpg"
         },
         {
           "name": "Produkcja fluorowanych związków",
           "description": "Fluor jest używany do produkcji wielu fluorowanych związków chemicznych, które znajdują zastosowanie w przemyśle i w medycynie.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/2/21/Fluorescence.JPG"
         }
       ]
     },
@@ -191,12 +191,12 @@
         {
           "name": "Oświetlenie reklamowe",
           "description": "Neon jest stosowany w lampach neonowych do oświetlenia reklam, znaków i billboardów.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/d/df/Neon.JPG"
         },
         {
           "name": "Lasery",
           "description": "Neon jest używany jako gaz w laserach, które znajdują zastosowanie w różnych dziedzinach, takich jak medycyna, przemysł czy rozrywka.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Laser_DSC09088.JPG/1200px-Laser_DSC09088.JPG"
         }
       ]
     },
@@ -211,12 +211,12 @@
         {
           "name": "Produkcja mydła",
           "description": "Sód jest używany do produkcji mydła i innych produktów czyszczących.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Handmade_soap_cropped_and_simplified.jpg"
         },
         {
           "name": "Oczyszczanie wody",
           "description": "Sól kuchenna, zawierająca sód, jest czasami stosowana do oczyszczania wody pitnej poprzez proces koagulacji.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Table_salt_with_salt_shaker_V1.jpg"
         }
       ]
     },
@@ -231,17 +231,17 @@
         {
           "name": "Stopy metali",
           "description": "Magnez jest dodawany do wielu stopów metali, takich jak aluminium, w celu poprawy ich wytrzymałości i lekkości.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/8/86/Al_ingot.jpg"
         },
         {
           "name": "Suplementy diety",
           "description": "Magnez jest używany jako składnik suplementów diety ze względu na jego korzystny wpływ na zdrowie kości i mięśni.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://www.grinday.com/blog/wp-content/webpc-passthru.php?src=https://www.grinday.com/blog/wp-content/uploads/2021/01/Opatentowane-a-generyczne-skladniki-suplementow-diety.jpg&nocache=1"
         }
       ]
     },
     {
-      "name": "Aluminium",
+      "name": "Glin",
       "symbol": "Al",
       "atomicNumber": 13,
       "atomicWeight": 26.982,
@@ -250,13 +250,13 @@
       "usage": [
         {
           "name": "Opakowania",
-          "description": "Aluminium jest szeroko stosowane do produkcji opakowań, takich jak puszki napojów i opakowania spożywcze.",
-          "photo": "PHOTO_LINK"
+          "description": "Glin jest szeroko stosowany do produkcji opakowań, takich jak puszki napojów i opakowania spożywcze.",
+          "photo": "https://www.hydro.com/globalassets/03-about-aluminium/facts-about-aluminium/aboutaluminium_factsaboutaluminium_new.jpg?quality=85&width=1036&height=440&rmode=crop&rsampler=bicubic&rxy=0.5,0.5&compand=true"
         },
         {
           "name": "Budownictwo",
-          "description": "Aluminium jest stosowane w budownictwie do produkcji profili, okien i drzwi, ze względu na swoją lekkość i odporność na korozję.",
-          "photo": "PHOTO_LINK"
+          "description": "Glin jest stosowany w budownictwie do produkcji profili, okien i drzwi, ze względu na swoją lekkość i odporność na korozję.",
+          "photo": "https://sklep.winkhaus.pl/media/wysiwyg/BLOG/Profil_okna/profil_okienny_aluminium.jpg"
         }
       ]
     },
@@ -271,12 +271,12 @@
         {
           "name": "Elektronika",
           "description": "Krzem jest podstawowym materiałem używanym do produkcji układów scalonych i innych komponentów elektronicznych.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://cdn.forbot.pl/blog/wp-content/uploads/2022/08/czym_jest_uklad_scalony.jpg"
         },
         {
           "name": "Przemysł fotowoltaiczny",
           "description": "Krzem jest głównym składnikiem większości ogniw fotowoltaicznych, wykorzystywanych do produkcji energii słonecznej.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://lepiej.tauron.pl/wp-content/uploads/2021/08/fotowoltaika-miejsce-montazu.jpg"
         }
       ]
     },
@@ -291,12 +291,12 @@
         {
           "name": "Nawozy",
           "description": "Fosfor jest używany do produkcji nawozów sztucznych, które są niezbędne do uprawy roślin.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://zielonyogrodek.pl/i/2021/12/09/91535-75b9-1600x0-sc1x51554_nawozy-sztuczne-fot-weerapat-depositphotos.jpg"
         },
         {
           "name": "Produkcja detergentów",
           "description": "Fosfor jest stosowany do produkcji detergentów, takich jak proszki do prania i płyny do mycia naczyń.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Diskflaskor.JPG/800px-Diskflaskor.JPG"
         }
       ]
     },
@@ -309,14 +309,14 @@
       "period": 3,
       "usage": [
         {
-          "name": "Przemysł chemiczny",
-          "description": "Siarka jest używana do produkcji wielu związków chemicznych, takich jak kwas siarkowy i siarczan glinu.",
-          "photo": "PHOTO_LINK"
-        },
-        {
           "name": "Produkcja gumy",
           "description": "Siarka jest dodawana do gumy jako przyspieszacz wulkanizacji, co pomaga w produkcji elastycznych i trwałych produktów gumowych.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/8/84/Goodyear_Wrangler_SR-A_P23570R16_2.jpg"
+        },
+        {
+          "name": "Przemysł chemiczny",
+          "description": "Siarka jest używana do produkcji wielu związków chemicznych, takich jak kwas siarkowy i siarczan glinu.",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sulphuric_acid_96_percent_extra_pure.jpg/170px-Sulphuric_acid_96_percent_extra_pure.jpg"
         }
       ]
     },
@@ -331,12 +331,12 @@
         {
           "name": "Produkcja PVC",
           "description": "Chlor jest stosowany do produkcji polichlorku winylu (PVC), który jest szeroko wykorzystywany w przemyśle budowlanym i tworzyw sztucznych.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Laying_sewer_hi_res_%282%29.jpg/220px-Laying_sewer_hi_res_%282%29.jpg"
         },
         {
           "name": "Oczyszczanie wody",
           "description": "Chlor jest używany do dezynfekcji wody pitnej, eliminując bakterie i inne mikroorganizmy.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Waterdrops_%284648726722%29.jpg/640px-Waterdrops_%284648726722%29.jpg"
         }
       ]
     },
@@ -351,12 +351,12 @@
         {
           "name": "Spawanie",
           "description": "Argon jest stosowany jako gaz osłonowy w procesach spawania, aby zapobiec utlenianiu się stopów metali w wysokich temperaturach.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/AlfredPalmerwelder1.jpg/640px-AlfredPalmerwelder1.jpg"
         },
         {
           "name": "Chłodzenie żywności",
-          "description": "Argon jest czasami używany do chłodzenia żywności w postaci gazowych strumieni w zamrażarkach i chłodziarkach, przyspiesza dojrzewaniu owoców.",
-          "photo": "PHOTO_LINK"
+          "description": "Argon jest czasami używany do chłodzenia żywności w postaci gazowych strumieni w zamrażarkach i chłodziarkach, przyspiesza dojrzewanie owoców.",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Open_refrigerator_with_food_at_night.jpg"
         }
       ]
     },
@@ -371,12 +371,12 @@
         {
           "name": "Zdrowa dieta",
           "description": "Potas jest niezbędny dla zdrowia ludzkiego i jest ważnym składnikiem zdrowej diety. Jest obecny w wielu pokarmach, takich jak owoce, warzywa i mięso.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://wikitable.info/wp-content/uploads/2023/05/seasonal-healthy-plant-based-food-cooking-ingredients-meals-variete-for-vegetarian-clean-eating-keto-and-super-food-concepts-overhead-view-copy-space-stockpack-istock-scaled.jpg"
         },
         {
           "name": "Produkcja szkła",
           "description": "Potas jest używany w produkcji szkła kryształowego, ponieważ nadaje mu odporność na działanie ciepła i poprawia jego wytrzymałość.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Glasservies_Ridder_%28M_Verboeket%2C_1956%29%2C_Kristalunie_Maastricht.jpg/220px-Glasservies_Ridder_%28M_Verboeket%2C_1956%29%2C_Kristalunie_Maastricht.jpg"
         }
       ]
     },
@@ -391,12 +391,12 @@
         {
           "name": "Zdrowe kości",
           "description": "Wapń jest niezbędny dla zdrowia kości i zębów. Jest ważnym składnikiem diety ludzkiej i jest obecny w wielu produktach mlecznych, takich jak mleko, ser i jogurt.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Left_femur_of_extinct_elephant%2C_Alaska%2C_Ice_Age_Wellcome_L0057714.jpg"
         },
         {
           "name": "Produkcja cementu",
           "description": "Wapń jest używany jako składnik cementu, który jest podstawowym materiałem budowlanym do produkcji betonu.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Energetically_Modified_Cement_%28EMC%29_Lule%C3%A5_Sweden_08_2020.jpg"
         }
       ]
     },
@@ -409,14 +409,9 @@
       "period": 4,
       "usage": [
         {
-          "name": "Produkcja stopów",
-          "description": "Skand jest używany jako składnik stopów metali, takich jak aluminium, w celu poprawy ich właściwości mechanicznych.",
-          "photo": "PHOTO_LINK"
-        },
-        {
           "name": "Produkcja żarówek",
           "description": "Skand jest stosowany do produkcji niektórych typów żarówek, które wymagają wysokiej wydajności i trwałości.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Livermore_Centennial_Light_Bulb.jpg"
         }
       ]
     },
@@ -431,12 +426,12 @@
         {
           "name": "Przemysł lotniczy",
           "description": "Tytan jest używany w przemyśle lotniczym do produkcji komponentów lotniczych, takich jak kadłuby samolotów i silniki.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Motors01CJC.jpg/220px-Motors01CJC.jpg"
         },
         {
           "name": "Implanty medyczne",
           "description": "Tytan jest biokompatybilny i odporny na korozję, dlatego jest stosowany do produkcji implantów medycznych, takich jak protezy kończyn.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Army_prosthetic.jpg"
         }
       ]
     },
@@ -451,12 +446,7 @@
         {
           "name": "Produkcja stali",
           "description": "Wanad jest stosowany jako składnik stopów stali, które są wykorzystywane do produkcji narzędzi, sprzętu sportowego i innych produktów wymagających wysokiej wytrzymałości.",
-          "photo": "PHOTO_LINK"
-        },
-        {
-          "name": "Baterie",
-          "description": "Wanad jest wykorzystywany w niektórych typach baterii, takich jak baterie litowo-jonowe, ze względu na swoją zdolność do przechowywania energii.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Tools_various.jpg/1200px-Tools_various.jpg"
         }
       ]
     },
@@ -470,13 +460,13 @@
       "usage": [
         {
           "name": "Przemysł metalurgiczny",
-          "description": "Chrom jest stosowany w metalurgii do produkcji stali nierdzewnej, która jest szeroko wykorzystywana w przemyśle chemicznym, spożywczym i medycznym.",
-          "photo": "PHOTO_LINK"
+          "description": "Chrom jest stosowany do produkcji stali nierdzewnej, która jest szeroko wykorzystywana w przemyśle chemicznym, spożywczym i medycznym.",
+          "photo": "https://polstal.pl/application/files/cache/thumbnails/stal-nierdzewna-004-3445694077.jpg"
         },
         {
           "name": "Barwienie",
           "description": "Związki chromu są wykorzystywane do barwienia tkanin, farb, atramentów i innych produktów, aby nadać im intensywny kolor.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://dzikiebarwy.com/wp-content/uploads/2021/07/farbowanie-tkanin-na-gladko-1024x1024.jpg"
         }
       ]
     },
@@ -491,12 +481,12 @@
         {
           "name": "Produkcja stali",
           "description": "Mangan jest używany w metalurgii do produkcji stali, w celu poprawy jej wytrzymałości i odporności na korozję.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Allegheny_Ludlum_steel_furnace.jpg"
         },
         {
           "name": "Produkcja baterii",
           "description": "Mangan jest używany jako składnik niektórych typów baterii, takich jak baterie litowo-jonowe, aby zwiększyć ich pojemność.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://imageservice.production.denios.io/a.storyblok.com/f/80031/1000x1000/5b2ae1ab3b/battery-structure-1000x1000.jpg"
         }
       ]
     },
@@ -510,13 +500,13 @@
       "usage": [
         {
           "name": "Przemysł metalurgiczny",
-          "description": "Żelazo jest głównym składnikiem stali, najczęściej używanego metalu na świecie. Stal jest wykorzystywana w budownictwie, produkcji pojazdów, narzędzi i wielu innych zastosowań.",
-          "photo": "PHOTO_LINK"
+          "description": "Żelazo jest głównym składnikiem stali, która jest szeroko stosowana w budownictwie, przemyśle motoryzacyjnym, produkcji maszyn, narzędzi, konstrukcji stalowych i wielu innych dziedzinach.",
+          "photo": "https://inzynieria.com/uploaded/articles/Most-Maurzyce_87f0037be3.jpg"
         },
         {
-          "name": "Produkcja magnesów",
-          "description": "Żelazo jest używane w produkcji magnesów, które znajdują zastosowanie w elektrotechnice, silnikach elektrycznych i innych urządzeniach.",
-          "photo": "PHOTO_LINK"
+          "name": "Elektrotechnika",
+          "description": "Żelazo jest używane w produkcji elementów silników elektrycznych. Rożnego rodzaju generatory zawierają często żelazo.",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Gorskii_04414u.jpg/1200px-Gorskii_04414u.jpg"
         }
       ]
     },
@@ -529,14 +519,14 @@
       "period": 4,
       "usage": [
         {
-          "name": "Produkcja magnesów",
-          "description": "Kobalt jest jednym ze składników niektórych magnesów trwałych, stosowanych w urządzeniach elektronicznych, narzędziach i innych aplikacjach.",
-          "photo": "PHOTO_LINK"
+          "name": "Substancje suszące",
+          "description": "Organiczne sole karboksylanowe kobaltu są stosowane jako substancje suszące w farbach, lakierach i tuszach.",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/3/38/F%C3%BCller-tinte_hg.jpg"
         },
         {
           "name": "Przemysł chemiczny",
-          "description": "Związki kobaltu są używane w przemyśle chemicznym jako katalizatory do produkcji tworzyw sztucznych i leków.",
-          "photo": "PHOTO_LINK"
+          "description": "Związki kobaltu są używane jako katalizatory do produkcji tworzyw sztucznych i leków.",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/0/02/Plastic_beads1.jpg"
         }
       ]
     },
@@ -550,13 +540,13 @@
       "usage": [
         {
           "name": "Przemysł metalurgiczny",
-          "description": "Nikiel jest stosowany w metalurgii do produkcji stali nierdzewnej i innych stopów, które są odporne na korozję i wysokie temperatury.",
-          "photo": "PHOTO_LINK"
+          "description": "Nikiel jest stosowany w metalurgii jako dodatek stopowy do produkcji stali nierdzewnej i innych stopów, które są odporne na korozję i wysokie temperatury.",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Pfanne_%28Edelstahl%29.jpg/220px-Pfanne_%28Edelstahl%29.jpg"
         },
         {
           "name": "Produkcja baterii",
           "description": "Nikiel jest używany w niektórych typach baterii, takich jak akumulatory niklowo-metalowo-wodorkowe (NiMH), które są stosowane w elektronice przenośnej i pojazdach elektrycznych.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Eneloop_6420.jpg/1200px-Eneloop_6420.jpg"
         }
       ]
     },
@@ -571,12 +561,12 @@
         {
           "name": "Przewody elektryczne",
           "description": "Miedź jest szeroko stosowana w produkcji przewodów elektrycznych i kabli ze względu na swoją wysoką przewodność elektryczną.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Cellflex_koaxialkabel.jpg/220px-Cellflex_koaxialkabel.jpg"
         },
         {
           "name": "Produkcja wyrobów ze spiżu",
           "description": "Miedź jest jednym ze składników spiżu, stopu miedzi z cyną, który jest wykorzystywany do produkcji różnych wyrobów, takich jak rury, armatura i monety.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Kupferfittings_4062.jpg"
         }
       ]
     },
@@ -591,12 +581,12 @@
         {
           "name": "Ochrona przed korozją",
           "description": "Cynk jest używany do powlekania metali, takich jak stal, w celu ochrony przed korozją. Proces ten nazywa się cynkowaniem.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Rust_Bolt.JPG"
         },
         {
           "name": "Baterie",
-          "description": "Cynk jest stosowany jako jeden z elektrod w bateriach cynkowo-węglowych, które są szeroko stosowane w zegarach, zabawkach i innych urządzeniach codziennego użytku.",
-          "photo": "PHOTO_LINK"
+          "description": "Cynk jest stosowany w bateriach cynkowo-węglowych, które są szeroko stosowane w zegarach, zabawkach i innych urządzeniach codziennego użytku.",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Panasonic-PP3-9volt-battery.jpg"
         }
       ]
     },
@@ -610,13 +600,13 @@
       "usage": [
         {
           "name": "Elektronika",
-          "description": "Gal jest używany w produkcji niektórych rodzajów elektroniki, w tym w tranzystorach, ze względu na swoje właściwości półprzewodnikowe.",
-          "photo": "PHOTO_LINK"
+          "description": "Gal jest używany w produkcji elektroniki, w tym w tranzystorach, ze względu na swoje właściwości półprzewodnikowe.",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Unijuction_transistor_KT117_%28open%29.jpg"
         },
         {
           "name": "Termometria",
           "description": "Gal jest stosowany w termometrach, szczególnie w termometrach optycznych, ze względu na swoją niską toksyczność i niskie punkty topnienia.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://cdn.thewirecutter.com/wp-content/media/2020/09/thermometers2020-2048-9693.jpg"
         }
       ]
     },
@@ -631,12 +621,12 @@
         {
           "name": "Elektronika",
           "description": "German jest używany w produkcji półprzewodników do produkcji diod, tranzystorów i innych komponentów elektronicznych.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Transistors-three_types.jpg"
         },
         {
           "name": "Optyka",
-          "description": "German jest stosowany w niektórych typach optyki, takich jak soczewki optyczne w spektroskopii i fotowoltaice.",
-          "photo": "PHOTO_LINK"
+          "description": "German jest stosowany w szeroko pojętej optyce, m. in. soczewki optyczne w spektroskopii i fotowoltaice.",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Contact_lens.JPG"
         }
       ]
     },
@@ -651,12 +641,12 @@
         {
           "name": "Przemysł elektroniczny",
           "description": "Arsen jest używany w przemyśle elektronicznym do produkcji półprzewodników, laserów i detektorów.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/LASER.jpg/800px-LASER.jpg"
         },
         {
           "name": "Konserwanty",
           "description": "Niektóre związki arsenu były stosowane jako konserwanty w przemyśle spożywczym do przedłużania trwałości żywności.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/5/54/Apples_supermarket.jpg"
         }
       ]
     },
@@ -671,12 +661,12 @@
         {
           "name": "Fotowoltaika",
           "description": "Selen jest używany w produkcji ogniw fotowoltaicznych, które przekształcają energię słoneczną w energię elektryczną.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://instalacje.electrotile.com/wp-content/uploads/2020/09/dzialanie_instalacji-e1601540589404.jpg"
         },
         {
           "name": "Medycyna",
           "description": "Selen jest silnym przeciwutleniaczem i razem z witaminą E pełni ochronną rolę, zabezpieczając przed szkodliwym wpływem wolnych rodników",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Codliveroilcapsules.jpg/220px-Codliveroilcapsules.jpg"
         }
       ]
     },
@@ -691,12 +681,12 @@
         {
           "name": "Oczyszczanie wody",
           "description": "Brom jest stosowany do oczyszczania wody, szczególnie w basenach i spa, gdzie pomaga dezynfekować wodę poprzez zabijanie bakterii i innych szkodliwych organizmów.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://i.gremicdn.pl/image/free/4ec8417bc59c07aca63bcfd1c8b78438/?t=crop:2000:1240:nowe:0:46,resize:fill:408:255,enlarge:1"
         },
         {
           "name": "Leki",
           "description": "Niektóre związki bromu są stosowane w medycynie, na przykład jako składniki leków przeciwbólowych i przeciwpsychotycznych.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Tablets_pills_medicine_medical_waste.jpg/1200px-Tablets_pills_medicine_medical_waste.jpg"
         }
       ]
     },
@@ -711,7 +701,7 @@
         {
           "name": "Oświetlenie",
           "description": "Krypton jest używany w produkcji żarówek żarnikowych i świetlówek, laserów oraz okien o wysokiej sprawności cieplnej",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/LEDfilamentLightBulbE27.jpg/200px-LEDfilamentLightBulbE27.jpg"
         }
       ]
     },
@@ -726,12 +716,12 @@
         {
           "name": "Fajerwerki",
           "description": "Rubid nadaje fioletowy kolor fajerwerkom, co czyni go popularnym składnikiem w produkcji fajerwerków.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://epicfireworks.com/cdn/shop/articles/Dsc00053p55-purple_firework-instagram_1200x900.jpg?v=1693127034"
         },
         {
           "name": "Termoelektryczne generatory",
           "description": "Jony rubidu przesyłane przez pole magnetyczne mogą przewodzić energię elektryczną w termoelektrycznych generatorach.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/7/72/MHW-RTGs.gif"
         }
       ]
     },
@@ -746,12 +736,12 @@
         {
           "name": "Sztuczne ognie",
           "description": "Wykorzystuje się stront do produkcji niektórych rodzajów sztucznych ogni, które charakteryzują się czerwoną barwą płomieni.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Red_fireworks%2C_Rostov-on-Don%2C_Russia.jpg/2560px-Red_fireworks%2C_Rostov-on-Don%2C_Russia.jpg"
         },
         {
           "name": "Produkcja lamp radiowych i kineskopowych",
           "description": "Stront jest wykorzystywany przy produkcji lamp radiowych i kineskopowych.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/12AU7.jpg/240px-12AU7.jpg"
         }
       ]
     },
@@ -766,12 +756,12 @@
         {
           "name": "Przemysł optyczny",
           "description": "Itr jest stosowane w produkcji laserów optycznych, które znajdują zastosowanie w telekomunikacji, medycynie, naukach ścisłych i przemyśle obronnym.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/2/23/Lasers.JPG"
         },
         {
           "name": "Przemysł elektroniczny",
-          "description": "Itr jest wykorzystywane w produkcji diod elektroluminescencyjnych (LED), katalizatorów chemicznych i innych komponentów elektronicznych.",
-          "photo": "PHOTO_LINK"
+          "description": "Itr jest wykorzystywany w produkcji diod elektroluminescencyjnych (LED), katalizatorów chemicznych i innych komponentów elektronicznych.",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Verschiedene_LEDs.jpg/450px-Verschiedene_LEDs.jpg"
         }
       ]
     },
@@ -786,12 +776,12 @@
         {
           "name": "Przemysł lotniczy",
           "description": "Cyrkon jest stosowany w przemyśle lotniczym do produkcji elementów strukturalnych, takich jak części silników, kadłuby samolotów i osłony termiczne.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/8/85/E-3_Sentry_nose.JPG"
         },
         {
           "name": "Przemysł chemiczny",
           "description": "Związki cyrkonu są stosowane jako katalizatory w przemyśle chemicznym do produkcji polimerów i innych związków organicznych.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Polyacetylene-3D-balls.png/1200px-Polyacetylene-3D-balls.png"
         }
       ]
     },
@@ -806,12 +796,12 @@
         {
           "name": "Produkcja stopów",
           "description": "Niob jest stosowany do produkcji stopów z żelazem i niklem, które wykazują doskonałe właściwości mechaniczne i odporność na korozję.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Lingot_aluminium.jpg"
         },
         {
           "name": "Stopy nadprzewodzące",
           "description": "Stopy niobu z cyną i glinem wykazują właściwości nadprzewodzące, co ma zastosowanie w dziedzinie naukowej oraz w produkcji elementów elektronicznych",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Magnet_4.jpg"
         }
       ]
     },
@@ -826,12 +816,12 @@
         {
           "name": "Rośliny",
           "description": "Molibden jest wykorzystywany w rolnictwie do poprawy odporności roślin na choroby oraz skrajne warunki temperaturowe, takie jak chłód i susze. Pomaga również w przemianach fosforu, co umożliwia jego wbudowanie w struktury organiczne roślin, co wpływa korzystnie na ich wzrost i rozwój.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://www.realsimple.com/thmb/P9g1f-xU0Zr2cq2_3dMwfXizZcM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/impossible-to-kill-outdoor-plants-1-2000-f513b0574cb04674a1bce40b832b28dd.jpg"
         },
         {
-          "name": "Przemysł chemiczny",
-          "description": "Molibden jest stosowany jako katalizator w przemyśle chemicznym do produkcji kwasu siarkowego, nawozów sztucznych i innych związków chemicznych.",
-          "photo": "PHOTO_LINK"
+          "name": "Przemysł elektroniczny",
+          "description": "Molibden jest używany do produkcji żarówek elektrycznych, wykonuje się z niego drut będący wspornikiem wolframowego żarnika.",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Gluehlampe_01_KMJ.jpg"
         }
       ]
     },
@@ -846,12 +836,12 @@
         {
           "name": "Diagnostyka medyczna",
           "description": "Wykorzystuje się go między innymi do diagnozowania zmian nowotworowych, badania organów wewnętrznych, struktury kości czy przepływu krwi.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://diagnostykamedyczna.com/wp-content/uploads/2023/08/research-laboratory-man-doctor-with-blood-test-tube.jpg"
         },
         {
           "name": "Przemysł nuklearny",
-          "description": "Technet jest stosowany jako podstawowy wskaźnik wykorzystywanym w medycynie nuklearnej do celów diagnostycznych",
-          "photo": "PHOTO_LINK"
+          "description": "Technet jest stosowany jako podstawowy wskaźnik wykorzystywany w medycynie nuklearnej do celów diagnostycznych",
+          "photo": "https://i.guim.co.uk/img/media/12d76fdae2cdc9e3c0adc73ae22191da5f0cd94a/211_0_3159_1894/master/3159.jpg?width=1200&quality=85&auto=format&fit=max&s=2b107b3e5faf8b36bb49052dc125bd1c"
         }
       ]
     },
@@ -866,12 +856,12 @@
         {
           "name": "Jubilerstwo i dentystyka",
           "description": "Stopy rutenu z platyną lub palladem są używane w jubilerstwie i dentystyce.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://img.etimg.com/thumb/msid-78604267,width-1200,height-900,imgsize-725288,resizemode-8,quality-100/industry/cons-products/fashion-/-cosmetics-/-jewellery/platinum-jewellery-demand-picking-up-in-metro-cities-as-gold-turns-pricier.jpg"
         },
         {
           "name": "Przemysł chemiczny",
-          "description": "Ruten jest stosowany jako katalizator w przemyśle chemicznym do produkcji kwasu siarkowego, nawozów sztucznych i innych związków chemicznych..",
-          "photo": "PHOTO_LINK"
+          "description": "Ruten jest stosowany jako katalizator w przemyśle chemicznym do produkcji kwasu siarkowego, nawozów sztucznych i innych związków chemicznych.",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Ruthenium_a_half_bar.jpg"
         }
       ]
     },
@@ -886,12 +876,12 @@
         {
           "name": "Przemysł chemiczny",
           "description": "Rod jest stosowany jako katalizator w przemyśle chemicznym do produkcji kwasu siarkowego, nawozów sztucznych i innych związków chemicznych.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://przydomu.pl/data/include/img/news/1615371269.jpg"
         },
         {
           "name": "Biżuteria",
           "description": "Rod jest używany w produkcji biżuterii ze względu na swoją odporność na korozję i wysoki połysk.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Jewelry_set_04.jpg/640px-Jewelry_set_04.jpg"
         }
       ]
     },
@@ -906,7 +896,7 @@
         {
           "name": "Katalizatory samochodowe",
           "description": "Pallad jest używany jako składnik katalizatorów samochodowych, które zmniejszają ilość szkodliwych substancji emitowanych przez samochody.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://automator.pl/blog/wp-content/uploads/2019/07/katalizator-samochodowy-752x417.jpg"
         }
       ]
     },
@@ -921,12 +911,12 @@
         {
           "name": "Biżuteria",
           "description": "Srebro jest szeroko stosowane w produkcji biżuterii i ozdób ze względu na swoją odporność na korozję i atrakcyjny wygląd.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Ring_Ruby.jpg"
         },
         {
           "name": "Przemysł fotograficzny",
           "description": "Związki srebra są używane w tradycyjnej fotografii m.in. do produkcji filmów i papierów fotograficznych oraz jako materiał światłoczuły w procesie wywoływania zdjęć.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://blog.cyfrowe.pl/wp-content/uploads/2019/10/art_o_papierach-7.jpg"
         }
       ]
     },
@@ -941,12 +931,12 @@
         {
           "name": "Akumulatory",
           "description": "Kadm jest używany w produkcji akumulatorów niklowo-kadmowych, które są stosowane w urządzeniach elektronicznych, narzędziach elektrycznych i innych zastosowaniach.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Starterbatterie.jpg/220px-Starterbatterie.jpg"
         },
         {
           "name": "Powłoki ochronne",
           "description": "kadm jest stosowany do pokrywania metalowych przedmiotów powłokami ochronnymi, które zwiększają ich odporność na korozję i zużycie oraz też w medycynie (plomby zębów).",
-          "photo": "PHOTO_LINK"
+          "photo": "https://dentacare.pl/wp-content/uploads/iStock-470751885-d-738x347.jpg"
         }
       ]
     },
@@ -961,12 +951,12 @@
         {
           "name": "Elektronika",
           "description": "Ind jest stosowany w elektronice do produkcji półprzewodników, w tym w diodach elektroluminescencyjnych (LED) i wytwarzaniu ekranów LCD.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Led-lampa.jpg"
         },
         {
           "name": "Terapia nowotworowa",
           "description": "Izotopy inda są stosowane w medycynie nuklearnej do diagnostyki i terapii nowotworów.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://www.medicover.pl/Data/Files/storage_files/2023/1/26/bbdebdb8-803d-48e1-afdc-d13116336657/leczenie-raka-5.webp"
         }
       ]
     },
@@ -981,12 +971,12 @@
         {
           "name": "Opakowania",
           "description": "Cyna jest stosowana w produkcji opakowań, szczególnie w produkcji puszek i pojemników na żywność.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TAG_Andy_Warhol_Soup_Can_01.jpg/220px-TAG_Andy_Warhol_Soup_Can_01.jpg"
         },
         {
           "name": "Produkcja lutów spawalniczych",
           "description": "Niemal połowa produkowanej cyny wykorzystywana jest do produkcji lutów spawalniczych.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Desoldering.jpg/1200px-Desoldering.jpg"
         }
       ]
     },
@@ -1001,12 +991,12 @@
         {
           "name": "Ołów",
           "description": "Antymon jest dodawany do ołowiu w stopach, które są stosowane do produkcji akumulatorów samochodowych i innych urządzeń elektrycznych.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Microwave_oven.jpg/2560px-Microwave_oven.jpg"
         },
         {
           "name": "Ogniwa fotowoltaiczne",
           "description": "Związki antymonu są stosowane w produkcji ogniw fotowoltaicznych, które przekształcają energię słoneczną na energię elektryczną.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://instalacje.electrotile.com/wp-content/uploads/2020/09/ogniwa-sloneczne-na-dachu-scaled.jpeg"
         }
       ]
     },
@@ -1021,12 +1011,12 @@
         {
           "name": "Elektronika",
           "description": "Tellur jest używany w produkcji półprzewodników, szczególnie w fotokomórkach, detektorach podczerwieni i diodach elektroluminescencyjnych.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/RBG-LED.jpg/640px-RBG-LED.jpg"
         },
         {
           "name": "Przemysł szklarski",
           "description": "Tellur jest stosowany w przemyśle szklarskim do produkcji szkła o wysokiej przewodności cieplnej, takiego jak szkło termoelektryczne.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://polish.quartzglassproducts.com/test/quartzglassproducts.com/photo/pl40649673-remark.jpg"
         }
       ]
     },
@@ -1041,12 +1031,12 @@
         {
           "name": "Medycyna",
           "description": "Jod jest stosowany w medycynie do produkcji środków dezynfekujących, takich jak płyny jodowane i preparaty antyseptyczne.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/8/8c/COVID-19_au_B%C3%A9nin_flacons_de_gel_hydroalcoolique_sur_une_table1.jpg"
         },
         {
           "name": "Produkcja leków",
           "description": "Jod jest stosowany jako składnik niektórych leków, takich jak leki na tarczycę i środki kontrastowe do badań obrazowych.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/FlattenedRoundPills.jpg/800px-FlattenedRoundPills.jpg"
         }
       ]
     },
@@ -1061,12 +1051,12 @@
         {
           "name": "Oświetlenie",
           "description": "Ksenon jest używany w lampach błyskowych i lampach wyładowczych do produkcji światła o wysokiej intensywności, takich jak lampy samochodowe, lampy operacyjne i latarki.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C5%9Awiat%C5%82o_lampy_w_nocy.jpg/300px-%C5%9Awiat%C5%82o_lampy_w_nocy.jpg"
         },
         {
           "name": "Medycyna nuklearna",
           "description": "Izotopy Ksenonu są stosowane w medycynie nuklearnej do obrazowania mózgu i innych narządów w badaniach scyntygraficznych i tomografii emisyjnej pojedynczych fotonów (SPECT).",
-          "photo": "PHOTO_LINK"
+          "photo": "https://zwrotnik.b-cdn.net/wp-content/uploads/2022/08/medycyna-nuklearna.jpg"
         }
       ]
     },
@@ -1081,12 +1071,12 @@
         {
           "name": "Spektroskopia atomowa",
           "description": "Cez jest używany w spektroskopii atomowej do badania składu chemicznego próbek i analizy struktury atomowej.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/A_scientist_preparing_solutions_for_AAS_%28color%29.jpg/220px-A_scientist_preparing_solutions_for_AAS_%28color%29.jpg"
         },
         {
           "name": "Zegary atomowe",
           "description": "Cez jest stosowany w zegarach atomowych, które mierzą czas z niezwykłą precyzją i są wykorzystywane w laboratoriach naukowych i systemach nawigacji satelitarnej.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/HP_5061A_Cesium_beam_frequency_standard.jpg/1200px-HP_5061A_Cesium_beam_frequency_standard.jpg"
         }
       ]
     },
@@ -1101,12 +1091,12 @@
         {
           "name": "Rentgenodiagnostyka",
           "description": "Bar jest stosowany jako składnik kontrastu rentgenowskiego w badaniach obrazowych, takich jak tomografia komputerowa (CT).",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Boxerfraktur.png/640px-Boxerfraktur.png"
         },
         {
           "name": "Pirotechnika",
-          "description": "Związki baru są używane w pirotechnice do produkcji zielono lub niebieskich ogniw i błyskawic.",
-          "photo": "PHOTO_LINK"
+          "description": "Związki baru są używane w pirotechnice do produkcji zielonych lub niebieskich błyskawic",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Fireworks_2.JPG"
         }
       ]
     },
@@ -1121,12 +1111,12 @@
         {
           "name": "Przemysł stoczniowy",
           "description": "Lantan jest używany w produkcji stali stopowych, które są stosowane w przemyśle stoczniowym do budowy statków i konstrukcji stalowych.",
-          "photo": "PHOTO_LINK"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Stocznia_Gdynia.jpg"
         },
         {
-          "name": "Przemysł optyczny",
-          "description": "Związki lantanu są stosowane w produkcji szkieł optycznych, zwłaszcza soczewek aparatury fotograficznej i obiektywów mikroskopowych.",
-          "photo": "PHOTO_LINK"
+          "name": "Medycyna",
+          "description": "Lantan w postaci węglanu stosowany jest w leczeniu hiperfosfatemii u pacjentów hemodializowanych z przewlekłą niewydolnością nerek oraz u pacjentów poddawanych ciągłej ambulatoryjnej dializie otrzewnowej.",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Physical_Exam_-_Stethoscope.jpg"
         }
       ]
     },
@@ -1139,14 +1129,14 @@
       "period": 6,
       "usage": [
         {
-          "name": "Przemysł metalurgiczny",
-          "description": "Cer jest stosowany w produkcji stali stopowych, magnesów i innych materiałów metalurgicznych ze względu na swoje właściwości magnetyczne i chemiczne.",
-          "photo": "PHOTO_LINK"
+          "name": "Przemysł Elektryczny",
+          "description": "Cer jest stosowany w telewizorach z płaskim ekranem, energooszczędnych żarówkach i reflektorach.",
+          "photo": "https://www.lg.com/pl/images/telewizory/MD05953778/gallery/medium02-COPY-1.jpg"
         },
         {
           "name": "Przemysł chemiczny",
-          "description": "Cer jest używany jako katalizator w przemyśle chemicznym do produkcji tworzyw sztucznych, paliw i innych związków organicznych.",
-          "photo": "PHOTO_LINK"
+          "description": "Tlenek ceru (III) jest używany jako katalizator. Siarczek ceru ze względu na swoją nietoksyczność oraz czerwoną barwę wykorzystywany jest jako pigment.",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Cobalt_Blue.JPG/640px-Cobalt_Blue.JPG"
         }
       ]
     },
@@ -1165,7 +1155,7 @@
         },
         {
           "name": "Katalizatory samochodowe",
-          "description": "Związki praseodymu wchodzą w skład katalizatoró samochodowych",
+          "description": "Związki praseodymu wchodzą w skład katalizatorów samochodowych",
           "photo": "https://automator.pl/blog/wp-content/uploads/2019/07/katalizator.jpg"
         }
       ]
@@ -1180,7 +1170,7 @@
       "usage": [
         {
           "name": "Przemysł magnetyczny",
-          "description": "Neodym jest stosowany w produkcji magnesów neodymowo-żelazoborowego (NdFeB).",
+          "description": "Neodym jest stosowany w produkcji magnesów neodymowo-żelazno-borowych (NdFeB).",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Nd-magnet.jpg/220px-Nd-magnet.jpg"
         },
         {
@@ -1208,7 +1198,7 @@
       "period": 6,
       "usage": [
         {
-          "name": "Przemysł magnetyczny",
+          "name": "Przemysł szklarski",
           "description": "Tlenek Samaru jest stosowany w produkcji szkła i ceramiki.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2023_Ceramika_boles%C5%82awiecka_%283%29.jpg/240px-2023_Ceramika_boles%C5%82awiecka_%283%29.jpg"
         }
@@ -1394,7 +1384,7 @@
       "usage": [
         {
           "name": "Przemysł jubilerski",
-          "description": "Tantal jest stosowany do wyboru biżuterii oraz wyrobów zegarmistrzowskich.",
+          "description": "Tantal jest stosowany do wyrobu biżuterii oraz wyrobów zegarmistrzowskich.",
           "photo": "https://ch24.pl/wp-content/uploads/2009/06/hubhist1.jpg"
         },
         {
@@ -1504,7 +1494,7 @@
       "usage": [
         {
           "name": "Jubilerstwo",
-          "description": "Złoto jest używane do produkcji biżuterii i przedmiotów ozdobnych ze względu na swoją trwałość, piękny wygląd i wartość jakość inwestycyjna.",
+          "description": "Złoto jest używane do produkcji biżuterii i przedmiotów ozdobnych ze względu na swoją trwałość, piękny wygląd i wartość inwestycyjną.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/6/65/Signet_ring_Louvre_MAN87432.jpg"
         },
         {
@@ -1788,7 +1778,7 @@
         {
           "name": "Wykorzystanie w technologii",
           "description": "Kiur używany jest między innymi jako źródło energii dla świecących boi morskich, automatycznych stacji meteorologicznych, a także do ogrzewania skafandrów nurków i kosmonautów.",
-          "photo": "https://upload.wikimedia.org/wikipedia/commons/4/45/_Island_2017.jpg"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Schl%C3%BCsseltonne_-_WSV_-_2008.JPG/220px-Schl%C3%BCsseltonne_-_WSV_-_2008.JPG"
         }
       ]
     },
@@ -1811,7 +1801,7 @@
       "usage": [
         {
           "name": "Brachyterapia neutronowa",
-          "description": "Kaliforn Jest silnym emiterem neutronów i wykorzystywany w terapii przeciwnowotworowej",
+          "description": "Kaliforn jest silnym emiterem neutronów i wykorzystywany w terapii przeciwnowotworowej",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Radiation_therapy.jpg/280px-Radiation_therapy.jpg"
         },
         {

@@ -20,7 +20,7 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <EnableDefaultCssItems>false</EnableDefaultCssItems>
         <Nullable>enable</Nullable>
-
+      <WindowsPackageType Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'windows'">None</WindowsPackageType>
         <!-- Display name -->
         <ApplicationTitle>PeriodicTable</ApplicationTitle>
 
@@ -37,15 +37,28 @@
         <SupportedOSPlatformVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'windows'">10.0.17763.0</SupportedOSPlatformVersion>
         <TargetPlatformMinVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'windows'">10.0.17763.0</TargetPlatformMinVersion>
         <SupportedOSPlatformVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'tizen'">6.5</SupportedOSPlatformVersion>
+        <GenerateAppInstallerFile>True</GenerateAppInstallerFile>
+        <AppxPackageSigningEnabled>True</AppxPackageSigningEnabled>
+        <PackageCertificateThumbprint>0A73F0A0BF119AE704F90BFF2537A3E665BD3BF5</PackageCertificateThumbprint>
+        <AppxPackageSigningTimestampDigestAlgorithm>SHA256</AppxPackageSigningTimestampDigestAlgorithm>
+        <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
+        <AppxSymbolPackageEnabled>False</AppxSymbolPackageEnabled>
+        <GenerateTestArtifacts>True</GenerateTestArtifacts>
+        <AppInstallerUri>https://pl.wikipedia.org/wiki/Boja</AppInstallerUri>
+        <HoursBetweenUpdateChecks>0</HoursBetweenUpdateChecks>
+    </PropertyGroup>
+
+    <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|net8.0-android|AnyCPU'">
+      <AndroidPackageFormat>apk</AndroidPackageFormat>
     </PropertyGroup>
 
     <ItemGroup>
         <!-- App Icon -->
         <MauiAsset Include="wwwroot\legend.png" />
-        <MauiIcon Include="Resources\AppIcon\appicon.svg" ForegroundFile="Resources\AppIcon\appiconfg.svg" Color="#512BD4" />
+        <MauiIcon Include="Resources\AppIcon\appicon.svg" ForegroundFile="Resources\AppIcon\appiconfg.svg" Color="#ffffff" />
 
         <!-- Splash Screen -->
-        <MauiSplashScreen Include="Resources\Splash\splash.svg" Color="#512BD4" BaseSize="128,128" />
+        <MauiSplashScreen Include="Resources\Splash\splash.svg" Color="#ffffff" BaseSize="128,128" />
 
         <!-- Images -->
         <MauiImage Include="Resources\Images\*" />
@@ -61,13 +74,14 @@
     <ItemGroup>
       <Content Remove="Data\chemicals.json" />
     </ItemGroup>
-
     <ItemGroup>
         <PackageReference Include="Microsoft.Maui.Controls" Version="$(MauiVersion)" />
         <PackageReference Include="Microsoft.Maui.Controls.Compatibility" Version="$(MauiVersion)" />
         <PackageReference Include="Microsoft.AspNetCore.Components.WebView.Maui" Version="$(MauiVersion)" />
         <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="8.0.0" />
         <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+        <PackageReference Include="QRCoder" Version="1.4.3" />
+        <PackageReference Include="System.Drawing.Common" Version="8.0.3" />
     </ItemGroup>
 
 </Project>

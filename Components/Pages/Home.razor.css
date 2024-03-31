@@ -12,6 +12,13 @@
             #005ebe 100%
     );
 }
+.upper {
+    text-transform: capitalize;
+}
+.firstletter::first-letter {
+    text-transform: capitalize;
+}
+
 .text-blue {
     color: #092338;
 }
@@ -57,7 +64,7 @@
 }
 
 .photo-legend {
-    max-width: 100vw;
+    max-width: 60vw;
 }
 
 h1 {
