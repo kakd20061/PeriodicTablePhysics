@@ -107,6 +107,44 @@
                                 <hr/>
                             </li>
                         }
+                        <li class="list-unstyled w-100">
+                            <div class="d-flex justify-content-around w-100">
+                                <h3 class="mb-4 fw-bold border-primary title upper">Przykładowe izotopy</h3>
+                            </div>
+                            <div class="d-flex flex-column mt-3">
+                                <div class="d-flex flex-row align-items-center">
+                                    <div class="square bg-green me-3 ms-3 my-1"></div> 
+                                    <span>izotopy naturalne</span>
+                                </div>
+                                <div class="d-flex flex-row align-items-center">
+                                    <div class="square bg-null me-3 ms-3 my-1"></div> 
+                                    <span>izotopy sztuczne</span>
+                                </div>
+                            </div>
+                            <div class="content mt-0">
+                                @foreach(var isotope in selectedElement.isotopes)
+                                {
+                                    <div class='@(isotope.naturalAbundance==null?"bg-null":"bg-green") isotope position-relative'>
+                                        @if (isotope.naturalAbundance != null)
+                                        {
+                                            <span class="position-absolute rp bottom-0">@isotope.naturalAbundance%</span>
+                                        }
+                                        <h1 class="position-relative">
+                                            <span class="position-absolute pos ct text-end wt">
+                                                @isotope.mass
+                                            </span>
+                                            @isotope.symbol
+                                            <span class="position-absolute pos bottom-0 text-end wb">
+                                                @selectedElement.atomicNumber
+                                            </span>
+                                        </h1>
+
+                                        <div class="small-text">@isotope.name</div>
+                                    </div>
+                                }
+                            </div>
+                            <hr/>
+                        </li>
                     }
                 </ul>
             </div>
@@ -121,14 +159,45 @@
   <div class="modal-dialog modal-dialog-centered">
     <div class="modal-content">
       <div class="modal-header">
-        <h1 class="modal-title fs-5" id="noUsageLabel">Brak zastosowania</h1>
+        <h1 class="modal-title fs-5" id="noUsageLabel">Przykładowe izotopy</h1>
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
-          @if (selectedElement is not null)
-          {
-              <p>@selectedElement.name nie ma praktycznego zastosowania lub nasza baza danych go nie posiada</p>
-          }
+          <div class="d-flex flex-column mt-3">
+              <div class="d-flex flex-row align-items-center">
+                  <div class="square bg-green me-3 ms-3 my-1"></div> 
+                  <span>izotopy naturalne</span>
+              </div>
+              <div class="d-flex flex-row align-items-center">
+                  <div class="square bg-null me-3 ms-3 my-1"></div> 
+                  <span>izotopy sztuczne</span>
+              </div>
+          </div>
+          <div class="content mt-0">
+              @if (selectedElement != null)
+              {
+                  @foreach (var isotope in selectedElement.isotopes)
+                  {
+                      <div class='@(isotope.naturalAbundance == null ? "bg-null" : "bg-green") isotope position-relative'>
+                          @if (isotope.naturalAbundance != null)
+                          {
+                              <span class="position-absolute rp bottom-0">@isotope.naturalAbundance%</span>
+                          }
+                          <h1 class="position-relative">
+                              <span class="position-absolute pos ct text-end wt">
+                                  @isotope.mass
+                              </span>
+                              @isotope.symbol
+                              <span class="position-absolute pos bottom-0 text-end wb">
+                                  @selectedElement.atomicNumber
+                              </span>
+                          </h1>
+
+                          <div class="small-text">@isotope.name</div>
+                      </div>
+                  }
+              }
+          </div>
       </div>
       <div class="modal-footer">
           <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Ok</button>
@@ -178,7 +247,11 @@
         }
         else
         {
-            chemicalElements = chemicalElements.Where(x => x.name.ToLower().Contains(value.ToLower())).ToList();
+            chemicalElements = chemicalElements.Where(x => x.symbol.ToLower().Contains(value.ToLower())).ToList();
+            if(chemicalElements.Count == 0)
+            {
+                chemicalElements = basicElements.Where(x => x.name.ToLower().Contains(value.ToLower())).ToList();
+            }
         }
     }
 

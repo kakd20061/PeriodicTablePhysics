@@ -10,13 +10,33 @@
       "usage": [
         {
           "name": "Paliwo rakietowe",
-          "description": "Wodór jest używany jako paliwo rakietowe, poniewacż jest bardzo lekki i ma wysoką zawartość energii.",
+          "description": "Wodór jest używany jako paliwo rakietowe, ponieważ jest bardzo lekki i ma wysoką zawartość energii.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Space_Shuttle_Columbia_launching.jpg/640px-Space_Shuttle_Columbia_launching.jpg"
         },
         {
           "name": "Woda",
           "description": "Woda jest związkiem chemicznym, który składa się z dwóch atomów wodoru i jednego atomu tlenu. Woda jest niezbędna do życia na Ziemi.",
           "photo": "https://oxyshop.pl/wp-content/uploads/2022/01/czym-jest-woda-osmotyczna.png"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 1,
+          "naturalAbundance": 99.99,
+          "symbol": "H",
+          "name": "Wodór-1"
+        },
+        {
+          "mass": 2,
+          "naturalAbundance": 0.01,
+          "symbol": "D",
+          "name": "Deuter (Wodór-2)"
+        },
+        {
+          "mass": 3,
+          "naturalAbundance": null,
+          "symbol": "T",
+          "name": "Tryt (Wodór-3)"
         }
       ]
     },
@@ -38,6 +58,20 @@
           "description": "Hel jest używany jako jeden ze składników mieszanek oddechowych dla zawodowych nurków",
           "photo": "https://www.nautica.poznan.pl/wp-content/uploads/2016/10/12-e1483565319905.jpg"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 3,
+          "naturalAbundance": 0.001,
+          "symbol": "He",
+          "name": "Hel-3"
+        },
+        {
+          "mass": 4,
+          "naturalAbundance": 99.99,
+          "symbol": "He",
+          "name": "Hel-4"
+        }
       ]
     },
     {
@@ -58,6 +92,20 @@
           "description": "Lit jest używany w lekach psychiatrycznych do leczenia zaburzeń nastroju, takich jak depresja i mania.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Tablets_pills_medicine_medical_waste.jpg/1200px-Tablets_pills_medicine_medical_waste.jpg"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 6,
+          "naturalAbundance": 7.59,
+          "symbol": "Li",
+          "name": "Lit-6"
+        },
+        {
+          "mass": 7,
+          "naturalAbundance": 92.41,
+          "symbol": "Li",
+          "name": "Lit-7"
+        }
       ]
     },
     {
@@ -70,13 +118,21 @@
       "usage": [
         {
           "name": "Produkcja lamp",
-          "description": "Niska liczba atomowa beryla sprawia, że słabo pochłania promieniowanie rentgenowskie, dlatego dobrze sprawuje się w okienkach do lamp rentgenowskich, mikroskopach i detektorach promieniowania X.",
+          "description": "Niska liczba atomowa berylu sprawia, że słabo pochłania promieniowanie rentgenowskie, dlatego dobrze sprawuje się w okienkach do lamp rentgenowskich, mikroskopach i detektorach promieniowania X.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Microscope_Zeiss_1879.jpg/220px-Microscope_Zeiss_1879.jpg"
         },
         {
           "name": "Lustra",
           "description": "Beryl ze względu na swoją wytrzymałość jest używany w produkcji komponentów obronnych, takich jak okna kuloodporne czy osłony optyczne",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bulletproof_glass_window_after_a_burglary_attempt.jpg/640px-Bulletproof_glass_window_after_a_burglary_attempt.jpg"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 9,
+          "naturalAbundance": 100,
+          "symbol": "Be",
+          "name": "Beryl-9"
         }
       ]
     },
@@ -98,6 +154,20 @@
           "description": "Bor jest używany w niektórych lekach, takich jak krople do oczu i krople do nosa.",
           "photo": "https://ocdn.eu/pulscms-transforms/1/Tauk9kqTURBXy9kODVkZmQzZjdkODA4ZTFkZGM4ZTkyYjE3MmVmOTUwOC5qcGVnkpUDABXNA-jNAjOTBc0EsM0Chd4AAaEwAQ"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 10,
+          "naturalAbundance": 19.9,
+          "symbol": "B",
+          "name": "Bor-10"
+        },
+        {
+          "mass": 4,
+          "naturalAbundance": 80.1,
+          "symbol": "B",
+          "name": "Bor-4"
+        }
       ]
     },
     {
@@ -117,6 +187,26 @@
           "name": "Materiały konstrukcyjne",
           "description": "Węgiel jest niezbędnym składnikiem stali. Stal jest jednym z najważniejszych materiałów konstrukcyjnych używanych w przemyśle budowlanym, motoryzacyjnym, lotniczym i wielu innych dziedzinach.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Allegheny_Ludlum_steel_furnace.jpg"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 12,
+          "naturalAbundance": 98.93,
+          "symbol": "C",
+          "name": "Węgiel-12"
+        },
+        {
+          "mass": 13,
+          "naturalAbundance": 1.07,
+          "symbol": "C",
+          "name": "Węgiel-7"
+        },
+        {
+          "mass": 14,
+          "naturalAbundance": null,
+          "symbol": "C",
+          "name": "Węgiel-14"
         }
       ]
     },
@@ -138,6 +228,20 @@
           "description": "Azot jest używany jako płyn chłodzący w niektórych procesach przemysłowych, takich jak chłodzenie żywności.",
           "photo": "https://i.wpimg.pl/4032x3024/m.autokult.pl/20191211-170358-64a6a5ef853e613b.jpg"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 14,
+          "naturalAbundance": 99.64,
+          "symbol": "N",
+          "name": "Azot-14"
+        },
+        {
+          "mass": 15,
+          "naturalAbundance": 0.36,
+          "symbol": "N",
+          "name": "Azot-15"
+        }
       ]
     },
     {
@@ -157,6 +261,26 @@
           "name": "Produkcja stali",
           "description": "Tlen jest używany do produkcji stali, a także do innych procesów metalurgicznych.",
           "photo": "https://polskiprzemysl.com.pl/wp-content/uploads/produkcja-stali-1.jpg"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 16,
+          "naturalAbundance": 99.78,
+          "symbol": "O",
+          "name": "Tlen-16"
+        },
+        {
+          "mass": 17,
+          "naturalAbundance": 0.04,
+          "symbol": "O",
+          "name": "Tlen-17"
+        },
+        {
+          "mass": 18,
+          "naturalAbundance": 0.2,
+          "symbol": "O",
+          "name": "Tlen-18"
         }
       ]
     },
@@ -178,6 +302,14 @@
           "description": "Fluor jest używany do produkcji wielu fluorowanych związków chemicznych, które znajdują zastosowanie w przemyśle i w medycynie.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/2/21/Fluorescence.JPG"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 19,
+          "naturalAbundance": 100,
+          "symbol": "F",
+          "name": "Fluor-19"
+        }
       ]
     },
     {
@@ -197,6 +329,26 @@
           "name": "Lasery",
           "description": "Neon jest używany jako gaz w laserach, które znajdują zastosowanie w różnych dziedzinach, takich jak medycyna, przemysł czy rozrywka.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Laser_DSC09088.JPG/1200px-Laser_DSC09088.JPG"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 20,
+          "naturalAbundance": 90.48,
+          "symbol": "Ne",
+          "name": "Neon-20"
+        },
+        {
+          "mass": 21,
+          "naturalAbundance": 0.27,
+          "symbol": "Ne",
+          "name": "Neon-21"
+        },
+        {
+          "mass": 22,
+          "naturalAbundance": 9.25,
+          "symbol": "Ne",
+          "name": "Neon-22"
         }
       ]
     },
@@ -218,6 +370,14 @@
           "description": "Sól kuchenna, zawierająca sód, jest czasami stosowana do oczyszczania wody pitnej poprzez proces koagulacji.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Table_salt_with_salt_shaker_V1.jpg"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 23,
+          "naturalAbundance": 100,
+          "symbol": "Na",
+          "name": "Sód-23"
+        }
       ]
     },
     {
@@ -237,6 +397,26 @@
           "name": "Suplementy diety",
           "description": "Magnez jest używany jako składnik suplementów diety ze względu na jego korzystny wpływ na zdrowie kości i mięśni.",
           "photo": "https://www.grinday.com/blog/wp-content/webpc-passthru.php?src=https://www.grinday.com/blog/wp-content/uploads/2021/01/Opatentowane-a-generyczne-skladniki-suplementow-diety.jpg&nocache=1"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 24,
+          "naturalAbundance": 78.99,
+          "symbol": "Mg",
+          "name": "Magnez-24"
+        },
+        {
+          "mass": 25,
+          "naturalAbundance": 10,
+          "symbol": "Mg",
+          "name": "Magnez-25"
+        },
+        {
+          "mass": 26,
+          "naturalAbundance": 11.01,
+          "symbol": "Mg",
+          "name": "Magnez-26"
         }
       ]
     },
@@ -258,6 +438,14 @@
           "description": "Glin jest stosowany w budownictwie do produkcji profili, okien i drzwi, ze względu na swoją lekkość i odporność na korozję.",
           "photo": "https://sklep.winkhaus.pl/media/wysiwyg/BLOG/Profil_okna/profil_okienny_aluminium.jpg"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 27,
+          "naturalAbundance": 100,
+          "symbol": "Al",
+          "name": "Glin-27"
+        }
       ]
     },
     {
@@ -277,6 +465,26 @@
           "name": "Przemysł fotowoltaiczny",
           "description": "Krzem jest głównym składnikiem większości ogniw fotowoltaicznych, wykorzystywanych do produkcji energii słonecznej.",
           "photo": "https://lepiej.tauron.pl/wp-content/uploads/2021/08/fotowoltaika-miejsce-montazu.jpg"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 28,
+          "naturalAbundance": 92.22,
+          "symbol": "Si",
+          "name": "Krzem-28"
+        },
+        {
+          "mass": 29,
+          "naturalAbundance": 4.69,
+          "symbol": "Si",
+          "name": "Krzem-29"
+        },
+        {
+          "mass": 30,
+          "naturalAbundance": 3.09,
+          "symbol": "Si",
+          "name": "Krzem-30"
         }
       ]
     },
@@ -298,6 +506,14 @@
           "description": "Fosfor jest stosowany do produkcji detergentów, takich jak proszki do prania i płyny do mycia naczyń.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Diskflaskor.JPG/800px-Diskflaskor.JPG"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 31,
+          "naturalAbundance": 100,
+          "symbol": "P",
+          "name": "Fosfor-31"
+        }
       ]
     },
     {
@@ -317,6 +533,32 @@
           "name": "Przemysł chemiczny",
           "description": "Siarka jest używana do produkcji wielu związków chemicznych, takich jak kwas siarkowy i siarczan glinu.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sulphuric_acid_96_percent_extra_pure.jpg/170px-Sulphuric_acid_96_percent_extra_pure.jpg"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 32,
+          "naturalAbundance": 94.99,
+          "symbol": "S",
+          "name": "Siarka-32"
+        },
+        {
+          "mass": 33,
+          "naturalAbundance": 0.75,
+          "symbol": "S",
+          "name": "Siarka-33"
+        },
+        {
+          "mass": 34,
+          "naturalAbundance": 4.25,
+          "symbol": "S",
+          "name": "Siarka-34"
+        },
+        {
+          "mass": 36,
+          "naturalAbundance": 0.01,
+          "symbol": "S",
+          "name": "Siarka-36"
         }
       ]
     },
@@ -338,6 +580,20 @@
           "description": "Chlor jest używany do dezynfekcji wody pitnej, eliminując bakterie i inne mikroorganizmy.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Waterdrops_%284648726722%29.jpg/640px-Waterdrops_%284648726722%29.jpg"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 35,
+          "naturalAbundance": 75.76,
+          "symbol": "Cl",
+          "name": "Chlor-35"
+        },
+        {
+          "mass": 37,
+          "naturalAbundance": 24.24,
+          "symbol": "Cl",
+          "name": "Chlor-37"
+        }
       ]
     },
     {
@@ -357,6 +613,26 @@
           "name": "Chłodzenie żywności",
           "description": "Argon jest czasami używany do chłodzenia żywności w postaci gazowych strumieni w zamrażarkach i chłodziarkach, przyspiesza dojrzewanie owoców.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Open_refrigerator_with_food_at_night.jpg"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 36,
+          "naturalAbundance": 0.34,
+          "symbol": "Ar",
+          "name": "Argon-36"
+        },
+        {
+          "mass": 38,
+          "naturalAbundance": 0.06,
+          "symbol": "Ar",
+          "name": "Argon-38"
+        },
+        {
+          "mass": 40,
+          "naturalAbundance": 99.6,
+          "symbol": "Ar",
+          "name": "Argon-40"
         }
       ]
     },
@@ -378,6 +654,26 @@
           "description": "Potas jest używany w produkcji szkła kryształowego, ponieważ nadaje mu odporność na działanie ciepła i poprawia jego wytrzymałość.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Glasservies_Ridder_%28M_Verboeket%2C_1956%29%2C_Kristalunie_Maastricht.jpg/220px-Glasservies_Ridder_%28M_Verboeket%2C_1956%29%2C_Kristalunie_Maastricht.jpg"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 39,
+          "naturalAbundance": 93.26,
+          "symbol": "K",
+          "name": "Potas-39"
+        },
+        {
+          "mass": 40,
+          "naturalAbundance": 0.01,
+          "symbol": "K",
+          "name": "Potas-40"
+        },
+        {
+          "mass": 41,
+          "naturalAbundance": 6.73,
+          "symbol": "K",
+          "name": "Potas-41"
+        }
       ]
     },
     {
@@ -398,6 +694,44 @@
           "description": "Wapń jest używany jako składnik cementu, który jest podstawowym materiałem budowlanym do produkcji betonu.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Energetically_Modified_Cement_%28EMC%29_Lule%C3%A5_Sweden_08_2020.jpg"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 40,
+          "naturalAbundance": 96.941,
+          "symbol": "Ca",
+          "name": "Wapń-40"
+        },
+        {
+          "mass": 42,
+          "naturalAbundance": 0.647,
+          "symbol": "Ca",
+          "name": "Wapń-42"
+        },
+        {
+          "mass": 43,
+          "naturalAbundance": 0.135,
+          "symbol": "Ca",
+          "name": "Wapń-43"
+        },
+        {
+          "mass": 44,
+          "naturalAbundance": 2.086,
+          "symbol": "Ca",
+          "name": "Wapń-44"
+        },
+        {
+          "mass": 46,
+          "naturalAbundance": 0.004,
+          "symbol": "Ca",
+          "name": "Wapń-46"
+        },
+        {
+          "mass": 48,
+          "naturalAbundance": 0.187,
+          "symbol": "Ca",
+          "name": "Wapń-48"
+        }
       ]
     },
     {
@@ -412,6 +746,14 @@
           "name": "Produkcja żarówek",
           "description": "Skand jest stosowany do produkcji niektórych typów żarówek, które wymagają wysokiej wydajności i trwałości.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Livermore_Centennial_Light_Bulb.jpg"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 45,
+          "naturalAbundance": 100,
+          "symbol": "Sc",
+          "name": "Skand-45"
         }
       ]
     },
@@ -433,6 +775,38 @@
           "description": "Tytan jest biokompatybilny i odporny na korozję, dlatego jest stosowany do produkcji implantów medycznych, takich jak protezy kończyn.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Army_prosthetic.jpg"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 46,
+          "naturalAbundance": 8.25,
+          "symbol": "Ti",
+          "name": "Tytan-46"
+        },
+        {
+          "mass": 47,
+          "naturalAbundance": 7.44,
+          "symbol": "Ti",
+          "name": "Tytan-47"
+        },
+        {
+          "mass": 48,
+          "naturalAbundance": 73.72,
+          "symbol": "Ti",
+          "name": "Tytan-48"
+        },
+        {
+          "mass": 49,
+          "naturalAbundance": 5.41,
+          "symbol": "Ti",
+          "name": "Tytan-49"
+        },
+        {
+          "mass": 50,
+          "naturalAbundance": 5.18,
+          "symbol": "Ti",
+          "name": "Tytan-50"
+        }
       ]
     },
     {
@@ -447,6 +821,20 @@
           "name": "Produkcja stali",
           "description": "Wanad jest stosowany jako składnik stopów stali, które są wykorzystywane do produkcji narzędzi, sprzętu sportowego i innych produktów wymagających wysokiej wytrzymałości.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Tools_various.jpg/1200px-Tools_various.jpg"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 50,
+          "naturalAbundance": 0.25,
+          "symbol": "V",
+          "name": "Wanad-50"
+        },
+        {
+          "mass": 51,
+          "naturalAbundance": 99.75,
+          "symbol": "V",
+          "name": "Wanad-51"
         }
       ]
     },
@@ -468,6 +856,32 @@
           "description": "Związki chromu są wykorzystywane do barwienia tkanin, farb, atramentów i innych produktów, aby nadać im intensywny kolor.",
           "photo": "https://dzikiebarwy.com/wp-content/uploads/2021/07/farbowanie-tkanin-na-gladko-1024x1024.jpg"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 50,
+          "naturalAbundance": 4.35,
+          "symbol": "Cr",
+          "name": "Chrom-50"
+        },
+        {
+          "mass": 52,
+          "naturalAbundance": 83.79,
+          "symbol": "Cr",
+          "name": "Chrom-52"
+        },
+        {
+          "mass": 53,
+          "naturalAbundance": 9.5,
+          "symbol": "Cr",
+          "name": "Chrom-53"
+        },
+        {
+          "mass": 54,
+          "naturalAbundance": 2.36,
+          "symbol": "Cr",
+          "name": "Chrom-54"
+        }
       ]
     },
     {
@@ -487,6 +901,14 @@
           "name": "Produkcja baterii",
           "description": "Mangan jest używany jako składnik niektórych typów baterii, takich jak baterie litowo-jonowe, aby zwiększyć ich pojemność.",
           "photo": "https://imageservice.production.denios.io/a.storyblok.com/f/80031/1000x1000/5b2ae1ab3b/battery-structure-1000x1000.jpg"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 55,
+          "naturalAbundance": 100,
+          "symbol": "Mn",
+          "name": "Mangan-55"
         }
       ]
     },
@@ -508,6 +930,32 @@
           "description": "Żelazo jest używane w produkcji elementów silników elektrycznych. Rożnego rodzaju generatory zawierają często żelazo.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Gorskii_04414u.jpg/1200px-Gorskii_04414u.jpg"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 54,
+          "naturalAbundance": 5.85,
+          "symbol": "Fe",
+          "name": "Żelazo-54"
+        },
+        {
+          "mass": 56,
+          "naturalAbundance": 91.75,
+          "symbol": "Fe",
+          "name": "Żelazo-56"
+        },
+        {
+          "mass": 57,
+          "naturalAbundance": 2.12,
+          "symbol": "Fe",
+          "name": "Żelazo-57"
+        },
+        {
+          "mass": 58,
+          "naturalAbundance": 0.28,
+          "symbol": "Fe",
+          "name": "Żelazo-58"
+        }
       ]
     },
     {
@@ -527,6 +975,14 @@
           "name": "Przemysł chemiczny",
           "description": "Związki kobaltu są używane jako katalizatory do produkcji tworzyw sztucznych i leków.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/0/02/Plastic_beads1.jpg"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 59,
+          "naturalAbundance": 100,
+          "symbol": "Co",
+          "name": "Kobalt-59"
         }
       ]
     },
@@ -548,6 +1004,38 @@
           "description": "Nikiel jest używany w niektórych typach baterii, takich jak akumulatory niklowo-metalowo-wodorkowe (NiMH), które są stosowane w elektronice przenośnej i pojazdach elektrycznych.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Eneloop_6420.jpg/1200px-Eneloop_6420.jpg"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 58,
+          "naturalAbundance": 68.08,
+          "symbol": "Ni",
+          "name": "Nikiel-58"
+        },
+        {
+          "mass": 60,
+          "naturalAbundance": 26.22,
+          "symbol": "Ni",
+          "name": "Nikiel-60"
+        },
+        {
+          "mass": 61,
+          "naturalAbundance": 1.14,
+          "symbol": "Ni",
+          "name": "Nikiel-61"
+        },
+        {
+          "mass": 62,
+          "naturalAbundance": 3.63,
+          "symbol": "Ni",
+          "name": "Nikiel-62"
+        },
+        {
+          "mass": 64,
+          "naturalAbundance": 0.93,
+          "symbol": "Ni",
+          "name": "Nikiel-64"
+        }
       ]
     },
     {
@@ -567,6 +1055,20 @@
           "name": "Produkcja wyrobów ze spiżu",
           "description": "Miedź jest jednym ze składników spiżu, stopu miedzi z cyną, który jest wykorzystywany do produkcji różnych wyrobów, takich jak rury, armatura i monety.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Kupferfittings_4062.jpg"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 63,
+          "naturalAbundance": 69.15,
+          "symbol": "Cu",
+          "name": "Miedź-63"
+        },
+        {
+          "mass": 65,
+          "naturalAbundance": 30.85,
+          "symbol": "Cu",
+          "name": "Miedź-65"
         }
       ]
     },
@@ -588,6 +1090,38 @@
           "description": "Cynk jest stosowany w bateriach cynkowo-węglowych, które są szeroko stosowane w zegarach, zabawkach i innych urządzeniach codziennego użytku.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Panasonic-PP3-9volt-battery.jpg"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 64,
+          "naturalAbundance": 48.27,
+          "symbol": "Zn",
+          "name": "Cynk-X"
+        },
+        {
+          "mass": 66,
+          "naturalAbundance": 27.98,
+          "symbol": "Zn",
+          "name": "Cynk-X"
+        },
+        {
+          "mass": 67,
+          "naturalAbundance": 4.1,
+          "symbol": "Zn",
+          "name": "Cynk-X"
+        },
+        {
+          "mass": 68,
+          "naturalAbundance": 19.02,
+          "symbol": "Zn",
+          "name": "Cynk-X"
+        },
+        {
+          "mass": 70,
+          "naturalAbundance": 0.63,
+          "symbol": "Zn",
+          "name": "Cynk-X"
+        }
       ]
     },
     {
@@ -607,6 +1141,20 @@
           "name": "Termometria",
           "description": "Gal jest stosowany w termometrach, szczególnie w termometrach optycznych, ze względu na swoją niską toksyczność i niskie punkty topnienia.",
           "photo": "https://cdn.thewirecutter.com/wp-content/media/2020/09/thermometers2020-2048-9693.jpg"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 69,
+          "naturalAbundance": 60.11,
+          "symbol": "Ga",
+          "name": "Gal-69"
+        },
+        {
+          "mass": 71,
+          "naturalAbundance": 39.89,
+          "symbol": "Ga",
+          "name": "Gal-71"
         }
       ]
     },
@@ -628,6 +1176,38 @@
           "description": "German jest stosowany w szeroko pojętej optyce, m. in. soczewki optyczne w spektroskopii i fotowoltaice.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Contact_lens.JPG"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 70,
+          "naturalAbundance": 20.38,
+          "symbol": "Ge",
+          "name": "German-70"
+        },
+        {
+          "mass": 72,
+          "naturalAbundance": 27.31,
+          "symbol": "Ge",
+          "name": "German-72"
+        },
+        {
+          "mass": 73,
+          "naturalAbundance": 7.76,
+          "symbol": "Ge",
+          "name": "German-73"
+        },
+        {
+          "mass": 74,
+          "naturalAbundance": 36.72,
+          "symbol": "Ge",
+          "name": "German-74"
+        },
+        {
+          "mass": 76,
+          "naturalAbundance": 7.83,
+          "symbol": "Ge",
+          "name": "German-76"
+        }
       ]
     },
     {
@@ -647,6 +1227,14 @@
           "name": "Konserwanty",
           "description": "Niektóre związki arsenu były stosowane jako konserwanty w przemyśle spożywczym do przedłużania trwałości żywności.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/5/54/Apples_supermarket.jpg"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 75,
+          "naturalAbundance": 100,
+          "symbol": "As",
+          "name": "Arsen-75"
         }
       ]
     },
@@ -668,6 +1256,44 @@
           "description": "Selen jest silnym przeciwutleniaczem i razem z witaminą E pełni ochronną rolę, zabezpieczając przed szkodliwym wpływem wolnych rodników",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Codliveroilcapsules.jpg/220px-Codliveroilcapsules.jpg"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 74,
+          "naturalAbundance": 0.89,
+          "symbol": "Se",
+          "name": "Selen-74"
+        },
+        {
+          "mass": 76,
+          "naturalAbundance": 9.37,
+          "symbol": "Se",
+          "name": "Selen-76"
+        },
+        {
+          "mass": 77,
+          "naturalAbundance": 7.63,
+          "symbol": "Se",
+          "name": "Selen-77"
+        },
+        {
+          "mass": 78,
+          "naturalAbundance": 23.77,
+          "symbol": "Se",
+          "name": "Selen-78"
+        },
+        {
+          "mass": 80,
+          "naturalAbundance": 49.61,
+          "symbol": "Se",
+          "name": "Selen-80"
+        },
+        {
+          "mass": 82,
+          "naturalAbundance": 8.73,
+          "symbol": "Se",
+          "name": "Selen-82"
+        }
       ]
     },
     {
@@ -688,6 +1314,20 @@
           "description": "Niektóre związki bromu są stosowane w medycynie, na przykład jako składniki leków przeciwbólowych i przeciwpsychotycznych.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Tablets_pills_medicine_medical_waste.jpg/1200px-Tablets_pills_medicine_medical_waste.jpg"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 79,
+          "naturalAbundance": 50.69,
+          "symbol": "Br",
+          "name": "Brom-79"
+        },
+        {
+          "mass": 81,
+          "naturalAbundance": 49.31,
+          "symbol": "Br",
+          "name": "Brom-81"
+        }
       ]
     },
     {
@@ -702,6 +1342,44 @@
           "name": "Oświetlenie",
           "description": "Krypton jest używany w produkcji żarówek żarnikowych i świetlówek, laserów oraz okien o wysokiej sprawności cieplnej",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/LEDfilamentLightBulbE27.jpg/200px-LEDfilamentLightBulbE27.jpg"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 78,
+          "naturalAbundance": 0.35,
+          "symbol": "Kr",
+          "name": "Krypton-78"
+        },
+        {
+          "mass": 80,
+          "naturalAbundance": 2.28,
+          "symbol": "Kr",
+          "name": "Krypton-80"
+        },
+        {
+          "mass": 82,
+          "naturalAbundance": 11.59,
+          "symbol": "Kr",
+          "name": "Krypton-82"
+        },
+        {
+          "mass": 83,
+          "naturalAbundance": 11.5,
+          "symbol": "Kr",
+          "name": "Krypton-83"
+        },
+        {
+          "mass": 84,
+          "naturalAbundance": 56.98,
+          "symbol": "Kr",
+          "name": "Krypton-84"
+        },
+        {
+          "mass": 86,
+          "naturalAbundance": 17.27,
+          "symbol": "Kr",
+          "name": "Krypton-86"
         }
       ]
     },
@@ -723,6 +1401,20 @@
           "description": "Jony rubidu przesyłane przez pole magnetyczne mogą przewodzić energię elektryczną w termoelektrycznych generatorach.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/7/72/MHW-RTGs.gif"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 85,
+          "naturalAbundance": 72.17,
+          "symbol": "Rb",
+          "name": "Rubid-85"
+        },
+        {
+          "mass": 87,
+          "naturalAbundance": 27.83,
+          "symbol": "Rb",
+          "name": "Rubid-87"
+        }
       ]
     },
     {
@@ -742,6 +1434,32 @@
           "name": "Produkcja lamp radiowych i kineskopowych",
           "description": "Stront jest wykorzystywany przy produkcji lamp radiowych i kineskopowych.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/12AU7.jpg/240px-12AU7.jpg"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 84,
+          "naturalAbundance": 0.56,
+          "symbol": "Sr",
+          "name": "Stront-84"
+        },
+        {
+          "mass": 86,
+          "naturalAbundance": 9.86,
+          "symbol": "Sr",
+          "name": "Stront-86"
+        },
+        {
+          "mass": 87,
+          "naturalAbundance": 7,
+          "symbol": "Sr",
+          "name": "Stront-87"
+        },
+        {
+          "mass": 88,
+          "naturalAbundance": 82.58,
+          "symbol": "Sr",
+          "name": "Stront-88"
         }
       ]
     },
@@ -763,6 +1481,14 @@
           "description": "Itr jest wykorzystywany w produkcji diod elektroluminescencyjnych (LED), katalizatorów chemicznych i innych komponentów elektronicznych.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Verschiedene_LEDs.jpg/450px-Verschiedene_LEDs.jpg"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 89,
+          "naturalAbundance": 100,
+          "symbol": "Y",
+          "name": "Itr-89"
+        }
       ]
     },
     {
@@ -782,6 +1508,38 @@
           "name": "Przemysł chemiczny",
           "description": "Związki cyrkonu są stosowane jako katalizatory w przemyśle chemicznym do produkcji polimerów i innych związków organicznych.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Polyacetylene-3D-balls.png/1200px-Polyacetylene-3D-balls.png"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 90,
+          "naturalAbundance": 51.45,
+          "symbol": "Zr",
+          "name": "Cyrkon-90"
+        },
+        {
+          "mass": 91,
+          "naturalAbundance": 11.22,
+          "symbol": "Zr",
+          "name": "Cyrkon-91"
+        },
+        {
+          "mass": 92,
+          "naturalAbundance": 17.15,
+          "symbol": "Zr",
+          "name": "Cyrkon-92"
+        },
+        {
+          "mass": 94,
+          "naturalAbundance": 17.38,
+          "symbol": "Zr",
+          "name": "Cyrkon-94"
+        },
+        {
+          "mass": 96,
+          "naturalAbundance": 2.8,
+          "symbol": "Zr",
+          "name": "Cyrkon-96"
         }
       ]
     },
@@ -803,6 +1561,14 @@
           "description": "Stopy niobu z cyną i glinem wykazują właściwości nadprzewodzące, co ma zastosowanie w dziedzinie naukowej oraz w produkcji elementów elektronicznych",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Magnet_4.jpg"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 93,
+          "naturalAbundance": 100,
+          "symbol": "Nb",
+          "name": "Niob-93"
+        }
       ]
     },
     {
@@ -822,6 +1588,50 @@
           "name": "Przemysł elektroniczny",
           "description": "Molibden jest używany do produkcji żarówek elektrycznych, wykonuje się z niego drut będący wspornikiem wolframowego żarnika.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Gluehlampe_01_KMJ.jpg"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 92,
+          "naturalAbundance": 14.77,
+          "symbol": "Mo",
+          "name": "Molibden-92"
+        },
+        {
+          "mass": 94,
+          "naturalAbundance": 9.23,
+          "symbol": "Mo",
+          "name": "Molibden-94"
+        },
+        {
+          "mass": 95,
+          "naturalAbundance": 15.9,
+          "symbol": "Mo",
+          "name": "Molibden-95"
+        },
+        {
+          "mass": 96,
+          "naturalAbundance": 16.68,
+          "symbol": "Mo",
+          "name": "Molibden-96"
+        },
+        {
+          "mass": 97,
+          "naturalAbundance": 9.56,
+          "symbol": "Mo",
+          "name": "Molibden-97"
+        },
+        {
+          "mass": 98,
+          "naturalAbundance": 24.19,
+          "symbol": "Mo",
+          "name": "Molibden-98"
+        },
+        {
+          "mass": 100,
+          "naturalAbundance": 9.67,
+          "symbol": "Mo",
+          "name": "Molibden-100"
         }
       ]
     },
@@ -843,6 +1653,26 @@
           "description": "Technet jest stosowany jako podstawowy wskaźnik wykorzystywany w medycynie nuklearnej do celów diagnostycznych",
           "photo": "https://i.guim.co.uk/img/media/12d76fdae2cdc9e3c0adc73ae22191da5f0cd94a/211_0_3159_1894/master/3159.jpg?width=1200&quality=85&auto=format&fit=max&s=2b107b3e5faf8b36bb49052dc125bd1c"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 97,
+          "naturalAbundance": null,
+          "symbol": "Tc",
+          "name": "Technet-97"
+        },
+        {
+          "mass": 98,
+          "naturalAbundance": null,
+          "symbol": "Tc",
+          "name": "Technet-98"
+        },
+        {
+          "mass": 88,
+          "naturalAbundance": null,
+          "symbol": "Tc",
+          "name": "Technet-99"
+        }
       ]
     },
     {
@@ -862,6 +1692,50 @@
           "name": "Przemysł chemiczny",
           "description": "Ruten jest stosowany jako katalizator w przemyśle chemicznym do produkcji kwasu siarkowego, nawozów sztucznych i innych związków chemicznych.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Ruthenium_a_half_bar.jpg"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 96,
+          "naturalAbundance": 5.54,
+          "symbol": "Ru",
+          "name": "Ruten-96"
+        },
+        {
+          "mass": 98,
+          "naturalAbundance": 1.87,
+          "symbol": "Ru",
+          "name": "Ruten-98"
+        },
+        {
+          "mass": 99,
+          "naturalAbundance": 12.76,
+          "symbol": "Ru",
+          "name": "Ruten-98"
+        },
+        {
+          "mass": 100,
+          "naturalAbundance": 12.6,
+          "symbol": "Ru",
+          "name": "Ruten-100"
+        },
+        {
+          "mass": 101,
+          "naturalAbundance": 17.06,
+          "symbol": "Ru",
+          "name": "Ruten-101"
+        },
+        {
+          "mass": 102,
+          "naturalAbundance": 31.55,
+          "symbol": "Ru",
+          "name": "Ruten-102"
+        },
+        {
+          "mass": 104,
+          "naturalAbundance": 18.62,
+          "symbol": "Ru",
+          "name": "Ruten-104"
         }
       ]
     },
@@ -883,6 +1757,14 @@
           "description": "Rod jest używany w produkcji biżuterii ze względu na swoją odporność na korozję i wysoki połysk.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Jewelry_set_04.jpg/640px-Jewelry_set_04.jpg"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 103,
+          "naturalAbundance": 100,
+          "symbol": "Rh",
+          "name": "Rod-103"
+        }
       ]
     },
     {
@@ -897,6 +1779,44 @@
           "name": "Katalizatory samochodowe",
           "description": "Pallad jest używany jako składnik katalizatorów samochodowych, które zmniejszają ilość szkodliwych substancji emitowanych przez samochody.",
           "photo": "https://automator.pl/blog/wp-content/uploads/2019/07/katalizator-samochodowy-752x417.jpg"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 102,
+          "naturalAbundance": 1.02,
+          "symbol": "Pd",
+          "name": "Pallad-102"
+        },
+        {
+          "mass": 104,
+          "naturalAbundance": 11.14,
+          "symbol": "Pd",
+          "name": "Pallad-104"
+        },
+        {
+          "mass": 105,
+          "naturalAbundance": 22.33,
+          "symbol": "Pd",
+          "name": "Pallad-105"
+        },
+        {
+          "mass": 106,
+          "naturalAbundance": 27.33,
+          "symbol": "Pd",
+          "name": "Pallad-106"
+        },
+        {
+          "mass": 108,
+          "naturalAbundance": 26.46,
+          "symbol": "Pd",
+          "name": "Pallad-108"
+        },
+        {
+          "mass": 110,
+          "naturalAbundance": 11.72,
+          "symbol": "Pd",
+          "name": "Pallad-110"
         }
       ]
     },
@@ -918,6 +1838,20 @@
           "description": "Związki srebra są używane w tradycyjnej fotografii m.in. do produkcji filmów i papierów fotograficznych oraz jako materiał światłoczuły w procesie wywoływania zdjęć.",
           "photo": "https://blog.cyfrowe.pl/wp-content/uploads/2019/10/art_o_papierach-7.jpg"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 107,
+          "naturalAbundance": 51.84,
+          "symbol": "Ag",
+          "name": "Srebro-107"
+        },
+        {
+          "mass": 109,
+          "naturalAbundance": 48.16,
+          "symbol": "Ag",
+          "name": "Srebro-109"
+        }
       ]
     },
     {
@@ -937,6 +1871,56 @@
           "name": "Powłoki ochronne",
           "description": "kadm jest stosowany do pokrywania metalowych przedmiotów powłokami ochronnymi, które zwiększają ich odporność na korozję i zużycie oraz też w medycynie (plomby zębów).",
           "photo": "https://dentacare.pl/wp-content/uploads/iStock-470751885-d-738x347.jpg"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 106,
+          "naturalAbundance": 1.25,
+          "symbol": "Cd",
+          "name": "Kadm-106"
+        },
+        {
+          "mass": 108,
+          "naturalAbundance": 0.89,
+          "symbol": "Cd",
+          "name": "Kadm-108"
+        },
+        {
+          "mass": 110,
+          "naturalAbundance": 12.49,
+          "symbol": "Cd",
+          "name": "Kadm-110"
+        },
+        {
+          "mass": 111,
+          "naturalAbundance": 12.8,
+          "symbol": "Cd",
+          "name": "Kadm-111"
+        },
+        {
+          "mass": 112,
+          "naturalAbundance": 24.13,
+          "symbol": "Cd",
+          "name": "Kadm-112"
+        },
+        {
+          "mass": 113,
+          "naturalAbundance": 12.22,
+          "symbol": "Cd",
+          "name": "Kadm-113"
+        },
+        {
+          "mass": 114,
+          "naturalAbundance": 28.73,
+          "symbol": "Cd",
+          "name": "Kadm-114"
+        },
+        {
+          "mass": 116,
+          "naturalAbundance": 7.49,
+          "symbol": "Cd",
+          "name": "Kadm-116"
         }
       ]
     },
@@ -958,6 +1942,20 @@
           "description": "Izotopy inda są stosowane w medycynie nuklearnej do diagnostyki i terapii nowotworów.",
           "photo": "https://www.medicover.pl/Data/Files/storage_files/2023/1/26/bbdebdb8-803d-48e1-afdc-d13116336657/leczenie-raka-5.webp"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 113,
+          "naturalAbundance": 4.29,
+          "symbol": "In",
+          "name": "Ind-113"
+        },
+        {
+          "mass": 115,
+          "naturalAbundance": 95.71,
+          "symbol": "In",
+          "name": "Ind-115"
+        }
       ]
     },
     {
@@ -977,6 +1975,68 @@
           "name": "Produkcja lutów spawalniczych",
           "description": "Niemal połowa produkowanej cyny wykorzystywana jest do produkcji lutów spawalniczych.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Desoldering.jpg/1200px-Desoldering.jpg"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 112,
+          "naturalAbundance": 0.97,
+          "symbol": "Sn",
+          "name": "Cyna-112"
+        },
+        {
+          "mass": 114,
+          "naturalAbundance": 0.66,
+          "symbol": "Sn",
+          "name": "Cyna-114"
+        },
+        {
+          "mass": 115,
+          "naturalAbundance": 0.34,
+          "symbol": "Sn",
+          "name": "Cyna-115"
+        },
+        {
+          "mass": 116,
+          "naturalAbundance": 14.54,
+          "symbol": "Sn",
+          "name": "Cyna-116"
+        },
+        {
+          "mass": 117,
+          "naturalAbundance": 7.68,
+          "symbol": "Sn",
+          "name": "Cyna-117"
+        },
+        {
+          "mass": 118,
+          "naturalAbundance": 24.22,
+          "symbol": "Sn",
+          "name": "Cyna-118"
+        },
+        {
+          "mass": 119,
+          "naturalAbundance": 8.59,
+          "symbol": "Sn",
+          "name": "Cyna-119"
+        },
+        {
+          "mass": 120,
+          "naturalAbundance": 32.58,
+          "symbol": "Sn",
+          "name": "Cyna-120"
+        },
+        {
+          "mass": 122,
+          "naturalAbundance": 4.63,
+          "symbol": "Sn",
+          "name": "Cyna-122"
+        },
+        {
+          "mass": 124,
+          "naturalAbundance": 5.79,
+          "symbol": "Sn",
+          "name": "Cyna-124"
         }
       ]
     },
@@ -998,6 +2058,20 @@
           "description": "Związki antymonu są stosowane w produkcji ogniw fotowoltaicznych, które przekształcają energię słoneczną na energię elektryczną.",
           "photo": "https://instalacje.electrotile.com/wp-content/uploads/2020/09/ogniwa-sloneczne-na-dachu-scaled.jpeg"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 121,
+          "naturalAbundance": 57.21,
+          "symbol": "Sb",
+          "name": "Antymon-121"
+        },
+        {
+          "mass": 123,
+          "naturalAbundance": 42.79,
+          "symbol": "Sb",
+          "name": "Antymon-123"
+        }
       ]
     },
     {
@@ -1017,6 +2091,56 @@
           "name": "Przemysł szklarski",
           "description": "Tellur jest stosowany w przemyśle szklarskim do produkcji szkła o wysokiej przewodności cieplnej, takiego jak szkło termoelektryczne.",
           "photo": "https://polish.quartzglassproducts.com/test/quartzglassproducts.com/photo/pl40649673-remark.jpg"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 120,
+          "naturalAbundance": 0.09,
+          "symbol": "Te",
+          "name": "Tellur-120"
+        },
+        {
+          "mass": 122,
+          "naturalAbundance": 2.55,
+          "symbol": "Te",
+          "name": "Tellur-122"
+        },
+        {
+          "mass": 123,
+          "naturalAbundance": 0.89,
+          "symbol": "Te",
+          "name": "Tellur-123"
+        },
+        {
+          "mass": 124,
+          "naturalAbundance": 4.74,
+          "symbol": "Te",
+          "name": "Tellur-124"
+        },
+        {
+          "mass": 125,
+          "naturalAbundance": 7.07,
+          "symbol": "Te",
+          "name": "Tellur-125"
+        },
+        {
+          "mass": 126,
+          "naturalAbundance": 18.84,
+          "symbol": "Te",
+          "name": "Tellur-126"
+        },
+        {
+          "mass": 128,
+          "naturalAbundance": 31.74,
+          "symbol": "Te",
+          "name": "Tellur-128"
+        },
+        {
+          "mass": 130,
+          "naturalAbundance": 34.08,
+          "symbol": "Te",
+          "name": "Tellur-130"
         }
       ]
     },
@@ -1038,6 +2162,14 @@
           "description": "Jod jest stosowany jako składnik niektórych leków, takich jak leki na tarczycę i środki kontrastowe do badań obrazowych.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/FlattenedRoundPills.jpg/800px-FlattenedRoundPills.jpg"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 127,
+          "naturalAbundance": 100,
+          "symbol": "I",
+          "name": "Jod-127"
+        }
       ]
     },
     {
@@ -1057,6 +2189,62 @@
           "name": "Medycyna nuklearna",
           "description": "Izotopy Ksenonu są stosowane w medycynie nuklearnej do obrazowania mózgu i innych narządów w badaniach scyntygraficznych i tomografii emisyjnej pojedynczych fotonów (SPECT).",
           "photo": "https://zwrotnik.b-cdn.net/wp-content/uploads/2022/08/medycyna-nuklearna.jpg"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 124,
+          "naturalAbundance": 0.09,
+          "symbol": "Xe",
+          "name": "Ksenon-124"
+        },
+        {
+          "mass": 126,
+          "naturalAbundance": 0.09,
+          "symbol": "Xe",
+          "name": "Ksenon-126"
+        },
+        {
+          "mass": 128,
+          "naturalAbundance": 1.91,
+          "symbol": "Xe",
+          "name": "Ksenon-128"
+        },
+        {
+          "mass": 129,
+          "naturalAbundance": 26.4,
+          "symbol": "Xe",
+          "name": "Ksenon-129"
+        },
+        {
+          "mass": 130,
+          "naturalAbundance": 4.07,
+          "symbol": "Xe",
+          "name": "Ksenon-130"
+        },
+        {
+          "mass": 131,
+          "naturalAbundance": 21.23,
+          "symbol": "Xe",
+          "name": "Ksenon-131"
+        },
+        {
+          "mass": 132,
+          "naturalAbundance": 26.91,
+          "symbol": "Xe",
+          "name": "Ksenon-132"
+        },
+        {
+          "mass": 134,
+          "naturalAbundance": 10.44,
+          "symbol": "Xe",
+          "name": "Ksenon-134"
+        },
+        {
+          "mass": 136,
+          "naturalAbundance": 8.86,
+          "symbol": "Xe",
+          "name": "Ksenon-136"
         }
       ]
     },
@@ -1078,6 +2266,14 @@
           "description": "Cez jest stosowany w zegarach atomowych, które mierzą czas z niezwykłą precyzją i są wykorzystywane w laboratoriach naukowych i systemach nawigacji satelitarnej.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/HP_5061A_Cesium_beam_frequency_standard.jpg/1200px-HP_5061A_Cesium_beam_frequency_standard.jpg"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 133,
+          "naturalAbundance": 100,
+          "symbol": "Cs",
+          "name": "Cez-133"
+        }
       ]
     },
     {
@@ -1097,6 +2293,50 @@
           "name": "Pirotechnika",
           "description": "Związki baru są używane w pirotechnice do produkcji zielonych lub niebieskich błyskawic",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Fireworks_2.JPG"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 130,
+          "naturalAbundance": 0.11,
+          "symbol": "Ba",
+          "name": "Bar-130"
+        },
+        {
+          "mass": 132,
+          "naturalAbundance": 0.1,
+          "symbol": "Ba",
+          "name": "Bar-132"
+        },
+        {
+          "mass": 134,
+          "naturalAbundance": 2.42,
+          "symbol": "Ba",
+          "name": "Bar-134"
+        },
+        {
+          "mass": 135,
+          "naturalAbundance": 6.59,
+          "symbol": "Ba",
+          "name": "Bar-135"
+        },
+        {
+          "mass": 136,
+          "naturalAbundance": 7.85,
+          "symbol": "Ba",
+          "name": "Bar-136"
+        },
+        {
+          "mass": 137,
+          "naturalAbundance": 11.23,
+          "symbol": "Ba",
+          "name": "Bar-137"
+        },
+        {
+          "mass": 138,
+          "naturalAbundance": 71.7,
+          "symbol": "Ba",
+          "name": "Bar-138"
         }
       ]
     },
@@ -1118,6 +2358,20 @@
           "description": "Lantan w postaci węglanu stosowany jest w leczeniu hiperfosfatemii u pacjentów hemodializowanych z przewlekłą niewydolnością nerek oraz u pacjentów poddawanych ciągłej ambulatoryjnej dializie otrzewnowej.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Physical_Exam_-_Stethoscope.jpg"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 138,
+          "naturalAbundance": 0.09,
+          "symbol": "La",
+          "name": "Lantan-138"
+        },
+        {
+          "mass": 139,
+          "naturalAbundance": 99.91,
+          "symbol": "La",
+          "name": "Lantan-139"
+        }
       ]
     },
     {
@@ -1138,10 +2392,36 @@
           "description": "Tlenek ceru (III) jest używany jako katalizator. Siarczek ceru ze względu na swoją nietoksyczność oraz czerwoną barwę wykorzystywany jest jako pigment.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Cobalt_Blue.JPG/640px-Cobalt_Blue.JPG"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 136,
+          "naturalAbundance": 0.19,
+          "symbol": "Ce",
+          "name": "Cer-136"
+        },
+        {
+          "mass": 138,
+          "naturalAbundance": 0.25,
+          "symbol": "Ce",
+          "name": "Cer-138"
+        },
+        {
+          "mass": 140,
+          "naturalAbundance": 88.45,
+          "symbol": "Ce",
+          "name": "Cer-140"
+        },
+        {
+          "mass": 142,
+          "naturalAbundance": 11.11,
+          "symbol": "Ce",
+          "name": "Cer-142"
+        }
       ]
     },
     {
-      "name": "Praseodym",
+      "name": "Prazeodym",
       "symbol": "Pr",
       "atomicNumber": 59,
       "atomicWeight": 140.91,
@@ -1157,6 +2437,14 @@
           "name": "Katalizatory samochodowe",
           "description": "Związki praseodymu wchodzą w skład katalizatorów samochodowych",
           "photo": "https://automator.pl/blog/wp-content/uploads/2019/07/katalizator.jpg"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 141,
+          "naturalAbundance": 100,
+          "symbol": "Pr",
+          "name": "Prazeodym-141"
         }
       ]
     },
@@ -1178,6 +2466,50 @@
           "description": "Neodym jest stosowany w produkcji diod elektroluminescencyjnych (LED) do produkcji światła czerwonego i niebieskiego w wyświetlaczach LED i oświetleniu LED.",
           "photo": "https://abc-rc.pl/data/include/cms/Blog/2023-10-09/led_arowka.jpg"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 142,
+          "naturalAbundance": 27.2,
+          "symbol": "Nd",
+          "name": "Neodym-142"
+        },
+        {
+          "mass": 143,
+          "naturalAbundance": 12.2,
+          "symbol": "Nd",
+          "name": "Neodym-143"
+        },
+        {
+          "mass": 144,
+          "naturalAbundance": 23.8,
+          "symbol": "Nd",
+          "name": "Neodym-144"
+        },
+        {
+          "mass": 145,
+          "naturalAbundance": 8.3,
+          "symbol": "Nd",
+          "name": "Neodym-145"
+        },
+        {
+          "mass": 146,
+          "naturalAbundance": 17.2,
+          "symbol": "Nd",
+          "name": "Neodym-146"
+        },
+        {
+          "mass": 148,
+          "naturalAbundance": 5.7,
+          "symbol": "Nd",
+          "name": "Neodym-148"
+        },
+        {
+          "mass": 150,
+          "naturalAbundance": 5.6,
+          "symbol": "Nd",
+          "name": "Neodym-150"
+        }
       ]
     },
     {
@@ -1187,7 +2519,21 @@
       "atomicWeight": 145,
       "group": 3,
       "period": 6,
-      "usage": []
+      "usage": [],
+      "isotopes": [
+        {
+          "mass": 145,
+          "naturalAbundance": null,
+          "symbol": "Pm",
+          "name": "Promet-145"
+        },
+        {
+          "mass": 147,
+          "naturalAbundance": null,
+          "symbol": "Pm",
+          "name": "Promet-147"
+        }
+      ]
     },
     {
       "name": "Samar",
@@ -1201,6 +2547,50 @@
           "name": "Przemysł szklarski",
           "description": "Tlenek Samaru jest stosowany w produkcji szkła i ceramiki.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2023_Ceramika_boles%C5%82awiecka_%283%29.jpg/240px-2023_Ceramika_boles%C5%82awiecka_%283%29.jpg"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 144,
+          "naturalAbundance": 3.07,
+          "symbol": "Sm",
+          "name": "Samar-144"
+        },
+        {
+          "mass": 147,
+          "naturalAbundance": 14.99,
+          "symbol": "Sm",
+          "name": "Samar-147"
+        },
+        {
+          "mass": 148,
+          "naturalAbundance": 11.24,
+          "symbol": "Sm",
+          "name": "Samar-148"
+        },
+        {
+          "mass": 149,
+          "naturalAbundance": 13.82,
+          "symbol": "Sm",
+          "name": "Samar-149"
+        },
+        {
+          "mass": 150,
+          "naturalAbundance": 7.38,
+          "symbol": "Sm",
+          "name": "Samar-150"
+        },
+        {
+          "mass": 152,
+          "naturalAbundance": 26.75,
+          "symbol": "Sm",
+          "name": "Samar-152"
+        },
+        {
+          "mass": 154,
+          "naturalAbundance": 22.75,
+          "symbol": "Sm",
+          "name": "Samar-154"
         }
       ]
     },
@@ -1216,6 +2606,20 @@
           "name": "Przemysł oświetleniowy",
           "description": "Europ jest stosowany w produkcji diod elektroluminescencyjnych (LED) do produkcji światła czerwonego i niebieskiego w wyświetlaczach LED i oświetleniu LED.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/RBG-LED.jpg/640px-RBG-LED.jpg"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 151,
+          "naturalAbundance": 47.81,
+          "symbol": "Eu",
+          "name": "Europ-151"
+        },
+        {
+          "mass": 153,
+          "naturalAbundance": 52.19,
+          "symbol": "Eu",
+          "name": "Europ-153"
         }
       ]
     },
@@ -1237,6 +2641,50 @@
           "description": "Gadolin jest używany jako środek kontrastowy w badaniach obrazowych, takich jak rezonans magnetyczny (MR), oraz w terapii przeciwnowotworowej w formie radioizotopów gadolinu.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Varian4T.jpg/300px-Varian4T.jpg"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 152,
+          "naturalAbundance": 0.2,
+          "symbol": "Gd",
+          "name": "Gadolin-152"
+        },
+        {
+          "mass": 154,
+          "naturalAbundance": 2.18,
+          "symbol": "Gd",
+          "name": "Gadolin-154"
+        },
+        {
+          "mass": 155,
+          "naturalAbundance": 14.8,
+          "symbol": "Gd",
+          "name": "Gadolin-155"
+        },
+        {
+          "mass": 156,
+          "naturalAbundance": 20.47,
+          "symbol": "Gd",
+          "name": "Gadolin-156"
+        },
+        {
+          "mass": 157,
+          "naturalAbundance": 15.65,
+          "symbol": "Gd",
+          "name": "Gadolin-157"
+        },
+        {
+          "mass": 158,
+          "naturalAbundance": 24.84,
+          "symbol": "Gd",
+          "name": "Gadolin-158"
+        },
+        {
+          "mass": 160,
+          "naturalAbundance": 21.86,
+          "symbol": "Gd",
+          "name": "Gadolin-160"
+        }
       ]
     },
     {
@@ -1256,6 +2704,14 @@
           "name": "Przemysł oświetleniowy",
           "description": "Terb jest stosowany w produkcji lamp fluorescencyjnych, rtęciowych.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Energiesparlampe_01_retouched.jpg/640px-Energiesparlampe_01_retouched.jpg"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 159,
+          "naturalAbundance": 100,
+          "symbol": "Tn",
+          "name": "Terb-159"
         }
       ]
     },
@@ -1277,6 +2733,50 @@
           "description": "Jodek dysprozu jest stosowany w lampach halogenowych.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Halogen_lamp_macro_02.jpg/220px-Halogen_lamp_macro_02.jpg"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 156,
+          "naturalAbundance": 0.06,
+          "symbol": "Dy",
+          "name": "Dysproz-156"
+        },
+        {
+          "mass": 158,
+          "naturalAbundance": 0.09,
+          "symbol": "Dy",
+          "name": "Dysproz-158"
+        },
+        {
+          "mass": 160,
+          "naturalAbundance": 2.33,
+          "symbol": "Dy",
+          "name": "Dysproz-160"
+        },
+        {
+          "mass": 161,
+          "naturalAbundance": 18.89,
+          "symbol": "Dy",
+          "name": "Dysproz-161"
+        },
+        {
+          "mass": 162,
+          "naturalAbundance": 25.48,
+          "symbol": "Dy",
+          "name": "Dysproz-162"
+        },
+        {
+          "mass": 163,
+          "naturalAbundance": 24.89,
+          "symbol": "Dy",
+          "name": "Dysproz-163"
+        },
+        {
+          "mass": 164,
+          "naturalAbundance": 28.26,
+          "symbol": "Dy",
+          "name": "Dysproz-164"
+        }
       ]
     },
     {
@@ -1291,6 +2791,14 @@
           "name": "Przemysł magnetyczny",
           "description": "Holm jest stosowany w produkcji magnesów trwałych, które znajdują zastosowanie w silnikach elektrycznych, głośnikach, dyskach twardych i innych urządzeniach elektronicznych.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/2/21/2016_Kolumna_g%C5%82o%C5%9Bnikowa_Altus_110.jpg"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 165,
+          "naturalAbundance": 100,
+          "symbol": "Ho",
+          "name": "Holm-165"
         }
       ]
     },
@@ -1307,6 +2815,44 @@
           "description": "Erb jest używany w technice laserowej, swiatłowodowej  i energetyce jądrowej.",
           "photo": "https://optomer.pl/wp-content/uploads/2020/03/swiatlowod1.png"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 162,
+          "naturalAbundance": 0.14,
+          "symbol": "Er",
+          "name": "Erb-162"
+        },
+        {
+          "mass": 164,
+          "naturalAbundance": 1.6,
+          "symbol": "Er",
+          "name": "Erb-164"
+        },
+        {
+          "mass": 166,
+          "naturalAbundance": 33.5,
+          "symbol": "Er",
+          "name": "Erb-166"
+        },
+        {
+          "mass": 167,
+          "naturalAbundance": 22.87,
+          "symbol": "Er",
+          "name": "Erb-167"
+        },
+        {
+          "mass": 168,
+          "naturalAbundance": 26.98,
+          "symbol": "Er",
+          "name": "Erb-168"
+        },
+        {
+          "mass": 170,
+          "naturalAbundance": 14.91,
+          "symbol": "Er",
+          "name": "Erb-170"
+        }
       ]
     },
     {
@@ -1321,6 +2867,14 @@
           "name": "Przemysł optyczny",
           "description": "Tul jest używany w produkcji szkieł optycznych, elementów półprzewodnikowych, fotoogniw.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/BiconvexLens.jpg/254px-BiconvexLens.jpg"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 169,
+          "naturalAbundance": 100,
+          "symbol": "Tm",
+          "name": "Tul-169"
         }
       ]
     },
@@ -1337,6 +2891,50 @@
           "description": "Iterb jest używany w produkcji laserów optycznych, które znajdują zastosowanie w telekomunikacji, medycynie, naukach ścisłych i przemyśle obronnym.",
           "photo": "https://7cad390533514c32acc8-75d23ce06fcfaf780446d85d50c33f7b.ssl.cf6.rackcdn.com/sc/1697005730-normal-strings-of-lasers.png"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 168,
+          "naturalAbundance": 0.13,
+          "symbol": "Yb",
+          "name": "Iterb-168"
+        },
+        {
+          "mass": 170,
+          "naturalAbundance": 3.04,
+          "symbol": "Yb",
+          "name": "Iterb-170"
+        },
+        {
+          "mass": 171,
+          "naturalAbundance": 14.28,
+          "symbol": "Yb",
+          "name": "Iterb-171"
+        },
+        {
+          "mass": 172,
+          "naturalAbundance": 21.83,
+          "symbol": "Yb",
+          "name": "Iterb-172"
+        },
+        {
+          "mass": 173,
+          "naturalAbundance": 16.13,
+          "symbol": "Yb",
+          "name": "Iterb-173"
+        },
+        {
+          "mass": 174,
+          "naturalAbundance": 31.83,
+          "symbol": "Yb",
+          "name": "Iterb-174"
+        },
+        {
+          "mass": 176,
+          "naturalAbundance": 12.76,
+          "symbol": "Yb",
+          "name": "Iterb-176"
+        }
       ]
     },
     {
@@ -1351,6 +2949,20 @@
           "name": "Medycyna",
           "description": "Izotop lutetu jest stosowany w połączeniu z analogami somatostatyny do leczenia nowotworów pochodzenia neuroendokrynnego",
           "photo": "https://zwrotnik.b-cdn.net/wp-content/uploads/2020/04/nowotwory-neuroendokrynne.jpg"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 175,
+          "naturalAbundance": 97.41,
+          "symbol": "Lu",
+          "name": "Lutet-175"
+        },
+        {
+          "mass": 176,
+          "naturalAbundance": 2.59,
+          "symbol": "Lu",
+          "name": "Lutet-176"
         }
       ]
     },
@@ -1372,6 +2984,44 @@
           "description": "Węglik hafnu (HfC) ma bardzo wysoką temperaturę topnienia, co sprzyja w używaniu go w metalurgi i technologii wysokich temperatur.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Hafnium_bits.jpg/1200px-Hafnium_bits.jpg"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 174,
+          "naturalAbundance": 0.16,
+          "symbol": "Hf",
+          "name": "Hafn-174"
+        },
+        {
+          "mass": 176,
+          "naturalAbundance": 5.26,
+          "symbol": "Hf",
+          "name": "Hafn-176"
+        },
+        {
+          "mass": 177,
+          "naturalAbundance": 18.6,
+          "symbol": "Hf",
+          "name": "Hafn-177"
+        },
+        {
+          "mass": 178,
+          "naturalAbundance": 27.28,
+          "symbol": "Hf",
+          "name": "Hafn-178"
+        },
+        {
+          "mass": 179,
+          "naturalAbundance": 13.62,
+          "symbol": "Hf",
+          "name": "Hafn-179"
+        },
+        {
+          "mass": 180,
+          "naturalAbundance": 35.08,
+          "symbol": "Hf",
+          "name": "Hafn-180"
+        }
       ]
     },
     {
@@ -1391,6 +3041,20 @@
           "name": "Przemysł chemiczny",
           "description": "Tantal ze względu na odporność na działanie większości kwasów i zasad. Wykorzystywany jest do produkcji aparatury chemicznej, znajduje też zastosowanie w sprzęcie zbrojeniowym i kosmicznym.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Tantal_REMOV.jpg/800px-Tantal_REMOV.jpg"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 180,
+          "naturalAbundance": 0.01,
+          "symbol": "Ta",
+          "name": "Tantal-180"
+        },
+        {
+          "mass": 181,
+          "naturalAbundance": 99.99,
+          "symbol": "Ta",
+          "name": "Tantal-181"
         }
       ]
     },
@@ -1412,6 +3076,38 @@
           "description": "Wolfram jest stosowany do produkcji narzędzi skrawających, elektrod spawalniczych i innych narzędzi metalurgicznych ze względu na swoją wysoką twardość i temperaturę topnienia.",
           "photo": "https://i0.wp.com/wolften.pl/wp-content/uploads/2020/11/branza_metalurgiczna_1120_1.jpg?resize=389%2C389&ssl=1"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 180,
+          "naturalAbundance": 0.12,
+          "symbol": "W",
+          "name": "Wolfram-180"
+        },
+        {
+          "mass": 182,
+          "naturalAbundance": 26.5,
+          "symbol": "W",
+          "name": "Wolfram-182"
+        },
+        {
+          "mass": 183,
+          "naturalAbundance": 14.31,
+          "symbol": "W",
+          "name": "Wolfram-183"
+        },
+        {
+          "mass": 184,
+          "naturalAbundance": 30.64,
+          "symbol": "W",
+          "name": "Wolfram-184"
+        },
+        {
+          "mass": 186,
+          "naturalAbundance": 28.43,
+          "symbol": "W",
+          "name": "Wolfram-186"
+        }
       ]
     },
     {
@@ -1427,6 +3123,20 @@
           "description": "Ren jest używany jako dodatek do superstopów stosowanych przy produkcji komponentów wymagających odporności na wysokie temperatury m.in. w silnikach odrzutowych, turbinach gazowych i elementach konstrukcyjnych samolotów.",
           "photo": "https://i.iplsc.com/silnik-odrzutowy-5-faktow-na-jego-temat/000HHBLO7P0VD7Y9-C122-F4.jpg"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 185,
+          "naturalAbundance": 37.4,
+          "symbol": "Re",
+          "name": "Ren-185"
+        },
+        {
+          "mass": 187,
+          "naturalAbundance": 62.6,
+          "symbol": "Re",
+          "name": "Ren-187"
+        }
       ]
     },
     {
@@ -1441,6 +3151,50 @@
           "name": "Przemysł",
           "description": "Osm jest stosowany w wytwarzaniu bardzo twardych stopów, które są stosowane np. w końcówkach stalówek, igiełach gramofonowych i stykach elektrycznych.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/5/5d/CEE_7-7.jpg"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 184,
+          "naturalAbundance": 0.02,
+          "symbol": "Os",
+          "name": "Osm-184"
+        },
+        {
+          "mass": 186,
+          "naturalAbundance": 1.59,
+          "symbol": "Os",
+          "name": "Osm-186"
+        },
+        {
+          "mass": 187,
+          "naturalAbundance": 1.96,
+          "symbol": "Os",
+          "name": "Osm-187"
+        },
+        {
+          "mass": 188,
+          "naturalAbundance": 13.24,
+          "symbol": "Os",
+          "name": "Osm-188"
+        },
+        {
+          "mass": 189,
+          "naturalAbundance": 16.15,
+          "symbol": "Os",
+          "name": "Osm-189"
+        },
+        {
+          "mass": 190,
+          "naturalAbundance": 26.26,
+          "symbol": "Os",
+          "name": "Osm-190"
+        },
+        {
+          "mass": 192,
+          "naturalAbundance": 40.78,
+          "symbol": "Os",
+          "name": "Osm-192"
         }
       ]
     },
@@ -1462,6 +3216,20 @@
           "description": "Iryd jest używany w przemyśle lotniczym do produkcji stopów o wysokiej temperaturze stosowanych w turbinach gazowych i komponentach silników odrzutowych.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gasturbine_Montage01.jpg/1200px-Gasturbine_Montage01.jpg"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 191,
+          "naturalAbundance": 37.3,
+          "symbol": "Ir",
+          "name": "Iryd-191"
+        },
+        {
+          "mass": 193,
+          "naturalAbundance": 62.7,
+          "symbol": "Ir",
+          "name": "Iryd-193"
+        }
       ]
     },
     {
@@ -1481,6 +3249,44 @@
           "name": "Przemysł elektroniczny",
           "description": "Platyna jest stosowana w produkcji elektrod, osłon kabli i inne komponenty elektroniczne.",
           "photo": "https://ascoin.pl/data/include/img/news/1661866397.jpg"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 190,
+          "naturalAbundance": 0.01,
+          "symbol": "Pt",
+          "name": "Platyna-190"
+        },
+        {
+          "mass": 192,
+          "naturalAbundance": 0.78,
+          "symbol": "Pt",
+          "name": "Platyna-192"
+        },
+        {
+          "mass": 194,
+          "naturalAbundance": 32.97,
+          "symbol": "Pt",
+          "name": "Platyna-194"
+        },
+        {
+          "mass": 195,
+          "naturalAbundance": 33.83,
+          "symbol": "Pt",
+          "name": "Platyna-195"
+        },
+        {
+          "mass": 196,
+          "naturalAbundance": 25.24,
+          "symbol": "Pt",
+          "name": "Platyna-196"
+        },
+        {
+          "mass": 198,
+          "naturalAbundance": 7.16,
+          "symbol": "Pt",
+          "name": "Platyna-198"
         }
       ]
     },
@@ -1502,6 +3308,14 @@
           "description": "Złoto jest stosowane w przemyśle elektronicznym do produkcji kontaktów elektrycznych, przewodów, układów drukowanych i innych komponentów.",
           "photo": "https://www.datocms-assets.com/23036/1597836781-typy-i-rodzaje-kabli-i-przewodow.jpg"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 197,
+          "naturalAbundance": 100,
+          "symbol": "Au",
+          "name": "Złoto-197"
+        }
       ]
     },
     {
@@ -1521,6 +3335,50 @@
           "name": "Przemysł elektryczny",
           "description": "Rtęć jest stosowana w produkcji baterii, pomp próżniowych, termometrów oraz w lampach rtęciowych do oświetlenia ulicznego i przemysłowego.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Three_CR123_and_AA.JPG"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 196,
+          "naturalAbundance": 0.15,
+          "symbol": "Hg",
+          "name": "Rtęć-196"
+        },
+        {
+          "mass": 198,
+          "naturalAbundance": 9.97,
+          "symbol": "Hg",
+          "name": "Rtęć-198"
+        },
+        {
+          "mass": 199,
+          "naturalAbundance": 16.87,
+          "symbol": "Hg",
+          "name": "Rtęć-199"
+        },
+        {
+          "mass": 200,
+          "naturalAbundance": 23.1,
+          "symbol": "Hg",
+          "name": "Rtęć-200"
+        },
+        {
+          "mass": 201,
+          "naturalAbundance": 13.18,
+          "symbol": "Hg",
+          "name": "Rtęć-201"
+        },
+        {
+          "mass": 202,
+          "naturalAbundance": 29.86,
+          "symbol": "Hg",
+          "name": "Rtęć-202"
+        },
+        {
+          "mass": 204,
+          "naturalAbundance": 6.87,
+          "symbol": "Hg",
+          "name": "Rtęć-204"
         }
       ]
     },
@@ -1542,6 +3400,20 @@
           "description": "Tal jest używany w produkcji półprzewodników, fotoogniw.",
           "photo": "https://www.ekoradcy.pl/_userfiles/blog/fotowoltaika-na-dachu_1.jpg"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 203,
+          "naturalAbundance": 29.52,
+          "symbol": "Tl",
+          "name": "Tal-203"
+        },
+        {
+          "mass": 205,
+          "naturalAbundance": 70.48,
+          "symbol": "Tl",
+          "name": "Tal-205"
+        }
       ]
     },
     {
@@ -1561,6 +3433,32 @@
           "name": "Przemysł chemiczny",
           "description": "Ołów jest stosowany w produkcji akumulatorów samochodowych, farb, lakierów, ceramiki i ołówków.",
           "photo": "https://images.ctfassets.net/cnu0m8re1exe/1L0fbZPG4t6PFUZ4o9nvhb/88bd6d4d0b2127aa583cfcb1011284b0/shutterstock_1113179420.jpg"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 204,
+          "naturalAbundance": 1.4,
+          "symbol": "Pb",
+          "name": "Ołów-204"
+        },
+        {
+          "mass": 206,
+          "naturalAbundance": 24.1,
+          "symbol": "Pb",
+          "name": "Ołów-206"
+        },
+        {
+          "mass": 207,
+          "naturalAbundance": 22.1,
+          "symbol": "Pb",
+          "name": "Ołów-207"
+        },
+        {
+          "mass": 208,
+          "naturalAbundance": 52.4,
+          "symbol": "Pb",
+          "name": "Ołów-208"
         }
       ]
     },
@@ -1582,6 +3480,14 @@
           "description": "Bizmut jest używany w produkcji niektórych związków chemicznych, takich jak nitrat bizmutu i bizmut subgallate, które znajdują zastosowanie w przemyśle farmaceutycznym i kosmetycznym.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/d/df/Dusi%C4%8Dnan_bismutit%C3%BD.JPG"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 209,
+          "naturalAbundance": 100,
+          "symbol": "Bi",
+          "name": "Bizmut-209"
+        }
       ]
     },
     {
@@ -1597,6 +3503,20 @@
           "description": "Polon jest używany jako źródło energii w urządzeniach wykorzystujących zjawisko termoelektryczne, takich jak termopary.",
           "photo": "https://cdn11.bigcommerce.com/s-y8i55/images/stencil/1280x1280/products/259/1311/DM6801-HT-2-1__07643.1658052997.jpg?c=2"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 209,
+          "naturalAbundance": null,
+          "symbol": "Po",
+          "name": "Polon-209"
+        },
+        {
+          "mass": 210,
+          "naturalAbundance": null,
+          "symbol": "Po",
+          "name": "Polon-210"
+        }
       ]
     },
     {
@@ -1611,6 +3531,20 @@
           "name": "Medycyna",
           "description": "Astat może być stosowany jako potencjalny lek do terapii radiacyjnej w leczeniu niektórych rodzajów nowotworów.",
           "photo": "https://www.suhitas.com/images/abt_img.jpg"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 210,
+          "naturalAbundance": null,
+          "symbol": "At",
+          "name": "Astat-210"
+        },
+        {
+          "mass": 211,
+          "naturalAbundance": null,
+          "symbol": "At",
+          "name": "Astat-211"
         }
       ]
     },
@@ -1632,6 +3566,26 @@
           "description": "Radon jest monitorowany jako gaz radioaktywny w budynkach w celu zapobiegania ekspozycji na promieniowanie jonizujące.",
           "photo": "https://d12oja0ew7x0i8.cloudfront.net/images/Article_Images/ImageForArticle_21715_16536564547954175.jpg"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 219,
+          "naturalAbundance": null,
+          "symbol": "Rn",
+          "name": "Radon-219"
+        },
+        {
+          "mass": 220,
+          "naturalAbundance": null,
+          "symbol": "Rn",
+          "name": "Radon-220"
+        },
+        {
+          "mass": 222,
+          "naturalAbundance": null,
+          "symbol": "Rn",
+          "name": "Radon-222"
+        }
       ]
     },
     {
@@ -1641,7 +3595,15 @@
       "atomicWeight": 223,
       "group": 1,
       "period": 7,
-      "usage": []
+      "usage": [],
+      "isotopes": [
+        {
+          "mass": 223,
+          "naturalAbundance": null,
+          "symbol": "Fr",
+          "name": "Frans-223"
+        }
+      ]
     },
     {
       "name": "Rad",
@@ -1661,6 +3623,32 @@
           "description": "Rad jest wykorzystywany w technice drukarskiej i fotografii do usuwania ładunków elektrostatycznych.",
           "photo": "https://www.lubcon.com/wp-content/uploads/2017/06/printing-lubricants_700_385_70-1-wpcf_893x450.jpg"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 223,
+          "naturalAbundance": null,
+          "symbol": "Ra",
+          "name": "Rad-223"
+        },
+        {
+          "mass": 224,
+          "naturalAbundance": null,
+          "symbol": "Ra",
+          "name": "Rad-224"
+        },
+        {
+          "mass": 226,
+          "naturalAbundance": null,
+          "symbol": "Ra",
+          "name": "Rad-226"
+        },
+        {
+          "mass": 228,
+          "naturalAbundance": null,
+          "symbol": "Ra",
+          "name": "Rad-228"
+        }
       ]
     },
     {
@@ -1670,7 +3658,15 @@
       "atomicWeight": 227,
       "group": 3,
       "period": 7,
-      "usage": []
+      "usage": [],
+      "isotopes": [
+        {
+          "mass": 227,
+          "naturalAbundance": null,
+          "symbol": "Ac",
+          "name": "Aktyn-227"
+        }
+      ]
     },
     {
       "name": "Tor",
@@ -1684,6 +3680,20 @@
           "name": "Przemysł metalurgiczny",
           "description": "Tor jest ważnym dodatkiem stopowym, zwiększającym wysokotemperaturową wytrzymałość metali",
           "photo": "https://geografia24.pl/wp-content/uploads/2021/01/Przemys%C5%82-metalurgiczny.jpg"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 230,
+          "naturalAbundance": null,
+          "symbol": "Th",
+          "name": "Tor-230"
+        },
+        {
+          "mass": 232,
+          "naturalAbundance": 100,
+          "symbol": "Th",
+          "name": "Tor-232"
         }
       ]
     },
@@ -1699,6 +3709,14 @@
           "name": "Produkcja Scyntylatorów",
           "description": "Protaktyn jest stosowany do produkcji scyntylatorów do wykrywania promieniowania rentgenowskiego.",
           "photo": "https://www.moravek.com/wp-content/uploads/2022/10/fPa6RqL8PL2MMgdPIj2JMfdJCKsx4ojh1666291261.jpg"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 231,
+          "naturalAbundance": 100,
+          "symbol": "Pa",
+          "name": "Protaktyn-231"
         }
       ]
     },
@@ -1720,6 +3738,38 @@
           "description": "Uran jest wykorzystywany do produkcji broni jądrowej i w przemyśle zbrojeniowym do produkcji materiałów o wysokiej gęstości.",
           "photo": "https://ocdn.eu/pulscms-transforms/1/nGJktkpTURBXy80OTE1ODhiOTAzYzgxNGViMDViOGYzODMzZjI2YjBiMS5qcGeSlQMAzJnNEyDNCsKTBc0EsM0Cow"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 233,
+          "naturalAbundance": null,
+          "symbol": "U",
+          "name": "Uran-233"
+        },
+        {
+          "mass": 234,
+          "naturalAbundance": 0.005,
+          "symbol": "U",
+          "name": "Uran-234"
+        },
+        {
+          "mass": 235,
+          "naturalAbundance": 0.72,
+          "symbol": "U",
+          "name": "Uran-235"
+        },
+        {
+          "mass": 236,
+          "naturalAbundance": null,
+          "symbol": "U",
+          "name": "Uran-236"
+        },
+        {
+          "mass": 238,
+          "naturalAbundance": 99.274,
+          "symbol": "U",
+          "name": "Uran-238"
+        }
       ]
     },
     {
@@ -1734,6 +3784,20 @@
           "name": "Przemysł jądrowy",
           "description": "Neptun może być wykorzystywany jako materiał paliwowy w reaktorach jądrowych oraz do produkcji plutonu",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/2/24/2011-05-10_18-57-46_Switzerland_-_Wil_crop.jpg"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 236,
+          "naturalAbundance": null,
+          "symbol": "Np",
+          "name": "Neptun-236"
+        },
+        {
+          "mass": 237,
+          "naturalAbundance": null,
+          "symbol": "Np",
+          "name": "Neptun-237"
         }
       ]
     },
@@ -1750,6 +3814,44 @@
           "description": "Pluton jest używany jako źródło energii w radioizotopowych generatorach termoelektrycznych i w radioizotopowych urządzeniach grzewczych (RUG).",
           "photo": "https://ocdn.eu/images/pulscms/YmQ7MDA_/df911c60-3d70-4a8a-bf6d-c5fb67aa2afc.jpeg"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 238,
+          "naturalAbundance": null,
+          "symbol": "Pu",
+          "name": "Pluton-238"
+        },
+        {
+          "mass": 239,
+          "naturalAbundance": null,
+          "symbol": "Pu",
+          "name": "Pluton-239"
+        },
+        {
+          "mass": 240,
+          "naturalAbundance": null,
+          "symbol": "Pu",
+          "name": "Pluton-240"
+        },
+        {
+          "mass": 241,
+          "naturalAbundance": null,
+          "symbol": "Pu",
+          "name": "Pluton-241"
+        },
+        {
+          "mass": 242,
+          "naturalAbundance": null,
+          "symbol": "Pu",
+          "name": "Pluton-242"
+        },
+        {
+          "mass": 244,
+          "naturalAbundance": null,
+          "symbol": "Pu",
+          "name": "Pluton-244"
+        }
       ]
     },
     {
@@ -1764,6 +3866,20 @@
           "name": "Zastosowanie w technologii",
           "description": "Emituje wysokoenergetyczne promieniowanie alfa, przez co używany jest do precyzyjnych przyrządów mierniczych oraz czujników dymu.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Smoke_detector.JPG"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 241,
+          "naturalAbundance": null,
+          "symbol": "Am",
+          "name": "Ameryk-241"
+        },
+        {
+          "mass": 243,
+          "naturalAbundance": null,
+          "symbol": "Am",
+          "name": "Ameryk-243"
         }
       ]
     },
@@ -1780,6 +3896,44 @@
           "description": "Kiur używany jest między innymi jako źródło energii dla świecących boi morskich, automatycznych stacji meteorologicznych, a także do ogrzewania skafandrów nurków i kosmonautów.",
           "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Schl%C3%BCsseltonne_-_WSV_-_2008.JPG/220px-Schl%C3%BCsseltonne_-_WSV_-_2008.JPG"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 243,
+          "naturalAbundance": null,
+          "symbol": "Cm",
+          "name": "Kiur-243"
+        },
+        {
+          "mass": 244,
+          "naturalAbundance": null,
+          "symbol": "Cm",
+          "name": "Kiur-244"
+        },
+        {
+          "mass": 245,
+          "naturalAbundance": null,
+          "symbol": "Cm",
+          "name": "Kiur-245"
+        },
+        {
+          "mass": 246,
+          "naturalAbundance": null,
+          "symbol": "Cm",
+          "name": "Kiur-246"
+        },
+        {
+          "mass": 247,
+          "naturalAbundance": null,
+          "symbol": "Cm",
+          "name": "Kiur-247"
+        },
+        {
+          "mass": 248,
+          "naturalAbundance": null,
+          "symbol": "Cm",
+          "name": "Kiur-248"
+        }
       ]
     },
     {
@@ -1789,7 +3943,21 @@
       "atomicWeight": 247,
       "group": 3,
       "period": 7,
-      "usage": []
+      "usage": [],
+      "isotopes": [
+        {
+          "mass": 247,
+          "naturalAbundance": null,
+          "symbol": "Bk",
+          "name": "Berkel-247"
+        },
+        {
+          "mass": 249,
+          "naturalAbundance": null,
+          "symbol": "Bk",
+          "name": "Berkel-249"
+        }
+      ]
     },
     {
       "name": "Kaliforn",
@@ -1809,6 +3977,32 @@
           "description": "Kaliforn jest jednym z najbardziej efektywnych emiterów neutronów ze wszystkich pierwiastków. Jego izotopy emitują duże ilości neutronów w wyniku rozpadu promieniotwórczego.",
           "photo": "https://bcdn.products.pcc.eu/wp-content/uploads/2023/01/FOT-1-rozpad-promien.jpg"
         }
+      ],
+      "isotopes": [
+        {
+          "mass": 249,
+          "naturalAbundance": null,
+          "symbol": "Cf",
+          "name": "Kaliforn-249"
+        },
+        {
+          "mass": 250,
+          "naturalAbundance": null,
+          "symbol": "Cf",
+          "name": "Kaliforn-250"
+        },
+        {
+          "mass": 251,
+          "naturalAbundance": null,
+          "symbol": "Cf",
+          "name": "Kaliforn-251"
+        },
+        {
+          "mass": 252,
+          "naturalAbundance": null,
+          "symbol": "Cf",
+          "name": "Kaliforn-KK"
+        }
       ]
     },
     {
@@ -1818,7 +4012,15 @@
       "atomicWeight": 252,
       "group": 3,
       "period": 7,
-      "usage": []
+      "usage": [],
+      "isotopes": [
+        {
+          "mass": 252,
+          "naturalAbundance": null,
+          "symbol": "Es",
+          "name": "Einstein-252"
+        }
+      ]
     },
     {
       "name": "Ferm",
@@ -1827,7 +4029,15 @@
       "atomicWeight": 257,
       "group": 3,
       "period": 7,
-      "usage": []
+      "usage": [],
+      "isotopes": [
+        {
+          "mass": 257,
+          "naturalAbundance": null,
+          "symbol": "Fm",
+          "name": "Ferm-257"
+        }
+      ]
     },
     {
       "name": "Mendelew",
@@ -1836,7 +4046,21 @@
       "atomicWeight": 258,
       "group": 3,
       "period": 7,
-      "usage": []
+      "usage": [],
+      "isotopes": [
+        {
+          "mass": 258,
+          "naturalAbundance": null,
+          "symbol": "Md",
+          "name": "Mendelew-258"
+        },
+        {
+          "mass": 260,
+          "naturalAbundance": null,
+          "symbol": "Md",
+          "name": "Mendelew-260"
+        }
+      ]
     },
     {
       "name": "Nobel",
@@ -1845,16 +4069,32 @@
       "atomicWeight": 259,
       "group": 3,
       "period": 7,
-      "usage": []
+      "usage": [],
+      "isotopes": [
+        {
+          "mass": 259,
+          "naturalAbundance": null,
+          "symbol": "No",
+          "name": "Nobel-259"
+        }
+      ]
     },
     {
-      "name": "Lorenc",
+      "name": "Lorens",
       "symbol": "Lr",
       "atomicNumber": 103,
       "atomicWeight": 266,
       "group": 3,
       "period": 7,
-      "usage": []
+      "usage": [],
+      "isotopes": [
+        {
+          "mass": 262,
+          "naturalAbundance": null,
+          "symbol": "Lr",
+          "name": "Lorens-262"
+        }
+      ]
     },
     {
       "name": "Rutherford",
@@ -1863,7 +4103,15 @@
       "atomicWeight": 267,
       "group": 4,
       "period": 7,
-      "usage": []
+      "usage": [],
+      "isotopes": [
+        {
+          "mass": 265,
+          "naturalAbundance": null,
+          "symbol": "Rf",
+          "name": "Rutherford-265"
+        }
+      ]
     },
     {
       "name": "Dubn",
@@ -1872,7 +4120,15 @@
       "atomicWeight": 268,
       "group": 5,
       "period": 7,
-      "usage": []
+      "usage": [],
+      "isotopes": [
+        {
+          "mass": 268,
+          "naturalAbundance": null,
+          "symbol": "Db",
+          "name": "Dubn-268"
+        }
+      ]
     },
     {
       "name": "Seaborg",
@@ -1881,7 +4137,15 @@
       "atomicWeight": 269,
       "group": 6,
       "period": 7,
-      "usage": []
+      "usage": [],
+      "isotopes": [
+        {
+          "mass": 271,
+          "naturalAbundance": null,
+          "symbol": "Sg",
+          "name": "Seaborg-271"
+        }
+      ]
     },
     {
       "name": "Bohr",
@@ -1890,7 +4154,15 @@
       "atomicWeight": 270,
       "group": 7,
       "period": 7,
-      "usage": []
+      "usage": [],
+      "isotopes": [
+        {
+          "mass": 272,
+          "naturalAbundance": null,
+          "symbol": "Bh",
+          "name": "Bohr-272"
+        }
+      ]
     },
     {
       "name": "Has",
@@ -1899,7 +4171,15 @@
       "atomicWeight": 277,
       "group": 8,
       "period": 7,
-      "usage": []
+      "usage": [],
+      "isotopes": [
+        {
+          "mass": 270,
+          "naturalAbundance": null,
+          "symbol": "Hs",
+          "name": "Has-270"
+        }
+      ]
     },
     {
       "name": "Meitner",
@@ -1908,16 +4188,32 @@
       "atomicWeight": 278,
       "group": 9,
       "period": 7,
-      "usage": []
+      "usage": [],
+      "isotopes": [
+        {
+          "mass": 276,
+          "naturalAbundance": null,
+          "symbol": "Mt",
+          "name": "Meitner-276"
+        }
+      ]
     },
     {
-      "name": "Darmsztadt ",
+      "name": "Darmstadt ",
       "symbol": "Ds",
       "atomicNumber": 110,
       "atomicWeight": 281,
       "group": 10,
       "period": 7,
-      "usage": []
+      "usage": [],
+      "isotopes": [
+        {
+          "mass": 281,
+          "naturalAbundance": null,
+          "symbol": "Ds",
+          "name": "Darmstadt-281"
+        }
+      ]
     },
     {
       "name": "Roentgen",
@@ -1926,7 +4222,15 @@
       "atomicWeight": 282,
       "group": 11,
       "period": 7,
-      "usage": []
+      "usage": [],
+      "isotopes": [
+        {
+          "mass": 280,
+          "naturalAbundance": null,
+          "symbol": "Rg",
+          "name": "Roentgen-280"
+        }
+      ]
     },
     {
       "name": "Kopernik",
@@ -1935,7 +4239,15 @@
       "atomicWeight": 285,
       "group": 12,
       "period": 7,
-      "usage": []
+      "usage": [],
+      "isotopes": [
+        {
+          "mass": 285,
+          "naturalAbundance": null,
+          "symbol": "Cn",
+          "name": "Kopernik-285"
+        }
+      ]
     },
     {
       "name": "Nihon",
@@ -1944,7 +4256,15 @@
       "atomicWeight": 286,
       "group": 13,
       "period": 7,
-      "usage": []
+      "usage": [],
+      "isotopes": [
+        {
+          "mass": 286,
+          "naturalAbundance": null,
+          "symbol": "Nh",
+          "name": "Nihon-286"
+        }
+      ]
     },
     {
       "name": "Flerow",
@@ -1953,16 +4273,32 @@
       "atomicWeight": 289,
       "group": 14,
       "period": 7,
-      "usage": []
+      "usage": [],
+      "isotopes": [
+        {
+          "mass": 289,
+          "naturalAbundance": null,
+          "symbol": "Fl",
+          "name": "Flerow-289"
+        }
+      ]
     },
     {
-      "name": "Moskow",
+      "name": "Moscow",
       "symbol": "Mc",
       "atomicNumber": 115,
       "atomicWeight": 289,
       "group": 15,
       "period": 7,
-      "usage": []
+      "usage": [],
+      "isotopes": [
+        {
+          "mass": 289,
+          "naturalAbundance": null,
+          "symbol": "Mc",
+          "name": "Moscow-289"
+        }
+      ]
     },
     {
       "name": "Liwermor",
@@ -1971,7 +4307,15 @@
       "atomicWeight": 293,
       "group": 16,
       "period": 7,
-      "usage": []
+      "usage": [],
+      "isotopes": [
+        {
+          "mass": 292,
+          "naturalAbundance": null,
+          "symbol": "Lv",
+          "name": "Liwermor-294"
+        }
+      ]
     },
     {
       "name": "Tenes",
@@ -1980,16 +4324,38 @@
       "atomicWeight": 294,
       "group": 17,
       "period": 7,
-      "usage": []
+      "usage": [],
+      "isotopes": [
+        {
+          "mass": 293,
+          "naturalAbundance": null,
+          "symbol": "Ts",
+          "name": "Tenes-293"
+        },
+        {
+          "mass": 294,
+          "naturalAbundance": null,
+          "symbol": "Ts",
+          "name": "Tenes-294"
+        }
+      ]
     },
     {
-      "name": "Oganesson",
+      "name": "Oganeson",
       "symbol": "Og",
       "atomicNumber": 118,
       "atomicWeight": 294,
       "group": 18,
       "period": 7,
-      "usage": []
+      "usage": [],
+      "isotopes": [
+        {
+          "mass": 294,
+          "naturalAbundance": null,
+          "symbol": "Og",
+          "name": "Oganeson-294"
+        }
+      ]
     }
   ]
 }
