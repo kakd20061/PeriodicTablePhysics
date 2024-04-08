@@ -14,6 +14,7 @@ public class Element
     public List<Usage> usage { get; set; }
     
     public List<Isotopes> isotopes { get; set; }
+    public Occurrence? occurrence { get; set; }
 }
 
 public class Usage
@@ -29,4 +30,10 @@ public class Isotopes
     public float? naturalAbundance { get; set; }
     public string symbol { get; set; }
     public string name { get; set; }
+}
+
+public class Occurrence
+{
+    public string name { get; set; }
+    public string photo { get; set; }
 }

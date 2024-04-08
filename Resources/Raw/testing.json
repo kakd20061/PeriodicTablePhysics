@@ -1,0 +1,44 @@
+{
+  "elements": [
+    {
+      "name": "Wodór",
+      "symbol": "H",
+      "atomicNumber": 1,
+      "atomicWeight": 1.0079,
+      "group": 1,
+      "period": 1,
+      "usage": [
+        {
+          "name": "Paliwo rakietowe",
+          "description": "Wodór jest używany jako paliwo rakietowe, poniewacż jest bardzo lekki i ma wysoką zawartość energii.",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Space_Shuttle_Columbia_launching.jpg/640px-Space_Shuttle_Columbia_launching.jpg"
+        },
+        {
+          "name": "Woda",
+          "description": "Woda jest związkiem chemicznym, który składa się z dwóch atomów wodoru i jednego atomu tlenu. Woda jest niezbędna do życia na Ziemi.",
+          "photo": "https://oxyshop.pl/wp-content/uploads/2022/01/czym-jest-woda-osmotyczna.png"
+        }
+      ],
+      "isotopes": [
+        {
+          "mass": 1,
+          "naturalAbundance": 99.99,
+          "symbol": "H",
+          "name": "Wodór-1"
+        },
+        {
+          "mass": 2,
+          "naturalAbundance": 0.01,
+          "symbol": "D",
+          "name": "Deuter (Wodór-2)"
+        },
+        {
+          "mass": 3,
+          "naturalAbundance": null,
+          "symbol": "T",
+          "name": "Tryt (Wodór-3)"
+        }
+      ]
+    }
+  ]
+}

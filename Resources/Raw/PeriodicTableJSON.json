@@ -38,7 +38,11 @@
           "symbol": "T",
           "name": "Tryt (Wodór-3)"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Wodór na Ziemi występuje jako składnik związków chemicznych. W formie związanej występuje głównie w wodach morskich i lądowych (jako główny składnik wody – oksydanu).",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/9/99/Sea.jpg"
+      }
     },
     {
       "name": "Hel",
@@ -56,7 +60,7 @@
         {
           "name": "Produkcja mieszanek oddechowych dla zawodowych nurków",
           "description": "Hel jest używany jako jeden ze składników mieszanek oddechowych dla zawodowych nurków",
-          "photo": "https://www.nautica.poznan.pl/wp-content/uploads/2016/10/12-e1483565319905.jpg"
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/2/22/Liquefied_petroleum_gas_cylinders.jpg"
         }
       ],
       "isotopes": [
@@ -72,7 +76,11 @@
           "symbol": "He",
           "name": "Hel-4"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Hel występuje w wielu złożach gazu ziemnego na Niżu Polskim, gdzie jego zawartość w gazie waha się od 0,02 do 0,45%. Zasoby helu udokumentowano w szesnastu złożach, w których jego średnia koncentracja w gazie wynosi 0,22-0,42%.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/0/08/BasaltUSGOV.jpg"
+      }
     },
     {
       "name": "Lit",
@@ -106,7 +114,11 @@
           "symbol": "Li",
           "name": "Lit-7"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Lit nie występuje w przyrodzie w swoim stanie wolnym, a jedynie w postaci związków. Lit występuje w pegmatytach, czyli skałach magmowych oraz wodzie morskiej.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/0/08/BasaltUSGOV.jpg"
+      }
     },
     {
       "name": "Beryl",
@@ -134,7 +146,11 @@
           "symbol": "Be",
           "name": "Beryl-9"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Beryl wchodzi w skład minerałów i niektórych kamieni szlachetnych. Najwieksze lokalizacje złóż berylu to Kolski, Ural Madagaskar, RPA, Cejlon, Włochy, Szwecja, Norwegia, Czechy. W Polsce spotykany na Dolnym Śląsku (głównie w pegmatytach i granitach).",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Be-140g.jpg"
+      }
     },
     {
       "name": "Bor",
@@ -168,7 +184,11 @@
           "symbol": "B",
           "name": "Bor-4"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Bor występuje w wielu roślinach. Stosunkowo duże jego ilości występują w bakaliach, w tym daktylach. Równie bogate w bor są warzywa strączkowe (różne rodzaje fasoli), warzywa liściaste, owoce (winogrona, modele, gruszki, jabłka, brzoskwinie). Bardzo dobrym źródłem boru są również jajka.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/A_green_bean.jpg"
+      }
     },
     {
       "name": "Węgiel",
@@ -208,7 +228,11 @@
           "symbol": "C",
           "name": "Węgiel-14"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Węgiel występuje w różnych postaciach w przyrodzie, w tym jako pierwiastek chemiczny, takie jak grafit, diament, fulereny oraz sadza. Ponadto, można go spotkać w postaci związków chemicznych, w tym węglanów, węglików i tlenków, oraz jako składnik paliw kopalnych, na przykład gazu ziemnego.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/b/bd/CZ_brilliant.jpg"
+      }
     },
     {
       "name": "Azot",
@@ -242,7 +266,11 @@
           "symbol": "N",
           "name": "Azot-15"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Azot jako gaz występuje w atmosferze w formie cząsteczki N2, jest wiązany przez wyspecjalizowane bakterie, rośliny i wbudowywany w ich tkanki. Większość azotu z atmosfery trafia do biosfery poprzez wolno żyjące bakterie azotowe z rodzaju Rhizobium (brodawkowe). Szczególnie dużo występuje ich w roślinach motylkowych.",
+        "photo": "https://cdn.nufarm.com/wp-content/uploads/sites/25/2022/10/24074058/nu-motylkowe-poplony-wyka.jpg"
+      }
     },
     {
       "name": "Tlen",
@@ -282,7 +310,11 @@
           "symbol": "O",
           "name": "Tlen-18"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Tlen jest najbardziej rozpowszechnionym pierwiastkiem na Ziemi. W postaci związanej wchodzi w skład licznych skał, rud metali, piasku, wody. W stanie wolnym występuje w powietrzu.",
+        "photo": "https://powietrze.malopolska.pl/wp-content/uploads/2018/05/chmurki-1024x678.jpg"
+      }
     },
     {
       "name": "Fluor",
@@ -310,7 +342,11 @@
           "symbol": "F",
           "name": "Fluor-19"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Fluor tworzy liczne związki, które są naturalnymi składnikami gleb powulkanicznych, niektórych zbiorników wodnych lub towarzyszą złożom fosforytów, węgla i ropy naftowej.",
+        "photo": "https://pl.fotoomnia.com/thumbnails/720/3d4e7310f907e074333e8cf18e1d06a9.jpg"
+      }
     },
     {
       "name": "Neon",
@@ -350,7 +386,11 @@
           "symbol": "Ne",
           "name": "Neon-22"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Neon występuje w atmosferze, jego zawartość w suchym powietrzu wynosi 0.00161%.",
+        "photo": "https://www.cookmuseum.org/wp-content/uploads/2020/09/air-image-cropped.jpg"
+      }
     },
     {
       "name": "Sód",
@@ -378,7 +418,11 @@
           "symbol": "Na",
           "name": "Sód-23"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Sód występuje w wielu minerałach, takich jak: skaleń, sodalit, czy sól kamienna (chlorek sodu, NaCl).",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Mongolian_rock_salt.jpg/1200px-Mongolian_rock_salt.jpg"
+      }
     },
     {
       "name": "Magnez",
@@ -418,7 +462,11 @@
           "symbol": "Mg",
           "name": "Magnez-26"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Roślinne źródła magnezu to przede wszystkim produkty zbożowe, nasiona roślin strączkowych, orzechy, ziemniaki i banany.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Hazelnuts.jpg/1200px-Hazelnuts.jpg"
+      }
     },
     {
       "name": "Glin",
@@ -446,7 +494,11 @@
           "symbol": "Al",
           "name": "Glin-27"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Glin jest najczęściej występującym metalem w skorupie ziemskiej i trzeci, po tlenie i krzemie, pierwiastek. Jego zawartość spada w głębszych strefach Ziemi. Glin wchodzi w skład dziesiątek różnych minerałów. Zawarty jest miedzy innymi w skaleniach, minerałach ilastych czy łyszczykach.",
+        "photo": "https://home.agh.edu.pl/~bartus/images/zdjecia/skaly/osadowe/ilowiec_illitowy.jpg"
+      }
     },
     {
       "name": "Krzem",
@@ -486,7 +538,11 @@
           "symbol": "Si",
           "name": "Krzem-30"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Naturalne źródła krzemu to warzywa i bogate w ten pierwiastek wody mineralne. Duże ilości krzemu można znaleźć w otrębach ryżowych, pszennych i owsianych, a także w ogórkach, burakach cukrowych, białej cebuli, kapuście, pasternaku, rzodkiewkach, owsie, mączce sojowej i brązowym ryżu.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Cucumis_sativus.jpg"
+      }
     },
     {
       "name": "Fosfor",
@@ -514,7 +570,11 @@
           "symbol": "P",
           "name": "Fosfor-31"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Fosfor występuje w środowisku w postaci fosforanów w skałach pochodzenia organicznego i nieorganicznego oraz resztkach kości i produktach wydalania",
+        "photo": "https://images.ctfassets.net/3g1seohls9eu/3Kf2EJfacSdmdvJfcG5jPH/44571ee747dfec0020cb5d82d2bbcfbc/fluor-hero.jpg"
+      }
     },
     {
       "name": "Siarka",
@@ -560,7 +620,11 @@
           "symbol": "S",
           "name": "Siarka-36"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Siarka występuje w skorupie ziemskiej zarówno w stanie wolnym oraz w postaci związków chemicznych. Siarkosole i siarczki tworzą cenne rudy metali m.in. żelaza, ołowiu, cynku, miedzi tworząc minerały takie jak galena, sfaleryt, piryt czy chalkopiryt.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/9/90/Limonite_bog_iron_cm01.jpg"
+      }
     },
     {
       "name": "Chlor",
@@ -594,7 +658,11 @@
           "symbol": "Cl",
           "name": "Chlor-37"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Chlor możemy odnaleźć głównie w postaci anionu chlorkowego Cl, znajdującego się przede wszystkim w morzach i oceanach.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Atlantic_near_Faroe_Islands.jpg"
+      }
     },
     {
       "name": "Argon",
@@ -634,7 +702,11 @@
           "symbol": "Ar",
           "name": "Argon-40"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Argon stanowi zaledwie 0.93% atmosfery ziemskiej.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Top_of_Atmosphere.jpg"
+      }
     },
     {
       "name": "Potas",
@@ -674,7 +746,11 @@
           "symbol": "K",
           "name": "Potas-41"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Potas to jeden z niewielu pierwiastków, który nie występują w naturze w stanie wolnym. Jest on bardzo nietrwały i podatny na działanie powietrza. W przypadku kontaktu z wodą zapala się i tworzy wodorotlenek potasu, który jest bardzo agresywny chemicznie.",
+        "photo": "https://www.ekologia.pl/wp-content/uploads/2023/03/max_shutterstock_1257314407.jpg"
+      }
     },
     {
       "name": "Wapń",
@@ -732,7 +808,11 @@
           "symbol": "Ca",
           "name": "Wapń-48"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Występuje w minerałach i skałach jak: kalcyt, aragonit, marmury, kreda, wapienie, gips, anhydryt, dolomit, fluoryt, apatyt oraz wiele krzemianów, które są pierwotnym źródłem wapnia w glebach",
+        "photo": "https://nettg.pl/uploads/images/2020-12/1606810949-rozanka-skrzelczyce.jpg"
+      }
     },
     {
       "name": "Skand",
@@ -755,7 +835,11 @@
           "symbol": "Sc",
           "name": "Skand-45"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Jedynym minerałem o dużej zawartości skandu jest tortweityt, występujący w Norwegii. Zawiera on od 35% do 40%. Naturalne złoża skandu znajdują się w Australii, Chinach, Kazachstanie, Rosji, na Ukrainie, w USA i na Madagaskarze.",
+        "photo": "https://www.teraz-srodowisko.pl/images/illustrations/wiadomosc/12912_large.jpg"
+      }
     },
     {
       "name": "Tytan",
@@ -807,7 +891,11 @@
           "symbol": "Ti",
           "name": "Tytan-50"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Tytan nie występuje w postaci niezwiązanej z żadnym pierwiastkiem, zawsze tworzy z nimi rudy. Tytan plasuje się na dziewiątej pozycji jako najbardziej rozpowszechniony pierwiastek w skorupie ziemskiej",
+        "photo": "https://www.ekologia.pl/wp-content/uploads/2023/03/max_shutterstock_1811885482.jpg"
+      }
     },
     {
       "name": "Wanad",
@@ -836,7 +924,11 @@
           "symbol": "V",
           "name": "Wanad-51"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Wanad spotykany dość rzadko w skorupie ziemskiej, obserwowany bywa za pomocą spektroskopii w świetle pochodzącym ze Słońca i niektórych innych gwiazd.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/9/98/Vanadium_etched.jpg"
+      }
     },
     {
       "name": "Chrom",
@@ -882,7 +974,11 @@
           "symbol": "Cr",
           "name": "Chrom-54"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Chrom występuje w skorupie ziemskiej w ilościach około 102 ppm, głównie w postaci minerałów chromitu i krokoitu. Z punktu widzenia odżywiania, najlepszym źródłem chromu są drożdże piekarskie, ryby i owoce morza, produkty pełnoziarniste, kolby kukurydzy, gotowana wołowina, jabłka oraz kasze.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg"
+      }
     },
     {
       "name": "Mangan",
@@ -910,7 +1006,11 @@
           "symbol": "Mn",
           "name": "Mangan-55"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Mangan występuje w naturze w formie tlenków, krzemianów i węglanów, które znaleźć można przede wszystkim w glebie, wodach powierzchniowych oraz wodach morskich. Co ciekawe, jest on jednym z najbardziej rozpowszechnionych pierwiastków (tuż po żelazie) obecnych w skorupie ziemskiej.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Stagnogley.JPG/800px-Stagnogley.JPG"
+      }
     },
     {
       "name": "Żelazo",
@@ -956,7 +1056,11 @@
           "symbol": "Fe",
           "name": "Żelazo-58"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Szacuje się, że ok 5,6% Ziemi to właśnie żelazo, jednak znaczna jego część ulokowana jest w metalicznym jądrze naszej planety. W przyrodzie można je spotkać w stanie rodzimym niezwykle rzadko, bowiem najczęściej występuje w postaci minerałów, tj.: magnetyt, hematyt, limonit, syderyt oraz piryt.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Magnetite.jpg/1200px-Magnetite.jpg"
+      }
     },
     {
       "name": "Kobalt",
@@ -984,7 +1088,11 @@
           "symbol": "Co",
           "name": "Kobalt-59"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "W przyrodzie występuje w nielicznych minerałach, głównie siarczkach i arsenkach zwykle w połączeniu z żelazem i manganem.",
+        "photo": "https://www.miedziana.pl/wp-content/uploads/2015/08/chalkopiryt.jpg"
+      }
     },
     {
       "name": "Nikiel",
@@ -1036,7 +1144,11 @@
           "symbol": "Ni",
           "name": "Nikiel-64"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Nikiel najczęściej łączy się z innymi pierwiastkami, a większość metalicznego niklu, który znajdujemy pochodzi z meteorytów.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/7/71/ChingaMeteorite.jpg"
+      }
     },
     {
       "name": "Miedź",
@@ -1070,7 +1182,11 @@
           "symbol": "Cu",
           "name": "Miedź-65"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Czysta miedź w postaci miedzi rodzimej jest rzadko spotykana w naturze i stanowi około 1% wszystkich jej związków. Pozostała miedź w około 90% wchodzi w skład rud siarczkowych i w około 9% tlenków metal.",
+        "photo": "https://pakhotin.org/wp-content/uploads/2017/12/6.jpg"
+      }
     },
     {
       "name": "Cynk",
@@ -1096,33 +1212,37 @@
           "mass": 64,
           "naturalAbundance": 48.27,
           "symbol": "Zn",
-          "name": "Cynk-X"
+          "name": "Cynk-64"
         },
         {
           "mass": 66,
           "naturalAbundance": 27.98,
           "symbol": "Zn",
-          "name": "Cynk-X"
+          "name": "Cynk-66"
         },
         {
           "mass": 67,
           "naturalAbundance": 4.1,
           "symbol": "Zn",
-          "name": "Cynk-X"
+          "name": "Cynk-67"
         },
         {
           "mass": 68,
           "naturalAbundance": 19.02,
           "symbol": "Zn",
-          "name": "Cynk-X"
+          "name": "Cynk-68"
         },
         {
           "mass": 70,
           "naturalAbundance": 0.63,
           "symbol": "Zn",
-          "name": "Cynk-X"
+          "name": "Cynk-70"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Cynk można spotkać w minerałach takich jak siarczek cynku, kalamin, czy blenda cynkowa. Złoża rud cynkowych występują z reguły w pobliżu rud ołowiowych.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/3/33/Hemimorphite-Smithsonite-220555.jpg"
+      }
     },
     {
       "name": "Gal",
@@ -1156,7 +1276,11 @@
           "symbol": "Ga",
           "name": "Gal-71"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Gal występuje w przyrodzie w stanie rozproszonym w skaleniach, łyszczykach oraz jako domieszka w boksytach, sfalerycie, wurcycie i germanicie",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Microcline.jpeg/1200px-Microcline.jpeg"
+      }
     },
     {
       "name": "German",
@@ -1208,7 +1332,11 @@
           "symbol": "Ge",
           "name": "German-76"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "German występuje jako pierwiastek rozproszony, rzadko w postaci własnych minerałów, germanitu i argyrodytu, zwykle jako domieszka w wielu siarczkach metali, zwłaszcza cynku i miedzi, obecny także w niektórych węglach kopalnych i w ropie naftowej.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Germanite.jpg/400px-Germanite.jpg"
+      }
     },
     {
       "name": "Arsen",
@@ -1236,7 +1364,11 @@
           "symbol": "As",
           "name": "Arsen-75"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Arsen może występować jako arsen rodzimy. Jest obecny także w powietrzu, w wodzie i glebie, dokąd trafia ze źródeł zarówno naturalnych jak i w wyniku działalności człowieka.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Native_arsenic.jpg"
+      }
     },
     {
       "name": "Selen",
@@ -1294,7 +1426,11 @@
           "symbol": "Se",
           "name": "Selen-82"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Selen występuje w różnych roślinach, w tym w pszenicy, ciecierzycy, żywie oraz fasoli. Produkty te mogą być dobrym źródłem selenu. Na przykład, 100 gramów pszenicy zawiera około 29 mikrogramów selenu, co pokrywa około 53% dziennego zapotrzebowania na ten pierwiastek.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Triticale.jpg/640px-Triticale.jpg"
+      }
     },
     {
       "name": "Brom",
@@ -1328,7 +1464,11 @@
           "symbol": "Br",
           "name": "Brom-81"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Brom występuje głównie pod postacią bromku sodu, występuje powszechnie w skorupie ziemskiej jako składnik piasków oraz soli kamiennej.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Great_Sand_Sea_-_Desert.jpg"
+      }
     },
     {
       "name": "Krypton",
@@ -1381,7 +1521,11 @@
           "symbol": "Kr",
           "name": "Krypton-86"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Krypton występuje w atmosferze ziemskiej w ilości ok. 1,14 ppm.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/ISS-47_Islands_In_The_Sky%2C_Indonesia.jpg/280px-ISS-47_Islands_In_The_Sky%2C_Indonesia.jpg"
+      }
     },
     {
       "name": "Rubid",
@@ -1415,7 +1559,11 @@
           "symbol": "Rb",
           "name": "Rubid-87"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Rubid często występuje w postaci związków, w minerałach potasu np. lepidolit, karnalit oraz w niektórych glinokrzemianach.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Lepidolita.jpeg/640px-Lepidolita.jpeg"
+      }
     },
     {
       "name": "Stront",
@@ -1461,7 +1609,11 @@
           "symbol": "Sr",
           "name": "Stront-88"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Stront występuje powszechnie w skałach osadowych zapadliska przedkarpackiego, oraz w skałach Sudetów",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Biale_Skaly1.jpg"
+      }
     },
     {
       "name": "Itr",
@@ -1489,7 +1641,11 @@
           "symbol": "Y",
           "name": "Itr-89"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Występuje w skorupie ziemskiej w ilości 29 ppm, m.in. w postaci monacytu (ok. 3% itru) i bastnazytu (ok. 0,2%)",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/6/61/Monazite_-_Rostadheia%2C_Iveland%2C_Norvegia_01.jpg"
+      }
     },
     {
       "name": "Cyrkon",
@@ -1541,7 +1697,11 @@
           "symbol": "Zr",
           "name": "Cyrkon-96"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Cyrkon stanowi rozpowszechniony składnik skał magmowych (granity, gnejsy, syenity) oraz osadowych (piaski cyrkonowe, żwiry)",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Granit_strzelinski2.JPG"
+      }
     },
     {
       "name": "Niob",
@@ -1569,7 +1729,11 @@
           "symbol": "Nb",
           "name": "Niob-93"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Występuje w skorupie ziemskiej w ilości 20 ppm. Minerałem tego pierwiastka jest kolumbit.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/5/50/Columbit.jpg"
+      }
     },
     {
       "name": "Molibden",
@@ -1633,7 +1797,11 @@
           "symbol": "Mo",
           "name": "Molibden-100"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Najwięcej Molibdenu występuje w glebach wapiennych i bagiennych.",
+        "photo": "https://www.fertilux.lu/wp-content/uploads/2021/05/terre-calcaire.jpg"
+      }
     },
     {
       "name": "Technet",
@@ -1673,7 +1841,8 @@
           "symbol": "Tc",
           "name": "Technet-99"
         }
-      ]
+      ],
+      "occurrence": null
     },
     {
       "name": "Ruten",
@@ -1737,7 +1906,11 @@
           "symbol": "Ru",
           "name": "Ruten-104"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Występuje głównie w stanie wolnym razem z innymi platynowcami, najczęściej w rudach siarczkowych żelaza, chromu i niklu.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Iron_electrolytic_and_1cm3_cube.jpg/800px-Iron_electrolytic_and_1cm3_cube.jpg"
+      }
     },
     {
       "name": "Rod",
@@ -1765,7 +1938,11 @@
           "symbol": "Rh",
           "name": "Rod-103"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Występuje w skorupie ziemskiej w śladowych ilościach rzędu 10−4 ppm. Otrzymuje się go z niektórych rud miedzi i niklu, w których występuje ok. 0,1% tego pierwiastka.",
+        "photo": "https://i0.wp.com/geologyscience.com/wp-content/uploads/2023/04/2006385-1646750776-nickel-2.jpg?resize=1024%2C576&ssl=1"
+      }
     },
     {
       "name": "Pallad",
@@ -1818,7 +1995,11 @@
           "symbol": "Pd",
           "name": "Pallad-110"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Występuje głównie jako zanieczyszczenie rud miedzi i cynku.",
+        "photo": "https://www.laboratuar.com/images/zn-cinko-cevher-mineral-analizi.jpg"
+      }
     },
     {
       "name": "Srebro",
@@ -1852,7 +2033,11 @@
           "symbol": "Ag",
           "name": "Srebro-109"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Srebro występuje w przyrodzie w postaci rodzimej, razem z siarką, arsenem, antymonem i chlorem, a także w rudach, takich jak argentyt.",
+        "photo": "https://mh-2-cdn.panthermedia.net/media/media_detail/0023000000/23392000/23392584_detail.jpg"
+      }
     },
     {
       "name": "Kadm",
@@ -1922,7 +2107,11 @@
           "symbol": "Cd",
           "name": "Kadm-116"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Występuje w powietrzu, wodzie i glebie oraz w roślinach i tkankach zwierząt.",
+        "photo": "https://greenland.pl/_userfiles/czym-jest-gleba.jpg"
+      }
     },
     {
       "name": "Ind",
@@ -1956,7 +2145,11 @@
           "symbol": "In",
           "name": "Ind-115"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "W przyrodzie często towarzyszy rudom cynku, żelaza, miedzi i cyny.",
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_ju8T5ZGaFRtEHUebAqdqF3u7M1VJwfXFi9UACgJbDQ&s"
+      }
     },
     {
       "name": "Cyna",
@@ -2038,7 +2231,11 @@
           "symbol": "Sn",
           "name": "Cyna-124"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Najczęściej spotykane minerały zawierające cynę to tlenek-kasyteryt i siarczek–stannin.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/2/2e/CassiteriteUSGOV.jpg"
+      }
     },
     {
       "name": "Antymon",
@@ -2072,7 +2269,11 @@
           "symbol": "Sb",
           "name": "Antymon-123"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Antymon występuje w przyrodzie w postaci rud zwanych antymonitem i ulmanitem.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Ullmannite_-_Mt_Narba_-_Sardinia.JPG"
+      }
     },
     {
       "name": "Tellur",
@@ -2142,7 +2343,11 @@
           "symbol": "Te",
           "name": "Tellur-130"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Tellur występuje w minerale tellur.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Tellurium_crystal.jpg/640px-Tellurium_crystal.jpg"
+      }
     },
     {
       "name": "Jod",
@@ -2170,7 +2375,11 @@
           "symbol": "I",
           "name": "Jod-127"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Jod występuje w przyrodzie głównie w algach morskich i niektórych gatunkach ryb, szczególnie tych poławianych w zimnych wodach. Zawartość jodu w rybach może się różnić w zależności od gatunku i regionu połowu.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/2/23/Georgia_Aquarium_-_Giant_Grouper_edit.jpg"
+      }
     },
     {
       "name": "Ksenon",
@@ -2246,7 +2455,11 @@
           "symbol": "Xe",
           "name": "Ksenon-136"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Ksenon jest rzadkim pierwiastkiem na Ziemi, występującym głównie w atmosferze w stężeniu 0.087 ppm. Można go także znaleźć w niektórych wodach źródlanych oraz w meteorytach.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/7/71/ChingaMeteorite.jpg"
+      }
     },
     {
       "name": "Cez",
@@ -2274,7 +2487,11 @@
           "symbol": "Cs",
           "name": "Cez-133"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Cez występuje w minerale pollucyt, który zawiera około 20% cezu.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Pollucite%28CesiumMineral%29USGOV.jpg"
+      }
     },
     {
       "name": "Bar",
@@ -2338,7 +2555,11 @@
           "symbol": "Ba",
           "name": "Bar-138"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Bar występuje w postaci minerałów, takich jak baryt oraz witeryt.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Barite_-_Cerro_Warihuyn%2C_Miraflores%2C_Huamalies%2C_Huanuco%2C_Peru.jpg/1200px-Barite_-_Cerro_Warihuyn%2C_Miraflores%2C_Huamalies%2C_Huanuco%2C_Peru.jpg"
+      }
     },
     {
       "name": "Lantan",
@@ -2372,7 +2593,11 @@
           "symbol": "La",
           "name": "Lantan-139"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Lantan występuje w minerałach takich jak monacyt, bastnazyt, ceryt fluorowy i parazyt.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/6/61/Monazite_-_Rostadheia%2C_Iveland%2C_Norvegia_01.jpg"
+      }
     },
     {
       "name": "Cer",
@@ -2418,7 +2643,11 @@
           "symbol": "Ce",
           "name": "Cer-142"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Cer występuje w minerałach takich jak monacyt, bastnazyt, ceryt fluorowy i parazyt.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bastnaesite_w-limonite_barite_and_calcite_Fluocarbonate_of_the_cerium_metals_Mount_Pass_Station_near_Baker_San_Bernardino_County_California_2309.jpg/640px-Bastnaesite_w-limonite_barite_and_calcite_Fluocarbonate_of_the_cerium_metals_Mount_Pass_Station_near_Baker_San_Bernardino_County_California_2309.jpg"
+      }
     },
     {
       "name": "Prazeodym",
@@ -2446,7 +2675,11 @@
           "symbol": "Pr",
           "name": "Prazeodym-141"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Prazeodym występuje w minerałach takich jak monacyt, bastnazyt.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Monazite-48115.jpg"
+      }
     },
     {
       "name": "Neodym",
@@ -2510,7 +2743,11 @@
           "symbol": "Nd",
           "name": "Neodym-150"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Neodym występuje w minerałach takich jak monacyt, bastnazyt.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bastnaesite_w-limonite_barite_and_calcite_Fluocarbonate_of_the_cerium_metals_Mount_Pass_Station_near_Baker_San_Bernardino_County_California_2309.jpg/640px-Bastnaesite_w-limonite_barite_and_calcite_Fluocarbonate_of_the_cerium_metals_Mount_Pass_Station_near_Baker_San_Bernardino_County_California_2309.jpg"
+      }
     },
     {
       "name": "Promet",
@@ -2533,7 +2770,8 @@
           "symbol": "Pm",
           "name": "Promet-147"
         }
-      ]
+      ],
+      "occurrence": null
     },
     {
       "name": "Samar",
@@ -2592,7 +2830,11 @@
           "symbol": "Sm",
           "name": "Samar-154"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Samar występuje w minerałach takich jak monacyt.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Monazite-%28Ce%29-164025.jpg"
+      }
     },
     {
       "name": "Europ",
@@ -2621,7 +2863,11 @@
           "symbol": "Eu",
           "name": "Europ-153"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Europ występuje w minerałach takich jak monacyt i bastnezyt.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bastnaesite_w-limonite_barite_and_calcite_Fluocarbonate_of_the_cerium_metals_Mount_Pass_Station_near_Baker_San_Bernardino_County_California_2309.jpg/240px-Bastnaesite_w-limonite_barite_and_calcite_Fluocarbonate_of_the_cerium_metals_Mount_Pass_Station_near_Baker_San_Bernardino_County_California_2309.jpg"
+      }
     },
     {
       "name": "Gadolin",
@@ -2685,7 +2931,11 @@
           "symbol": "Gd",
           "name": "Gadolin-160"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Gadolin występuje w minerałach takich jak monacyt i bastnezyt.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Monazite_-_Rostadheia%2C_Iveland%2C_Norvegia_01.jpg/240px-Monazite_-_Rostadheia%2C_Iveland%2C_Norvegia_01.jpg"
+      }
     },
     {
       "name": "Terb",
@@ -2713,7 +2963,11 @@
           "symbol": "Tn",
           "name": "Terb-159"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Terb występuje w minerałach takich jak monacyt, najczęściej pozyskiwany z tzw. piasków monacytowych.",
+        "photo": "https://globexia.com/wp-content/uploads/2023/07/monazite-sand-ore-mineral-supply-export-nigeria-africa-globexia-1.jpeg"
+      }
     },
     {
       "name": "Dysproz",
@@ -2777,7 +3031,11 @@
           "symbol": "Dy",
           "name": "Dysproz-164"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Dysproz występuje w skorupie ziemskiej w postaci minerałów, takich jak monacyt.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/6/61/Monazite_-_Rostadheia%2C_Iveland%2C_Norvegia_01.jpg"
+      }
     },
     {
       "name": "Holm",
@@ -2800,7 +3058,11 @@
           "symbol": "Ho",
           "name": "Holm-165"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Holm występuje w skorupie ziemskiej w postaci minerałów, takich jak monacyt.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/6/61/Monazite_-_Rostadheia%2C_Iveland%2C_Norvegia_01.jpg"
+      }
     },
     {
       "name": "Erb",
@@ -2853,7 +3115,11 @@
           "symbol": "Er",
           "name": "Erb-170"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Erb występuje w skorupie ziemskiej w postaci minerałów, takich jak monacyt.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/6/61/Monazite_-_Rostadheia%2C_Iveland%2C_Norvegia_01.jpg"
+      }
     },
     {
       "name": "Tul",
@@ -2876,7 +3142,11 @@
           "symbol": "Tm",
           "name": "Tul-169"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Tul występuje w skorupie ziemskiej w postaci minerałów, takich jak monacyt.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/6/61/Monazite_-_Rostadheia%2C_Iveland%2C_Norvegia_01.jpg"
+      }
     },
     {
       "name": "Iterb",
@@ -2935,7 +3205,11 @@
           "symbol": "Yb",
           "name": "Iterb-176"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Iterb występuje w skorupie ziemskiej w postaci minerałów, takich jak ksenotym, monacyt.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Xenot%C3%ADmio1.jpeg"
+      }
     },
     {
       "name": "Lutet",
@@ -2964,7 +3238,11 @@
           "symbol": "Lu",
           "name": "Lutet-176"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Lutet występuje w skorupie ziemskiej w postaci minerałów, takich jak euksenit, bastnazyt i monacyt.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bastnaesite_w-limonite_barite_and_calcite_Fluocarbonate_of_the_cerium_metals_Mount_Pass_Station_near_Baker_San_Bernardino_County_California_2309.jpg/640px-Bastnaesite_w-limonite_barite_and_calcite_Fluocarbonate_of_the_cerium_metals_Mount_Pass_Station_near_Baker_San_Bernardino_County_California_2309.jpg"
+      }
     },
     {
       "name": "Hafn",
@@ -3022,7 +3300,11 @@
           "symbol": "Hf",
           "name": "Hafn-180"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Hafn występuje w skorupie ziemskiej w postaci minerałów, takich jak hafnon.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hafnon.jpg/220px-Hafnon.jpg"
+      }
     },
     {
       "name": "Tantal",
@@ -3056,7 +3338,11 @@
           "symbol": "Ta",
           "name": "Tantal-181"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Tantal występuje w skorupie ziemskiej w postaci minerałów, takich jak koltan i jest niezwykle rzadki.",
+        "photo": "https://9.allegroimg.com/s1024/0c8f73/4c2b79e24dcba3874da5c212f859"
+      }
     },
     {
       "name": "Wolfram",
@@ -3108,7 +3394,11 @@
           "symbol": "W",
           "name": "Wolfram-186"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Wolfram występuje w skorupie ziemskiej w postaci minerałów, takich jak wolframit.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Mineral_Wolframio_GDFL049.jpg"
+      }
     },
     {
       "name": "Ren",
@@ -3137,7 +3427,11 @@
           "symbol": "Re",
           "name": "Ren-187"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Ren występuje w skorupie ziemskiej w postaci minerałów, takich jak renit. Jest bardzo rzadki, a jego wydobycie jest bardzo drogie.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Osmium_crystals.jpg"
+      }
     },
     {
       "name": "Osm",
@@ -3196,7 +3490,11 @@
           "symbol": "Os",
           "name": "Osm-192"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Osm występuje w skorupie ziemskiej w postaci minerałów, takich jak osmiryd. Jest jednym z najrzadszych pierwiastków występujących w skorupie ziemskiej. Osm jest również obecny w niektórych meteorytach, co sugeruje, że pierwiastek ten mógł być dostarczony na Ziemię przez meteoryty.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Osmium_crystals.jpg"
+      }
     },
     {
       "name": "Iryd",
@@ -3230,7 +3528,11 @@
           "symbol": "Ir",
           "name": "Iryd-193"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Iryd występuje dość powszechnie w skorupie ziemskiej. Występuje w cienkiej warstwie gliny na całym świecie. Ta cienka warstwa określa okres między kredą a trzeciorzędem. Iryd więc w takich ilościach pochodzi prawdopodobnie od asteroidy, która uderzyła w Ziemię, doprowadzając do wyginięcia dinozaurów. Iryd jest również obecny w niektórych minerałach, takich jak osmiryd.",
+        "photo": "https://informacjebranzowe.pl/uploads/nowosci/zdjecie/d/2da9574811bc7ae67a00ad3e53fca83a0013c6d1.jpeg"
+      }
     },
     {
       "name": "Platyna",
@@ -3288,7 +3590,11 @@
           "symbol": "Pt",
           "name": "Platyna-198"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Platyna występuje w skorupie ziemskiej w postaci minerałów, takich jak sperrylit, cooperit i braggite.",
+        "photo": "https://www.medianauka.pl/fizyka/grafika/platyna.jpg"
+      }
     },
     {
       "name": "Złoto",
@@ -3316,7 +3622,11 @@
           "symbol": "Au",
           "name": "Złoto-197"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Występuje w postaci rodzimej i rudach. W postaci rodzimej złoto jest znajdowane w postaci ziaren, samorodków, żyłach i aluwialnych osadów.",
+        "photo": "https://dasenmining.com/wp-content/uploads/2021/11/%E9%87%91%E7%9F%BF%E7%9F%B3%E6%B0%A7%E5%8C%96%E7%9F%BF.jpg"
+      }
     },
     {
       "name": "Rtęć",
@@ -3380,7 +3690,11 @@
           "symbol": "Hg",
           "name": "Rtęć-204"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Rtęć występuje w skorupie ziemskiej w postaci minerałów, takich jak cynober (najważniejsza ruda rtęci).",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Cinnabar-172404.jpg"
+      }
     },
     {
       "name": "Tal",
@@ -3414,7 +3728,11 @@
           "symbol": "Tl",
           "name": "Tal-205"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Tal występuje w skorupie ziemskiej w różnych rzadkich minerałach i w rudach jako zanieczyszczenie.",
+        "photo": "https://nettg.pl/tmp/uploads/images/2021-07/crop-900-600/1627464389-rudamiedzi3_kk.jpg"
+      }
     },
     {
       "name": "Ołów",
@@ -3460,7 +3778,11 @@
           "symbol": "Pb",
           "name": "Ołów-208"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Ołów występuje w środowisku naturalnym w postaci minerałów, takich jak galena, cerusyt. (rudy ołowiu)",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Galena_-_Huallanca%2C_Bologesi%2C_Ancash%2C_Peru.jpg/800px-Galena_-_Huallanca%2C_Bologesi%2C_Ancash%2C_Peru.jpg"
+      }
     },
     {
       "name": "Bizmut",
@@ -3488,7 +3810,11 @@
           "symbol": "Bi",
           "name": "Bizmut-209"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Bizmut występuje w środowisku naturalnym w postaci minerałów, takich jak bizmutyn.",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/5/59/Bismutit_%28Wismutcarbonat%29_-_Schneeberg%2C_Erzgebirge.jpg"
+      }
     },
     {
       "name": "Polon",
@@ -3517,7 +3843,11 @@
           "symbol": "Po",
           "name": "Polon-210"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Polon występuje w środowisku naturalnym w rudach uranu jako tlenek",
+        "photo": "https://i.gremicdn.pl/image/free/088a57709f867863c454072ce19f54a0/?t=crop:5472:3393:nowe:0:127,resize:fill:948:592,enlarge:1"
+      }
     },
     {
       "name": "Astat",
@@ -3546,7 +3876,8 @@
           "symbol": "At",
           "name": "Astat-211"
         }
-      ]
+      ],
+      "occurrence": null
     },
     {
       "name": "Radon",
@@ -3586,10 +3917,14 @@
           "symbol": "Rn",
           "name": "Radon-222"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Radon występuje w środowisku naturalnym w postaci gazowej np. w glebie, wodzie i skałach.",
+        "photo": "https://upwr.edu.pl/thumb/6GBUJIA1JEEcnWQIxBAZWBkdQSS4tAR4HRWcRUBIfWHdBURMnAUoTGCBAGDcJB21MaxUfJy4MAT5GNRRTCh4ZEUxQFiQTVy5regVEaBBQBVNoXUF4fVsxTVh3Qx1EERMhBhVAaQNVKlU0HRM0BxRfAhoYAy9uQU8SGyoLVAUDJSQHFUBpURtjFTlRGj9KWRMTWFBfajwMCgc2LAUTXEZWbwBYFD8WViNbMEJWYkoNVBRHERI8KQoCEBBnTRMVHgAoQQ0UPghVMg/gleba-glowna.jpg"
+      }
     },
     {
-      "name": "Franc",
+      "name": "Frans",
       "symbol": "Fr",
       "atomicNumber": 87,
       "atomicWeight": 223,
@@ -3603,7 +3938,8 @@
           "symbol": "Fr",
           "name": "Frans-223"
         }
-      ]
+      ],
+      "occurrence": null
     },
     {
       "name": "Rad",
@@ -3649,7 +3985,11 @@
           "symbol": "Ra",
           "name": "Rad-228"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Rad występuje w rudzie uranu",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/4/47/Blenda_smolista2.jpg"
+      }
     },
     {
       "name": "Aktyn",
@@ -3666,7 +4006,11 @@
           "symbol": "Ac",
           "name": "Aktyn-227"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Aktyn występuje w rudzie uranu",
+        "photo": "https://e-dolnyslask.info/wp-content/uploads/2021/03/ruda-uranu.jpg"
+      }
     },
     {
       "name": "Tor",
@@ -3695,7 +4039,11 @@
           "symbol": "Th",
           "name": "Tor-232"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Tor występuje w skorupie ziemskiej w postaci minerałów, takich jak monacyt",
+        "photo": "https://mineralia.com.pl/1937-fancybox/fergusonitmonacyt-oraz-gadolinit-ze-szklarskiej-poreby.jpg"
+      }
     },
     {
       "name": "Protaktyn",
@@ -3718,7 +4066,11 @@
           "symbol": "Pa",
           "name": "Protaktyn-231"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Śladowe ilości protaktynu występują w skorupie ziemskiej w minerałach, takich jak uraninit i monacyt",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/6/61/Monazite_-_Rostadheia%2C_Iveland%2C_Norvegia_01.jpg"
+      }
     },
     {
       "name": "Uran",
@@ -3770,7 +4122,11 @@
           "symbol": "U",
           "name": "Uran-238"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Uran występuje w skorupie ziemskiej w postaci minerałów, takich jak uraninit, karnotyt i torbernit",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Torbernite_Aveyron_HD.jpg/1200px-Torbernite_Aveyron_HD.jpg"
+      }
     },
     {
       "name": "Neptun",
@@ -3799,7 +4155,8 @@
           "symbol": "Np",
           "name": "Neptun-237"
         }
-      ]
+      ],
+      "occurrence": null
     },
     {
       "name": "Pluton",
@@ -3852,7 +4209,11 @@
           "symbol": "Pu",
           "name": "Pluton-244"
         }
-      ]
+      ],
+      "occurrence": {
+        "name": "Śladowe ilości plutonu występują w rudach uranu",
+        "photo": "https://img.freepik.com/premium-zdjecie/ruda-uranu-w-kopalni-koncepcja-promieniowania-mineralnego-energia-radioaktywna_72932-1641.jpg"
+      }
     },
     {
       "name": "Ameryk",
@@ -3881,7 +4242,8 @@
           "symbol": "Am",
           "name": "Ameryk-243"
         }
-      ]
+      ],
+      "occurrence": null
     },
     {
       "name": "Kiur",
@@ -3934,7 +4296,8 @@
           "symbol": "Cm",
           "name": "Kiur-248"
         }
-      ]
+      ],
+      "occurrence": null
     },
     {
       "name": "Berkel",
@@ -3957,7 +4320,8 @@
           "symbol": "Bk",
           "name": "Berkel-249"
         }
-      ]
+      ],
+      "occurrence": null
     },
     {
       "name": "Kaliforn",
@@ -4003,7 +4367,8 @@
           "symbol": "Cf",
           "name": "Kaliforn-KK"
         }
-      ]
+      ],
+      "occurrence": null
     },
     {
       "name": "Einstein",
@@ -4020,7 +4385,8 @@
           "symbol": "Es",
           "name": "Einstein-252"
         }
-      ]
+      ],
+      "occurrence": null
     },
     {
       "name": "Ferm",
@@ -4037,7 +4403,8 @@
           "symbol": "Fm",
           "name": "Ferm-257"
         }
-      ]
+      ],
+      "occurrence": null
     },
     {
       "name": "Mendelew",
@@ -4060,7 +4427,8 @@
           "symbol": "Md",
           "name": "Mendelew-260"
         }
-      ]
+      ],
+      "occurrence": null
     },
     {
       "name": "Nobel",
@@ -4077,7 +4445,8 @@
           "symbol": "No",
           "name": "Nobel-259"
         }
-      ]
+      ],
+      "occurrence": null
     },
     {
       "name": "Lorens",
@@ -4094,7 +4463,8 @@
           "symbol": "Lr",
           "name": "Lorens-262"
         }
-      ]
+      ],
+      "occurrence": null
     },
     {
       "name": "Rutherford",
@@ -4111,7 +4481,8 @@
           "symbol": "Rf",
           "name": "Rutherford-265"
         }
-      ]
+      ],
+      "occurrence": null
     },
     {
       "name": "Dubn",
@@ -4128,7 +4499,8 @@
           "symbol": "Db",
           "name": "Dubn-268"
         }
-      ]
+      ],
+      "occurrence": null
     },
     {
       "name": "Seaborg",
@@ -4145,7 +4517,8 @@
           "symbol": "Sg",
           "name": "Seaborg-271"
         }
-      ]
+      ],
+      "occurrence": null
     },
     {
       "name": "Bohr",
@@ -4162,7 +4535,8 @@
           "symbol": "Bh",
           "name": "Bohr-272"
         }
-      ]
+      ],
+      "occurrence": null
     },
     {
       "name": "Has",
@@ -4179,7 +4553,8 @@
           "symbol": "Hs",
           "name": "Has-270"
         }
-      ]
+      ],
+      "occurrence": null
     },
     {
       "name": "Meitner",
@@ -4196,7 +4571,8 @@
           "symbol": "Mt",
           "name": "Meitner-276"
         }
-      ]
+      ],
+      "occurrence": null
     },
     {
       "name": "Darmstadt ",
@@ -4213,7 +4589,8 @@
           "symbol": "Ds",
           "name": "Darmstadt-281"
         }
-      ]
+      ],
+      "occurrence": null
     },
     {
       "name": "Roentgen",
@@ -4230,7 +4607,8 @@
           "symbol": "Rg",
           "name": "Roentgen-280"
         }
-      ]
+      ],
+      "occurrence": null
     },
     {
       "name": "Kopernik",
@@ -4247,7 +4625,8 @@
           "symbol": "Cn",
           "name": "Kopernik-285"
         }
-      ]
+      ],
+      "occurrence": null
     },
     {
       "name": "Nihon",
@@ -4264,7 +4643,8 @@
           "symbol": "Nh",
           "name": "Nihon-286"
         }
-      ]
+      ],
+      "occurrence": null
     },
     {
       "name": "Flerow",
@@ -4281,7 +4661,8 @@
           "symbol": "Fl",
           "name": "Flerow-289"
         }
-      ]
+      ],
+      "occurrence": null
     },
     {
       "name": "Moscow",
@@ -4298,7 +4679,8 @@
           "symbol": "Mc",
           "name": "Moscow-289"
         }
-      ]
+      ],
+      "occurrence": null
     },
     {
       "name": "Liwermor",
@@ -4315,7 +4697,8 @@
           "symbol": "Lv",
           "name": "Liwermor-294"
         }
-      ]
+      ],
+      "occurrence": null
     },
     {
       "name": "Tenes",
@@ -4338,7 +4721,8 @@
           "symbol": "Ts",
           "name": "Tenes-294"
         }
-      ]
+      ],
+      "occurrence": null
     },
     {
       "name": "Oganeson",
@@ -4355,7 +4739,8 @@
           "symbol": "Og",
           "name": "Oganeson-294"
         }
-      ]
+      ],
+      "occurrence": null
     }
   ]
 }

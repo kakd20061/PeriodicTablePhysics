@@ -61,6 +61,10 @@
           <div class="w-100">
               <h3 class="mb-4 fw-bold border-primary title">Kod QR</h3>
           </div>
+          <div class="form-floating w-100">
+            <input type="text" class="form-control border-search" @oninput="valueChangedQR" value="@QRCodeText" id="floatingQRInput" placeholder="qrCodeLinkInput">
+            <label for="floatingQRInput">Wpisz link</label>
+          </div>
           <div class="d-flex justify-content-center w-100">
             <img class="img-fluid photo-legend mt-3" src="@QRByte" alt="kod QR">
           </div>
@@ -107,6 +111,32 @@
                                 <hr/>
                             </li>
                         }
+                        @if (selectedElement.occurrence is not null)
+                        {
+                            <li class="list-unstyled w-100">
+                                <div class="d-flex justify-content-around w-100">
+                                    <h3 class="mb-4 fw-bold border-primary title upper">Występowanie w przyrodzie</h3>
+                                </div>
+                                <div class="d-flex flex-row justify-content-around align-items-center w-100 content-flex-wrap">
+                                    <img src="@selectedElement.occurrence.photo" class="img-fluid img-thumbnail photo m-3 mt-0" alt="wystepowanie_w_przyrodzie"/>
+                                    <p class="flex-grow-1 text-wrap p-3 content-text-center fs-4 firstletter">@selectedElement.occurrence.name</p>
+                                </div>
+                                <hr/>
+                            </li>
+                        }
+                        else
+                        {
+                            <li class="list-unstyled w-100">
+                                <div class="d-flex justify-content-around w-100">
+                                    <h3 class="mb-4 fw-bold border-primary title">Występowanie w przyrodzie</h3>
+                                </div>
+                                <div class="d-flex flex-row justify-content-around align-items-center w-100 content-flex-wrap">
+                                    <p class="flex-grow-1 text-wrap p-3 content-text-center fs-4 firstletter">Ten pierwiastek nie występuje w przyrodzie, więc jest otrzymywany sztucznie.</p>
+                                </div>
+                                <hr/>
+                            </li>
+                        }
+
                         <li class="list-unstyled w-100">
                             <div class="d-flex justify-content-around w-100">
                                 <h3 class="mb-4 fw-bold border-primary title upper">Przykładowe izotopy</h3>
@@ -159,17 +189,50 @@
   <div class="modal-dialog modal-dialog-centered">
     <div class="modal-content">
       <div class="modal-header">
-        <h1 class="modal-title fs-5" id="noUsageLabel">Przykładowe izotopy</h1>
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                <h1 class="modal-title d-flex align-items-center flex-row fs-4 fw-bold" id="elementModalLabel">
+                    <div class="bg-blue mini-chemicalElement fs-5 fw-bold me-3">
+                        @(selectedElement != null ? selectedElement.symbol : "Symbol")
+                    </div>
+                    @(selectedElement != null ? selectedElement.name : "Element name")
+                </h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
+          @if (selectedElement?.occurrence != null)
+          {
+              <div class="w-100">
+                  <div class="d-flex justify-content-around w-100">
+                      <h3 class="mb-4 fw-bold border-primary title">Występowanie w przyrodzie</h3>
+                  </div>
+                  <div class="d-flex flex-row justify-content-around align-items-center w-100 content-flex-wrap">
+                      <img src="@selectedElement.occurrence.photo" class="img-fluid img-thumbnail photo m-3 mt-0" alt="wystepowanie_w_przyrodzie"/>
+                      <p class="flex-grow-1 text-wrap p-3 content-text-center fs-4 firstletter">@selectedElement.occurrence.name</p>
+                  </div>
+                  <hr/>
+              </div>
+          }
+          else
+          {
+              <div class=" w-100">
+                  <div class="d-flex justify-content-around w-100">
+                      <h3 class="mb-4 fw-bold border-primary title upper">Występowanie w przyrodzie</h3>
+                  </div>
+                  <div class="d-flex flex-row justify-content-around align-items-center w-100 content-flex-wrap">
+                      <p class="flex-grow-1 text-wrap p-3 content-text-center fs-4 firstletter">Ten pierwiastek nie występuje w przyrodzie, więc jest otrzymywany sztucznie.</p>
+                  </div>
+                  <hr/>
+              </div>
+          }
+          <div class="d-flex justify-content-around w-100">
+              <h3 class="mb-4 fw-bold border-primary title">Przykładowe izotopy</h3>
+          </div>
           <div class="d-flex flex-column mt-3">
               <div class="d-flex flex-row align-items-center">
-                  <div class="square bg-green me-3 ms-3 my-1"></div> 
+                  <div class="square bg-green me-3 ms-3 my-1"></div>
                   <span>izotopy naturalne</span>
               </div>
               <div class="d-flex flex-row align-items-center">
-                  <div class="square bg-null me-3 ms-3 my-1"></div> 
+                  <div class="square bg-null me-3 ms-3 my-1"></div>
                   <span>izotopy sztuczne</span>
               </div>
           </div>
@@ -254,7 +317,11 @@
             }
         }
     }
-
+    private void valueChangedQR(ChangeEventArgs e)
+    {
+        QRCodeText = e.Value.ToString();
+        GenerateQRCode();
+    }
     private void selectElement(Element element)
     {
         selectedElement = element;
