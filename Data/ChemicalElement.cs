@@ -15,6 +15,13 @@ public class Element
     
     public List<Isotopes> isotopes { get; set; }
     public Occurrence? occurrence { get; set; }
+
+    public bool IsMetal()
+    {
+        var nonMetalsNumber = new List<int> {1, 2, 5, 6, 7, 8, 9, 10, 14, 15, 16, 17, 18, 33, 34, 35, 36, 52, 53, 54, 85, 86, 118};
+        
+        return !nonMetalsNumber.Contains(atomicNumber);
+    }
 }
 
 public class Usage

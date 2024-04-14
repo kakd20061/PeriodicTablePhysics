@@ -5,13 +5,22 @@
 .border-search {
     border-radius: 10px !important;
 }
-.bg-blue {
+.bg-metal {
     background: radial-gradient(
             circle,
-            #0e81fa 30%,
-            #005ebe 100%
+            #10b981 30%,
+            #059669 100%
     );
 }
+
+.bg-nonmetal {
+    background: radial-gradient(
+            circle,
+            #d97706 30%,
+            #b45309 100%
+    );
+}
+
 .upper {
     text-transform: capitalize;
 }
@@ -64,7 +73,7 @@
 }
 
 .photo-legend {
-    max-width: 60vw;
+    max-width: 70vw;
 }
 
 h1 {

@@ -24,7 +24,8 @@
     {
         @foreach (var element in chemicalElements)
         {
-            <button class="bg-blue chemical_element" @onclick="()=>selectElement(element)" data-bs-toggle="modal" data-bs-target='@(!element.usage.Any()?"#noUsage":"#elementModal")'>
+
+            <button class="@(element.IsMetal()?"bg-metal":"bg-nonmetal") chemical_element" @onclick="()=>selectElement(element)" data-bs-toggle="modal" data-bs-target='@(!element.usage.Any()?"#noUsage":"#elementModal")'>
                 <div>@element.atomicNumber</div>
                 <h1>@element.symbol</h1>
                 <div>@element.name</div>
@@ -54,8 +55,13 @@
           <div class="w-100">
               <h3 class="mb-4 fw-bold border-primary title">Legenda</h3>
           </div>
+          <h6 class="text-center mt-3">Niemetale</h6>
           <div class="d-flex justify-content-center w-100">
-            <img class="img-fluid photo-legend mt-3" src="legend.png" alt="Legenda">
+              <img class="img-fluid photo-legend mt-3" src="Group_1.svg" alt="Legenda">
+          </div>
+          <h6 class="text-center mt-3">Metale</h6>
+          <div class="d-flex justify-content-center w-100">
+            <img class="img-fluid photo-legend mt-3" src="Group_1_1.svg" alt="Legenda2">
           </div>
           <hr/>
           <div class="w-100">
@@ -283,7 +289,7 @@
         var result = await _service.GetChemicalElements();
         chemicalElements = result.elements.ToList();
         basicElements = result.elements.ToList();
-        QRCodeText = "https://drive.google.com/file/d/1k0FTV3Zyc-iT-JfduL6q7afXT28CZqnf/view?usp=sharing";
+        QRCodeText = "https://drive.google.com/file/d/1Vzo6sFBFC2rPXA50v_RnzUPbbaNSx1hm/view?usp=sharing";
         GenerateQRCode();
     }
     

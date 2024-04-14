@@ -54,7 +54,6 @@
 
     <ItemGroup>
         <!-- App Icon -->
-        <MauiAsset Include="wwwroot\legend.png" />
         <MauiIcon Include="Resources\AppIcon\appicon.svg" ForegroundFile="Resources\AppIcon\appiconfg.svg" Color="#ffffff" />
 
         <!-- Splash Screen -->
