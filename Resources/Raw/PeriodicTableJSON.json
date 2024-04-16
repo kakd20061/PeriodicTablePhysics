@@ -224,7 +224,7 @@
         },
         {
           "mass": 14,
-          "naturalAbundance": null,
+          "naturalAbundance": -1,
           "symbol": "C",
           "name": "Węgiel-14"
         }
@@ -3839,7 +3839,7 @@
         },
         {
           "mass": 210,
-          "naturalAbundance": null,
+          "naturalAbundance": -1,
           "symbol": "Po",
           "name": "Polon-210"
         }
@@ -3901,19 +3901,19 @@
       "isotopes": [
         {
           "mass": 219,
-          "naturalAbundance": null,
+          "naturalAbundance": -1,
           "symbol": "Rn",
           "name": "Radon-219"
         },
         {
           "mass": 220,
-          "naturalAbundance": null,
+          "naturalAbundance": -1,
           "symbol": "Rn",
           "name": "Radon-220"
         },
         {
           "mass": 222,
-          "naturalAbundance": null,
+          "naturalAbundance": -1,
           "symbol": "Rn",
           "name": "Radon-222"
         }
@@ -3963,25 +3963,25 @@
       "isotopes": [
         {
           "mass": 223,
-          "naturalAbundance": null,
+          "naturalAbundance": -1,
           "symbol": "Ra",
           "name": "Rad-223"
         },
         {
           "mass": 224,
-          "naturalAbundance": null,
+          "naturalAbundance": -1,
           "symbol": "Ra",
           "name": "Rad-224"
         },
         {
           "mass": 226,
-          "naturalAbundance": null,
+          "naturalAbundance": -1,
           "symbol": "Ra",
           "name": "Rad-226"
         },
         {
           "mass": 228,
-          "naturalAbundance": null,
+          "naturalAbundance": -1,
           "symbol": "Ra",
           "name": "Rad-228"
         }
@@ -4002,7 +4002,7 @@
       "isotopes": [
         {
           "mass": 227,
-          "naturalAbundance": null,
+          "naturalAbundance": -1,
           "symbol": "Ac",
           "name": "Aktyn-227"
         }
